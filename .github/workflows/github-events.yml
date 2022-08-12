@@ -44,7 +44,7 @@ jobs:
       # ============================================
       - name: Run github events
         run: |
-          python main.py run
+          cd src && python main.py run
 
       # ============================================
       # TODO [√] 更新仓库数据
