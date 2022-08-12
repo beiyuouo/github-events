@@ -13,8 +13,8 @@ jobs:
     env:
       TIME_ZONE: "Asia/Shanghai"
       RUN_ENV: "production" # within ['production', 'development']
-      GITHUB_TOKEN: ${secrets.GITHUB_TOKEN}
-      AUTH_TOKEN: ${secrets.AUTH_TOKEN}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
 
     steps:
       # ============================================

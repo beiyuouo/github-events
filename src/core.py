@@ -19,9 +19,9 @@ class Core(object):
 
     def __init__(self):
         self.g = Github(self.AUTH_TOKEN)
-        print("Github token:", self.GITHUB_TOKEN)
-        print("Auth token:", self.AUTH_TOKEN)
-        print("Time zone:", self.TIME_ZONE)
+        # print("Github token:", self.GITHUB_TOKEN)
+        # print("Auth token:", self.AUTH_TOKEN)
+        # print("Time zone:", self.TIME_ZONE)
 
     def run(self):
         utils.cache_events(self.g, pytz.timezone(self.TIME_ZONE))
