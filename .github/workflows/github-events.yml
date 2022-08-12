@@ -13,6 +13,8 @@ jobs:
     env:
       TIME_ZONE: "Asia/Shanghai"
       RUN_ENV: "production" # within ['production', 'development']
+      GITHUB_TOKEN: ${secret.GITHUB_TOKEN}
+      AUTH_TOKEN: ${secret.AUTH_TOKEN}
 
     steps:
       # ============================================
@@ -43,10 +45,6 @@ jobs:
       - name: Run github events
         run: |
           python main.py run
-        with:
-          GITHUB_TOKEN: ${secret.GITHUB_TOKEN}
-          AUTH_TOKEN: ${secret.AUTH_TOKEN}
-          TIME_ZONE: ${env.TIME_ZONE}
 
       # ============================================
       # TODO [√] 更新仓库数据
