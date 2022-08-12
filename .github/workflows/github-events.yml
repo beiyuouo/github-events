@@ -13,8 +13,8 @@ jobs:
     env:
       TIME_ZONE: "Asia/Shanghai"
       RUN_ENV: "production" # within ['production', 'development']
-      GITHUB_TOKEN: ${secret.GITHUB_TOKEN}
-      AUTH_TOKEN: ${secret.AUTH_TOKEN}
+      GITHUB_TOKEN: ${secrets.GITHUB_TOKEN}
+      AUTH_TOKEN: ${secrets.AUTH_TOKEN}
 
     steps:
       # ============================================
@@ -55,5 +55,5 @@ jobs:
       - name: Push done work
         run: |
           git add --all
-          git commit -m "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
+          git commit -m "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TIME_ZONE }}"
           git push --force origin main
