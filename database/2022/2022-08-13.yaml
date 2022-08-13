@@ -215,3 +215,34 @@
     name: beiyuouo/github-events
     url: https://api.github.com/repos/beiyuouo/github-events
   type: PushEvent
+'23416299350':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-13T02:29:45Z'
+  id: '23416299350'
+  payload:
+    before: 8aa696bc2da4203cb81819e353710c0750ad889e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: actions'
+      sha: b225a1ced4e22c9c266d9cc630025f39d767dd46
+      url: https://api.github.com/repos/beiyuouo/github-events/commits/b225a1ced4e22c9c266d9cc630025f39d767dd46
+    distinct_size: 1
+    head: b225a1ced4e22c9c266d9cc630025f39d767dd46
+    push_id: 10716961426
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 524011786
+    name: beiyuouo/github-events
+    url: https://api.github.com/repos/beiyuouo/github-events
+  type: PushEvent
