@@ -407,3 +407,76 @@
     name: beiyuouo/github-events
     url: https://api.github.com/repos/beiyuouo/github-events
   type: PushEvent
+'23435572377':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-15T09:26:18Z'
+  id: '23435572377'
+  payload:
+    before: 7cf04efee77c37d82f55a39555e0883195214089
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: model'
+      sha: 6db6ad8432a7de8ebaff8192b3c60456c0943f63
+      url: https://api.github.com/repos/beiyuouo/AFMCos/commits/6db6ad8432a7de8ebaff8192b3c60456c0943f63
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: medical mnist non iid'
+      sha: 975d2ec6d9474475dfb07fe134d4fe32f8b73062
+      url: https://api.github.com/repos/beiyuouo/AFMCos/commits/975d2ec6d9474475dfb07fe134d4fe32f8b73062
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: medical mnist path'
+      sha: 393c32a1a00c422991835acf83de18743dcc3723
+      url: https://api.github.com/repos/beiyuouo/AFMCos/commits/393c32a1a00c422991835acf83de18743dcc3723
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: heart disease'
+      sha: ebc25f54886632f20fac8e5685858fe96a7bd639
+      url: https://api.github.com/repos/beiyuouo/AFMCos/commits/ebc25f54886632f20fac8e5685858fe96a7bd639
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: heart disease'
+      sha: 7fca842814c83c927ff878fe435f1d0a00817627
+      url: https://api.github.com/repos/beiyuouo/AFMCos/commits/7fca842814c83c927ff878fe435f1d0a00817627
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: remove debug info'
+      sha: 001b1a030978c072609ecdbd080f7d1f0329537b
+      url: https://api.github.com/repos/beiyuouo/AFMCos/commits/001b1a030978c072609ecdbd080f7d1f0329537b
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: heart disease'
+      sha: 30048e2253c709fd393704c03d7e401c070e8a45
+      url: https://api.github.com/repos/beiyuouo/AFMCos/commits/30048e2253c709fd393704c03d7e401c070e8a45
+    distinct_size: 7
+    head: 30048e2253c709fd393704c03d7e401c070e8a45
+    push_id: 10729107911
+    ref: refs/heads/main
+    size: 7
+  public: false
+  repo:
+    id: 514304323
+    name: beiyuouo/AFMCos
+    url: https://api.github.com/repos/beiyuouo/AFMCos
+  type: PushEvent
