@@ -1,0 +1,409 @@
+'23427788603':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-14T16:52:28Z'
+  id: '23427788603'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 143822069
+    name: sunface/rust-course
+    url: https://api.github.com/repos/sunface/rust-course
+  type: WatchEvent
+'23427820547':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-14T16:58:09Z'
+  id: '23427820547'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 129990396
+    name: sunface/rust-by-practice
+    url: https://api.github.com/repos/sunface/rust-by-practice
+  type: WatchEvent
+'23427831840':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-14T17:00:13Z'
+  id: '23427831840'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/98200559?
+    gravatar_id: ''
+    id: 98200559
+    login: rustlang-cn
+    url: https://api.github.com/orgs/rustlang-cn
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 442663165
+    name: rustlang-cn/rusty-book
+    url: https://api.github.com/repos/rustlang-cn/rusty-book
+  type: WatchEvent
+'23427843032':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-14T17:02:07Z'
+  id: '23427843032'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/98200559?
+    gravatar_id: ''
+    id: 98200559
+    login: rustlang-cn
+    url: https://api.github.com/orgs/rustlang-cn
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 472582409
+    name: rustlang-cn/Rustt
+    url: https://api.github.com/repos/rustlang-cn/Rustt
+  type: WatchEvent
+'23427931878':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-14T17:18:34Z'
+  id: '23427931878'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/28156855?
+    gravatar_id: ''
+    id: 28156855
+    login: PyO3
+    url: https://api.github.com/orgs/PyO3
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 91151442
+    name: PyO3/pyo3
+    url: https://api.github.com/repos/PyO3/pyo3
+  type: WatchEvent
+'23427992423':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-14T17:30:25Z'
+  id: '23427992423'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 524010600
+    name: Purple-CSGO/CSGO-Toolbox
+    url: https://api.github.com/repos/Purple-CSGO/CSGO-Toolbox
+  type: WatchEvent
+'23428006425':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-14T17:33:10Z'
+  id: '23428006425'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/60539444?
+    gravatar_id: ''
+    id: 60539444
+    login: jina-ai
+    url: https://api.github.com/orgs/jina-ai
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 509153572
+    name: jina-ai/discoart
+    url: https://api.github.com/repos/jina-ai/discoart
+  type: WatchEvent
+'23431170043':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-15T02:42:52Z'
+  id: '23431170043'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    action: created
+    comment:
+      author_association: COLLABORATOR
+      body: Hi @shuyu0914! For FedCV image segmentation, you need to run the bash
+        script `bootstrap.sh` in `config` to install dependencies. You can see the
+        latest code [here](https://github.com/FedML-AI/FedML/tree/dev/v0.7.0/python/app/fedcv/image_segmentation),
+        and we will release it soon!
+      created_at: '2022-08-15T02:42:52Z'
+      html_url: https://github.com/FedML-AI/FedML/issues/455#issuecomment-1214553699
+      id: 1214553699
+      issue_url: https://api.github.com/repos/FedML-AI/FedML/issues/455
+      node_id: IC_kwDOEMells5IZJ5j
+      performed_via_github_app: null
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/FedML-AI/FedML/issues/comments/1214553699/reactions
+      updated_at: '2022-08-15T02:42:52Z'
+      url: https://api.github.com/repos/FedML-AI/FedML/issues/comments/1214553699
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+    issue:
+      active_lock_reason: null
+      assignee: null
+      assignees: []
+      author_association: NONE
+      body: "Hi ,\r\n\r\nI have already install FedML (via conda) and try to run the\
+        \ example of fedcv-image_segmentation .\r\nI would like to run 2 client &\
+        \ 1 server with simulation on single machine. \r\nBut i  met some problems\
+        \ when executing `bash run_simulation.sh 1` , there is console message:\r\n\
+        \r\n```\r\n======== FedML (https://fedml.ai) ========\r\nFedML version: 0.7.286\r\
+        \nExecution path:/home/pomchi/miniconda3/envs/fedml/lib/python3.7/site-packages/fedml/__init__.py\r\
+        \n\r\n======== Running Environment ========\r\nOS: Linux-5.4.0-122-generic-x86_64-with-debian-buster-sid\r\
+        \nHardware: x86_64\r\nPython version: 3.7.13 (default, Mar 29 2022, 02:18:16)\r\
+        \n[GCC 7.5.0]\r\nPyTorch version: 1.12.1+cu102\r\nMPI4py is installed\r\n\r\
+        \n======== CPU Configuration ========\r\nThe CPU usage is : 0%\r\nAvailable\
+        \ CPU Memory: 60.0 G / 62.521270751953125G\r\n\r\n======== GPU Configuration\
+        \ ========\r\nNVIDIA GPU Info: <pynvml.nvml.LP_struct_c_nvmlDevice_t object\
+        \ at 0x7f91302019e0>\r\nAvailable GPU memory: 23.6 G / 24.0G\r\n[]\r\nargs.client_id_list\
+        \ = None\r\ntraining_type != FEDML_TRAINING_PLATFORM_CROSS_DEVICE and training_type\
+        \ != FEDML_TRAINING_PLATFORM_CROSS_SILO\r\n[FedML-Server(0) @device-id-0]\
+        \ [Mon, 08 Aug 2022 10:18:41] [INFO] [__init__.py:531:setup_log_mqtt_mgr]\
+        \ mlops log metrics agent config: mqtt.fedml.ai,1883\r\n\r\n\r\nERROR:/home/pomchi/fedml-server/fedml/logs/fedml-run-0-edge-0.log:Uncaught\
+        \ exception\r\nTraceback (most recent call last):\r\n  File \"main_fedml_image_segmentation.py\"\
+        , line 18, in <module>\r\n    dataset, class_num = load_data(args)\r\n  File\
+        \ \"/home/pomchi/shuyu/FedML/python/app/fedcv/image_segmentation/data/data_loader.py\"\
+        , line 12, in load\r\n    return load_synthetic_data(args)\r\n  File \"/home/pomchi/shuyu/FedML/python/app/fedcv/image_segmentation/data/data_loader.py\"\
+        , line 54, in load_synthetic_data\r\n    batch_size=args.batch_size,\r\nTypeError:\
+        \ load_partition_data_cityscapes() missing 1 required positional argument:\
+        \ 'image_size'\r\n```\r\n\r\nMy device only have one GPU ( NVIDIA GeForce\
+        \ RTX 3090 ), and i change the setting of `fedml_config.yaml `\r\n```\r\n\
+        train_args:\r\nclient_num_in_total: 2\r\nclient_num_per_round: 2 \r\n\r\n\
+        device_args:\r\n worker_num: 1\r\n  using_gpu: true\r\n  gpu_mapping_file:\
+        \ config/gpu_mapping.yaml\r\n  gpu_mapping_key: mapping_default\r\n```\r\n\
+        `gpu_mapping.yaml`\r\n```\r\nmapping_default:\r\n    pomchi-X299-UD4: [1]\r\
+        \n```\r\nI'm not sure if this setting is correct \r\n\r\n\r\nAnother question\
+        \ is there is no pycocotools module when i import ( at ` image_segmentation/data/data_loader.py`)\r\
+        \n`from .coco.segmentation.data_loader import load_partition_data_coco_segmentation\
+        \ `\r\n\r\n```\r\nTraceback (most recent call last):\r\n  File \"main_fedml_image_segmentation.py\"\
+        , line 4, in <module>\r\n    from data.data_loader import load as load_data\r\
+        \n  File \"/home/pomchi/shuyu/FedML/python/app/fedcv/image_segmentation/data/data_loader.py\"\
+        , line 6, in <module>\r\n    from .coco.segmentation.data_loader import load_partition_data_coco_segmentation\r\
+        \n  File \"/home/pomchi/shuyu/FedML/python/app/fedcv/image_segmentation/data/coco/segmentation/data_loader.py\"\
+        , line 11, in <module>\r\n    from .dataset import CocoSegmentation\r\n  File\
+        \ \"/home/pomchi/shuyu/FedML/python/app/fedcv/image_segmentation/data/coco/segmentation/dataset.py\"\
+        , line 12, in <module>\r\n    import pycocotools.mask as coco_mask\r\nModuleNotFoundError:\
+        \ No module named 'pycocotools'\r\n```\r\n\r\n\r\nAny hint and suggestion\
+        \ is highly appreciated !!!"
+      closed_at: null
+      comments: 1
+      comments_url: https://api.github.com/repos/FedML-AI/FedML/issues/455/comments
+      created_at: '2022-08-08T03:37:38Z'
+      events_url: https://api.github.com/repos/FedML-AI/FedML/issues/455/events
+      html_url: https://github.com/FedML-AI/FedML/issues/455
+      id: 1331278895
+      labels: []
+      labels_url: https://api.github.com/repos/FedML-AI/FedML/issues/455/labels{/name}
+      locked: false
+      milestone: null
+      node_id: I_kwDOEMells5PWbQv
+      number: 455
+      performed_via_github_app: null
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/FedML-AI/FedML/issues/455/reactions
+      repository_url: https://api.github.com/repos/FedML-AI/FedML
+      state: open
+      state_reason: null
+      timeline_url: https://api.github.com/repos/FedML-AI/FedML/issues/455/timeline
+      title: fedcv-image_segmentation problem
+      updated_at: '2022-08-15T02:42:52Z'
+      url: https://api.github.com/repos/FedML-AI/FedML/issues/455
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/29790979?v=4
+        events_url: https://api.github.com/users/shuyu0914/events{/privacy}
+        followers_url: https://api.github.com/users/shuyu0914/followers
+        following_url: https://api.github.com/users/shuyu0914/following{/other_user}
+        gists_url: https://api.github.com/users/shuyu0914/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/shuyu0914
+        id: 29790979
+        login: shuyu0914
+        node_id: MDQ6VXNlcjI5NzkwOTc5
+        organizations_url: https://api.github.com/users/shuyu0914/orgs
+        received_events_url: https://api.github.com/users/shuyu0914/received_events
+        repos_url: https://api.github.com/users/shuyu0914/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/shuyu0914/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/shuyu0914/subscriptions
+        type: User
+        url: https://api.github.com/users/shuyu0914
+  public: true
+  repo:
+    id: 281519510
+    name: FedML-AI/FedML
+    url: https://api.github.com/repos/FedML-AI/FedML
+  type: IssueCommentEvent
+'23431275764':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-15T02:56:26Z'
+  id: '23431275764'
+  payload:
+    before: b0cfc7951ce733451bf88b908ed92ba86267f14e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: force update all'
+      sha: 26215fb1195cf3b0459df073415e6eadadde15c7
+      url: https://api.github.com/repos/beiyuouo/github-events/commits/26215fb1195cf3b0459df073415e6eadadde15c7
+    distinct_size: 1
+    head: 26215fb1195cf3b0459df073415e6eadadde15c7
+    push_id: 10726955270
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 524011786
+    name: beiyuouo/github-events
+    url: https://api.github.com/repos/beiyuouo/github-events
+  type: PushEvent
+'23431335672':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-15T03:03:30Z'
+  id: '23431335672'
+  payload:
+    before: 26215fb1195cf3b0459df073415e6eadadde15c7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: actions'
+      sha: 3ca33728faeef41bbaee277430700e8804bd9ace
+      url: https://api.github.com/repos/beiyuouo/github-events/commits/3ca33728faeef41bbaee277430700e8804bd9ace
+    distinct_size: 1
+    head: 3ca33728faeef41bbaee277430700e8804bd9ace
+    push_id: 10726988474
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 524011786
+    name: beiyuouo/github-events
+    url: https://api.github.com/repos/beiyuouo/github-events
+  type: PushEvent
+'23431353231':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-15T03:05:20Z'
+  id: '23431353231'
+  payload:
+    before: 3ca33728faeef41bbaee277430700e8804bd9ace
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: actions'
+      sha: a782f4f80bb79fe36c0eb4c550643403904eaabb
+      url: https://api.github.com/repos/beiyuouo/github-events/commits/a782f4f80bb79fe36c0eb4c550643403904eaabb
+    distinct_size: 1
+    head: a782f4f80bb79fe36c0eb4c550643403904eaabb
+    push_id: 10726997979
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 524011786
+    name: beiyuouo/github-events
+    url: https://api.github.com/repos/beiyuouo/github-events
+  type: PushEvent
