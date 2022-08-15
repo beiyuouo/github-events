@@ -108,8 +108,8 @@ def cache_events(g: Github, time_zone=pytz.timezone("Asia/Shanghai")) -> None:
         else:
             entry_list = {}
 
-        if entry.id in entry_list:
-            break
+        # if entry.id in entry_list:
+        #     break
 
         entry_list[entry.id] = entry_data
 
