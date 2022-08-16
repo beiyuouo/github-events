@@ -480,3 +480,39 @@
     name: beiyuouo/AFMCos
     url: https://api.github.com/repos/beiyuouo/AFMCos
   type: PushEvent
+'23439793971':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-15T13:52:10Z'
+  id: '23439793971'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 520708737
+    name: moyix/fauxpilot
+    url: https://api.github.com/repos/moyix/fauxpilot
+  type: WatchEvent
+'23440169405':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-15T14:10:57Z'
+  id: '23440169405'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 523167082
+    name: jidiai/SummerCourse2022
+    url: https://api.github.com/repos/jidiai/SummerCourse2022
+  type: WatchEvent
