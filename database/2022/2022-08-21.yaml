@@ -122,3 +122,39 @@
     name: beiyuouo/fedusim
     url: https://api.github.com/repos/beiyuouo/fedusim
   type: CreateEvent
+'23549369784':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-21T15:49:47Z'
+  id: '23549369784'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 347468598
+    name: chuanting/FedDA
+    url: https://api.github.com/repos/chuanting/FedDA
+  type: WatchEvent
+'23549370120':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-21T15:49:51Z'
+  id: '23549370120'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 334018669
+    name: jma78/FedGTF-EF
+    url: https://api.github.com/repos/jma78/FedGTF-EF
+  type: WatchEvent
