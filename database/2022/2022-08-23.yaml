@@ -264,3 +264,27 @@
     name: 52CV/WACV-2023-Papers
     url: https://api.github.com/repos/52CV/WACV-2023-Papers
   type: WatchEvent
+'23590206173':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-23T14:39:02Z'
+  id: '23590206173'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/57072531?
+    gravatar_id: ''
+    id: 57072531
+    login: ixinzhi
+    url: https://api.github.com/orgs/ixinzhi
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 526096830
+    name: ixinzhi/music
+    url: https://api.github.com/repos/ixinzhi/music
+  type: WatchEvent
