@@ -88,3 +88,27 @@
     name: beiyuouo/ucas-toolkit
     url: https://api.github.com/repos/beiyuouo/ucas-toolkit
   type: PushEvent
+'23629265014':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-08-25T07:55:49Z'
+  id: '23629265014'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/24885599?
+    gravatar_id: ''
+    id: 24885599
+    login: Xtra-Computing
+    url: https://api.github.com/orgs/Xtra-Computing
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 303696125
+    name: Xtra-Computing/FedTree
+    url: https://api.github.com/repos/Xtra-Computing/FedTree
+  type: WatchEvent
