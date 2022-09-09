@@ -61,3 +61,118 @@
     name: HuangCongQing/AI_competitions
     url: https://api.github.com/repos/HuangCongQing/AI_competitions
   type: WatchEvent
+'23906835223':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-09T02:20:08Z'
+  id: '23906835223'
+  payload:
+    before: 9373b14c6398b02f0fcd11d099313741dbe3e3f1
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: fix
+      sha: 29b712c92b1c27f78de2a51a8c39017fd426ab43
+      url: https://api.github.com/repos/beiyuouo/unicmf/commits/29b712c92b1c27f78de2a51a8c39017fd426ab43
+    distinct_size: 1
+    head: 29b712c92b1c27f78de2a51a8c39017fd426ab43
+    push_id: 10970414190
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 531582744
+    name: beiyuouo/unicmf
+    url: https://api.github.com/repos/beiyuouo/unicmf
+  type: PushEvent
+'23907645603':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-09T03:45:38Z'
+  id: '23907645603'
+  payload:
+    before: 29b712c92b1c27f78de2a51a8c39017fd426ab43
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update uni_solution.py
+      sha: 6c58119fb06cb1b29b11e62652169412d96c01f2
+      url: https://api.github.com/repos/beiyuouo/unicmf/commits/6c58119fb06cb1b29b11e62652169412d96c01f2
+    distinct_size: 1
+    head: 6c58119fb06cb1b29b11e62652169412d96c01f2
+    push_id: 10970856189
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 531582744
+    name: beiyuouo/unicmf
+    url: https://api.github.com/repos/beiyuouo/unicmf
+  type: PushEvent
+'23912007198':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-09T09:05:41Z'
+  id: '23912007198'
+  payload:
+    description: "\U0001F3D7 hCAPTCHA binary classification model factory"
+    master_branch: main
+    pusher_type: user
+    ref: dev-autolabel
+    ref_type: branch
+  public: true
+  repo:
+    id: 487513377
+    name: beiyuouo/hcaptcha-model-factory
+    url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory
+  type: CreateEvent
+'23912015080':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-09T09:06:07Z'
+  id: '23912015080'
+  payload:
+    before: 1951c813b5ba66957c41d2b1ecc95a893a7cba81
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'feat(add): auto label'
+      sha: 5e5855788d5bbdb6db8f6aec5377dd5121bb8156
+      url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/commits/5e5855788d5bbdb6db8f6aec5377dd5121bb8156
+    distinct_size: 1
+    head: 5e5855788d5bbdb6db8f6aec5377dd5121bb8156
+    push_id: 10973063687
+    ref: refs/heads/dev-autolabel
+    size: 1
+  public: true
+  repo:
+    id: 487513377
+    name: beiyuouo/hcaptcha-model-factory
+    url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory
+  type: PushEvent
