@@ -1,0 +1,654 @@
+'24032859979':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-15T16:22:43Z'
+  id: '24032859979'
+  payload:
+    before: 4c364af04a96353653fa7a0e5b20fcd4124cda6d
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'feat(cicd): init'
+      sha: c278d5604e065282d5f43a8220a5ca60b4560d7e
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/c278d5604e065282d5f43a8220a5ca60b4560d7e
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: ignore backup'
+      sha: 098a2f730f45f94477cab61aee1f5ffa1bf5a6cd
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/098a2f730f45f94477cab61aee1f5ffa1bf5a6cd
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: process ref and links'
+      sha: a7d031537b7c1c28f2a74ede9d3319abfd11e9cf
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/a7d031537b7c1c28f2a74ede9d3319abfd11e9cf
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: dump yaml'
+      sha: 4890ccab9e500d8c85e71f159f2c30c8fad1c084
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/4890ccab9e500d8c85e71f159f2c30c8fad1c084
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Create update.yml
+      sha: 5eb8317556de4a142b10a4c504289d38f0911ca1
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/5eb8317556de4a142b10a4c504289d38f0911ca1
+    distinct_size: 5
+    head: 5eb8317556de4a142b10a4c504289d38f0911ca1
+    push_id: 11035904594
+    ref: refs/heads/main
+    size: 5
+  public: true
+  repo:
+    id: 537039520
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
+'24032884237':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-15T16:23:54Z'
+  id: '24032884237'
+  payload:
+    before: 5eb8317556de4a142b10a4c504289d38f0911ca1
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update requirements.txt
+      sha: 36a5e0db09c296311c2fbec0daa0ed05a150b7b5
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/36a5e0db09c296311c2fbec0daa0ed05a150b7b5
+    distinct_size: 1
+    head: 36a5e0db09c296311c2fbec0daa0ed05a150b7b5
+    push_id: 11035916395
+    ref: refs/heads/main
+    size: 1
+  public: true
+  repo:
+    id: 537039520
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
+'24032999354':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-15T16:29:34Z'
+  id: '24032999354'
+  payload:
+    before: d3f9caa18652a0deb4b1754a10028e0e405a3a94
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update utils.py
+      sha: 25bf16b978c0914620feccfee4f9916827ff488c
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/25bf16b978c0914620feccfee4f9916827ff488c
+    distinct_size: 1
+    head: 25bf16b978c0914620feccfee4f9916827ff488c
+    push_id: 11035972533
+    ref: refs/heads/main
+    size: 1
+  public: true
+  repo:
+    id: 537039520
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
+'24040928798':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-16T01:40:27Z'
+  id: '24040928798'
+  payload:
+    before: 25bf16b978c0914620feccfee4f9916827ff488c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: add tbc'
+      sha: 9501ab2f9e5c0c4da9a117024b2e7721b8a9bddd
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/9501ab2f9e5c0c4da9a117024b2e7721b8a9bddd
+    distinct_size: 1
+    head: 9501ab2f9e5c0c4da9a117024b2e7721b8a9bddd
+    push_id: 11040018815
+    ref: refs/heads/main
+    size: 1
+  public: true
+  repo:
+    id: 537039520
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
+'24041054997':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-16T01:53:20Z'
+  id: '24041054997'
+  payload:
+    before: 8825fa107be7d4664e52a159d36a9132c4f7cb44
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: md ref'
+      sha: e05a4df8a8e6bed3b20956d94bf8bfae323634e6
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/e05a4df8a8e6bed3b20956d94bf8bfae323634e6
+    distinct_size: 1
+    head: e05a4df8a8e6bed3b20956d94bf8bfae323634e6
+    push_id: 11040086492
+    ref: refs/heads/main
+    size: 1
+  public: true
+  repo:
+    id: 537039520
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
+'24041111703':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-16T01:58:28Z'
+  id: '24041111703'
+  payload:
+    before: b7830be9e6e3326c4cc01e1683fd4896691de07e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Create _config.yaml
+      sha: 366832fe782f415ee44d0199178538addcf19d7f
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/366832fe782f415ee44d0199178538addcf19d7f
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Merge branch 'main' of https://github.com/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+      sha: 818b20c0ad9a9e178615be291f6920748314d651
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/818b20c0ad9a9e178615be291f6920748314d651
+    distinct_size: 2
+    head: 818b20c0ad9a9e178615be291f6920748314d651
+    push_id: 11040114911
+    ref: refs/heads/main
+    size: 2
+  public: true
+  repo:
+    id: 537039520
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
+'24041177137':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-16T02:03:57Z'
+  id: '24041177137'
+  payload:
+    action: opened
+    number: 13
+    pull_request:
+      _links:
+        comments:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/13/comments
+        commits:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/13/commits
+        html:
+          href: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/13
+        issue:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/13
+        review_comment:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/comments{/number}
+        review_comments:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/13/comments
+        self:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/13
+        statuses:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/818b20c0ad9a9e178615be291f6920748314d651
+      active_lock_reason: null
+      additions: 8371
+      assignee: null
+      assignees: []
+      author_association: NONE
+      auto_merge: null
+      base:
+        label: youngfish42:main
+        ref: main
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/assignees{/user}
+          blobs_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/branches{/branch}
+          clone_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          collaborators_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/comments{/number}
+          commits_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits{/sha}
+          compare_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contents/{+path}
+          contributors_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contributors
+          created_at: '2022-05-21T02:20:25Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/deployments
+          description: Federated learning on graph and tabular data related papers,
+            frameworks, and datasets.
+          disabled: false
+          downloads_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/downloads
+          events_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/events
+          fork: false
+          forks: 43
+          forks_count: 43
+          forks_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/forks
+          full_name: youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          git_commits_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/tags{/sha}
+          git_url: git://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          has_downloads: true
+          has_issues: true
+          has_pages: false
+          has_projects: true
+          has_wiki: true
+          homepage: ''
+          hooks_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/hooks
+          html_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          id: 494658282
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/events{/number}
+          issues_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues{/number}
+          keys_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/keys{/key_id}
+          labels_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/labels{/name}
+          language: null
+          languages_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/languages
+          license:
+            key: cc-by-sa-4.0
+            name: Creative Commons Attribution Share Alike 4.0 International
+            node_id: MDc6TGljZW5zZTI2
+            spdx_id: CC-BY-SA-4.0
+            url: https://api.github.com/licenses/cc-by-sa-4.0
+          merges_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/merges
+          milestones_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/milestones{/number}
+          mirror_url: null
+          name: Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          node_id: R_kgDOHXvi6g
+          notifications_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/notifications{?since,all,participating}
+          open_issues: 1
+          open_issues_count: 1
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/38998412?v=4
+            events_url: https://api.github.com/users/youngfish42/events{/privacy}
+            followers_url: https://api.github.com/users/youngfish42/followers
+            following_url: https://api.github.com/users/youngfish42/following{/other_user}
+            gists_url: https://api.github.com/users/youngfish42/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/youngfish42
+            id: 38998412
+            login: youngfish42
+            node_id: MDQ6VXNlcjM4OTk4NDEy
+            organizations_url: https://api.github.com/users/youngfish42/orgs
+            received_events_url: https://api.github.com/users/youngfish42/received_events
+            repos_url: https://api.github.com/users/youngfish42/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/youngfish42/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/youngfish42/subscriptions
+            type: User
+            url: https://api.github.com/users/youngfish42
+          private: false
+          pulls_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls{/number}
+          pushed_at: '2022-09-16T01:47:58Z'
+          releases_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/releases{/id}
+          size: 762
+          ssh_url: git@github.com:youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          stargazers_count: 312
+          stargazers_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/stargazers
+          statuses_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscribers
+          subscription_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscription
+          svn_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          tags_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/tags
+          teams_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/teams
+          topics:
+          - artificial-intelligence
+          - awesome
+          - computer-vision
+          - data-mining
+          - database
+          - deep-learning
+          - efficiency
+          - federated-learning
+          - federated-learning-framework
+          - graph
+          - graph-neural-networks
+          - information-retrieval
+          - knowledge-graph
+          - machine-learning
+          - natural-language-processing
+          - paper
+          - privacy
+          - security
+          - system
+          - tabular-data
+          trees_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/trees{/sha}
+          updated_at: '2022-09-15T18:58:04Z'
+          url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          visibility: public
+          watchers: 312
+          watchers_count: 312
+          web_commit_signoff_required: false
+        sha: 079272dcf4d3c98db5e63089078937c83fd3ca3a
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/38998412?v=4
+          events_url: https://api.github.com/users/youngfish42/events{/privacy}
+          followers_url: https://api.github.com/users/youngfish42/followers
+          following_url: https://api.github.com/users/youngfish42/following{/other_user}
+          gists_url: https://api.github.com/users/youngfish42/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/youngfish42
+          id: 38998412
+          login: youngfish42
+          node_id: MDQ6VXNlcjM4OTk4NDEy
+          organizations_url: https://api.github.com/users/youngfish42/orgs
+          received_events_url: https://api.github.com/users/youngfish42/received_events
+          repos_url: https://api.github.com/users/youngfish42/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/youngfish42/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/youngfish42/subscriptions
+          type: User
+          url: https://api.github.com/users/youngfish42
+      body: null
+      changed_files: 10
+      closed_at: null
+      comments: 0
+      comments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/13/comments
+      commits: 14
+      commits_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/13/commits
+      created_at: '2022-09-16T02:03:56Z'
+      deletions: 977
+      diff_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/13.diff
+      draft: false
+      head:
+        label: beiyuouo:main
+        ref: main
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/assignees{/user}
+          blobs_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/branches{/branch}
+          clone_url: https://github.com/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          collaborators_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/comments{/number}
+          commits_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits{/sha}
+          compare_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contents/{+path}
+          contributors_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contributors
+          created_at: '2022-09-15T13:27:05Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/deployments
+          description: Federated learning on graph and tabular data related papers,
+            frameworks, and datasets.
+          disabled: false
+          downloads_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/downloads
+          events_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/events
+          fork: true
+          forks: 0
+          forks_count: 0
+          forks_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/forks
+          full_name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          git_commits_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/tags{/sha}
+          git_url: git://github.com/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          has_downloads: true
+          has_issues: false
+          has_pages: true
+          has_projects: true
+          has_wiki: true
+          homepage: https://www.bj-yan.top/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/#fnref:System_Design
+          hooks_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/hooks
+          html_url: https://github.com/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          id: 537039520
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/events{/number}
+          issues_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues{/number}
+          keys_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/keys{/key_id}
+          labels_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/languages
+          license:
+            key: cc-by-sa-4.0
+            name: Creative Commons Attribution Share Alike 4.0 International
+            node_id: MDc6TGljZW5zZTI2
+            spdx_id: CC-BY-SA-4.0
+            url: https://api.github.com/licenses/cc-by-sa-4.0
+          merges_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/merges
+          milestones_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/milestones{/number}
+          mirror_url: null
+          name: Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          node_id: R_kgDOIAKSoA
+          notifications_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/notifications{?since,all,participating}
+          open_issues: 0
+          open_issues_count: 0
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+            events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+            followers_url: https://api.github.com/users/beiyuouo/followers
+            following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+            gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/beiyuouo
+            id: 44976445
+            login: beiyuouo
+            node_id: MDQ6VXNlcjQ0OTc2NDQ1
+            organizations_url: https://api.github.com/users/beiyuouo/orgs
+            received_events_url: https://api.github.com/users/beiyuouo/received_events
+            repos_url: https://api.github.com/users/beiyuouo/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+            type: User
+            url: https://api.github.com/users/beiyuouo
+          private: false
+          pulls_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls{/number}
+          pushed_at: '2022-09-16T01:58:28Z'
+          releases_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/releases{/id}
+          size: 845
+          ssh_url: git@github.com:beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          stargazers_count: 0
+          stargazers_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/stargazers
+          statuses_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscribers
+          subscription_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscription
+          svn_url: https://github.com/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          tags_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/tags
+          teams_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/teams
+          topics: []
+          trees_url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/trees{/sha}
+          updated_at: '2022-09-15T16:32:22Z'
+          url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          visibility: public
+          watchers: 0
+          watchers_count: 0
+          web_commit_signoff_required: false
+        sha: 818b20c0ad9a9e178615be291f6920748314d651
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+          events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+          followers_url: https://api.github.com/users/beiyuouo/followers
+          following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+          gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/beiyuouo
+          id: 44976445
+          login: beiyuouo
+          node_id: MDQ6VXNlcjQ0OTc2NDQ1
+          organizations_url: https://api.github.com/users/beiyuouo/orgs
+          received_events_url: https://api.github.com/users/beiyuouo/received_events
+          repos_url: https://api.github.com/users/beiyuouo/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+          type: User
+          url: https://api.github.com/users/beiyuouo
+      html_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/13
+      id: 1058067766
+      issue_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/13
+      labels: []
+      locked: false
+      maintainer_can_modify: true
+      merge_commit_sha: null
+      mergeable: null
+      mergeable_state: unknown
+      merged: false
+      merged_at: null
+      merged_by: null
+      milestone: null
+      node_id: PR_kwDOHXvi6s4_ENU2
+      number: 13
+      patch_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/13.patch
+      rebaseable: null
+      requested_reviewers: []
+      requested_teams: []
+      review_comment_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/comments{/number}
+      review_comments: 0
+      review_comments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/13/comments
+      state: open
+      statuses_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/818b20c0ad9a9e178615be291f6920748314d651
+      title: 'feat(add): ci&cd ghpages'
+      updated_at: '2022-09-16T02:03:56Z'
+      url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/13
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+  public: true
+  repo:
+    id: 494658282
+    name: youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PullRequestEvent
+'24041282433':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-16T02:13:59Z'
+  id: '24041282433'
+  payload:
+    before: 818b20c0ad9a9e178615be291f6920748314d651
+    commits:
+    - author:
+        email: fxb163@163.com
+        name: Xingbo Fu
+      distinct: true
+      message: Update README.md (#11)
+      sha: 379beacee33ae74d6402c2d9f95e5a69b4c718f4
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/379beacee33ae74d6402c2d9f95e5a69b4c718f4
+    - author:
+        email: 42462005+lokinko@users.noreply.github.com
+        name: Qu Xiangmou
+      distinct: true
+      message: "Add survey and course of MPC and FL. (#12)\n\n* Add survey and course\
+        \ of MPC and FL.\r\n\r\n* modify rank of courses\r\n\r\nCo-authored-by: YoungFish\
+        \ <im.young@foxmail.com>"
+      sha: 3ca8d3ad073659b1a6c7cd94fba4233a238bb762
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/3ca8d3ad073659b1a6c7cd94fba4233a238bb762
+    - author:
+        email: im.young@foxmail.com
+        name: YoungFish
+      distinct: true
+      message: modify information on surveys
+      sha: 079272dcf4d3c98db5e63089078937c83fd3ca3a
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/079272dcf4d3c98db5e63089078937c83fd3ca3a
+    - author:
+        email: im.young@foxmail.com
+        name: YoungFish
+      distinct: true
+      message: add information on survey
+      sha: 411271241cfa32e963d81c39b556ff5502e0d077
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/411271241cfa32e963d81c39b556ff5502e0d077
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Merge branch 'main' into main
+      sha: f4061388f81356e1905328e2f6c9bb8d33b2e93e
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/f4061388f81356e1905328e2f6c9bb8d33b2e93e
+    distinct_size: 5
+    head: f4061388f81356e1905328e2f6c9bb8d33b2e93e
+    push_id: 11040204480
+    ref: refs/heads/main
+    size: 5
+  public: true
+  repo:
+    id: 537039520
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
