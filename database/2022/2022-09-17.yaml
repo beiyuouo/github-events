@@ -1,0 +1,424 @@
+'24061024243':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-16T22:43:34Z'
+  id: '24061024243'
+  payload:
+    before: aed1c53e00b1bbed2d3061f5dd6d8cfaab2f907e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: hard set merge priority'
+      sha: 8e915d0cd4c763b84a4c8a1374a0886f72901436
+      url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/8e915d0cd4c763b84a4c8a1374a0886f72901436
+    distinct_size: 1
+    head: 8e915d0cd4c763b84a4c8a1374a0886f72901436
+    push_id: 11050136569
+    ref: refs/heads/main
+    size: 1
+  public: true
+  repo:
+    id: 532807119
+    name: Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
+'24061043060':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-16T22:45:42Z'
+  id: '24061043060'
+  payload:
+    action: created
+    pull_request:
+      _links:
+        comments:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/16/comments
+        commits:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16/commits
+        html:
+          href: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/16
+        issue:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/16
+        review_comment:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/comments{/number}
+        review_comments:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16/comments
+        self:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16
+        statuses:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/8e915d0cd4c763b84a4c8a1374a0886f72901436
+      active_lock_reason: null
+      assignee: null
+      assignees: []
+      author_association: CONTRIBUTOR
+      auto_merge: null
+      base:
+        label: youngfish42:main
+        ref: main
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/assignees{/user}
+          blobs_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/branches{/branch}
+          clone_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          collaborators_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/comments{/number}
+          commits_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits{/sha}
+          compare_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contents/{+path}
+          contributors_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contributors
+          created_at: '2022-05-21T02:20:25Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/deployments
+          description: Federated learning on graph and tabular data related papers,
+            frameworks, and datasets.
+          disabled: false
+          downloads_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/downloads
+          events_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/events
+          fork: false
+          forks: 42
+          forks_count: 42
+          forks_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/forks
+          full_name: youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          git_commits_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/tags{/sha}
+          git_url: git://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          has_downloads: true
+          has_issues: true
+          has_pages: true
+          has_projects: true
+          has_wiki: true
+          homepage: https://youngfish42.github.io/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/
+          hooks_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/hooks
+          html_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          id: 494658282
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/events{/number}
+          issues_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues{/number}
+          keys_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/keys{/key_id}
+          labels_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/languages
+          license:
+            key: cc-by-sa-4.0
+            name: Creative Commons Attribution Share Alike 4.0 International
+            node_id: MDc6TGljZW5zZTI2
+            spdx_id: CC-BY-SA-4.0
+            url: https://api.github.com/licenses/cc-by-sa-4.0
+          merges_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/merges
+          milestones_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/milestones{/number}
+          mirror_url: null
+          name: Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          node_id: R_kgDOHXvi6g
+          notifications_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/notifications{?since,all,participating}
+          open_issues: 1
+          open_issues_count: 1
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/38998412?v=4
+            events_url: https://api.github.com/users/youngfish42/events{/privacy}
+            followers_url: https://api.github.com/users/youngfish42/followers
+            following_url: https://api.github.com/users/youngfish42/following{/other_user}
+            gists_url: https://api.github.com/users/youngfish42/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/youngfish42
+            id: 38998412
+            login: youngfish42
+            node_id: MDQ6VXNlcjM4OTk4NDEy
+            organizations_url: https://api.github.com/users/youngfish42/orgs
+            received_events_url: https://api.github.com/users/youngfish42/received_events
+            repos_url: https://api.github.com/users/youngfish42/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/youngfish42/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/youngfish42/subscriptions
+            type: User
+            url: https://api.github.com/users/youngfish42
+          private: false
+          pulls_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls{/number}
+          pushed_at: '2022-09-16T22:43:35Z'
+          releases_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/releases{/id}
+          size: 730
+          ssh_url: git@github.com:youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          stargazers_count: 312
+          stargazers_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/stargazers
+          statuses_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscribers
+          subscription_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscription
+          svn_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          tags_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/tags
+          teams_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/teams
+          topics:
+          - artificial-intelligence
+          - awesome
+          - computer-vision
+          - data-mining
+          - database
+          - deep-learning
+          - efficiency
+          - federated-learning
+          - federated-learning-framework
+          - graph
+          - graph-neural-networks
+          - information-retrieval
+          - knowledge-graph
+          - machine-learning
+          - natural-language-processing
+          - paper
+          - privacy
+          - security
+          - system
+          - tabular-data
+          trees_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/trees{/sha}
+          updated_at: '2022-09-16T03:03:43Z'
+          url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          visibility: public
+          watchers: 312
+          watchers_count: 312
+          web_commit_signoff_required: false
+        sha: 1d815c2059f10ae8fdf60dd3658b583b1d56880a
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/38998412?v=4
+          events_url: https://api.github.com/users/youngfish42/events{/privacy}
+          followers_url: https://api.github.com/users/youngfish42/followers
+          following_url: https://api.github.com/users/youngfish42/following{/other_user}
+          gists_url: https://api.github.com/users/youngfish42/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/youngfish42
+          id: 38998412
+          login: youngfish42
+          node_id: MDQ6VXNlcjM4OTk4NDEy
+          organizations_url: https://api.github.com/users/youngfish42/orgs
+          received_events_url: https://api.github.com/users/youngfish42/received_events
+          repos_url: https://api.github.com/users/youngfish42/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/youngfish42/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/youngfish42/subscriptions
+          type: User
+          url: https://api.github.com/users/youngfish42
+      body: "\r\nINFOCOM2022\u66F4\u65B0"
+      closed_at: null
+      comments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/16/comments
+      commits_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16/commits
+      created_at: '2022-09-16T15:57:17Z'
+      diff_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/16.diff
+      draft: false
+      head:
+        label: Li-Hongcheng:main
+        ref: main
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/assignees{/user}
+          blobs_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/branches{/branch}
+          clone_url: https://github.com/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          collaborators_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/comments{/number}
+          commits_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits{/sha}
+          compare_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contents/{+path}
+          contributors_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/contributors
+          created_at: '2022-09-05T08:19:46Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/deployments
+          description: Federated learning on graph and tabular data related papers,
+            frameworks, and datasets.
+          disabled: false
+          downloads_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/downloads
+          events_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/events
+          fork: true
+          forks: 0
+          forks_count: 0
+          forks_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/forks
+          full_name: Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          git_commits_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/tags{/sha}
+          git_url: git://github.com/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          has_downloads: true
+          has_issues: false
+          has_pages: false
+          has_projects: true
+          has_wiki: true
+          homepage: ''
+          hooks_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/hooks
+          html_url: https://github.com/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          id: 532807119
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/events{/number}
+          issues_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues{/number}
+          keys_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/keys{/key_id}
+          labels_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/languages
+          license:
+            key: cc-by-sa-4.0
+            name: Creative Commons Attribution Share Alike 4.0 International
+            node_id: MDc6TGljZW5zZTI2
+            spdx_id: CC-BY-SA-4.0
+            url: https://api.github.com/licenses/cc-by-sa-4.0
+          merges_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/merges
+          milestones_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/milestones{/number}
+          mirror_url: null
+          name: Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          node_id: R_kgDOH8H9zw
+          notifications_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/notifications{?since,all,participating}
+          open_issues: 0
+          open_issues_count: 0
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/48978411?v=4
+            events_url: https://api.github.com/users/Li-Hongcheng/events{/privacy}
+            followers_url: https://api.github.com/users/Li-Hongcheng/followers
+            following_url: https://api.github.com/users/Li-Hongcheng/following{/other_user}
+            gists_url: https://api.github.com/users/Li-Hongcheng/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/Li-Hongcheng
+            id: 48978411
+            login: Li-Hongcheng
+            node_id: MDQ6VXNlcjQ4OTc4NDEx
+            organizations_url: https://api.github.com/users/Li-Hongcheng/orgs
+            received_events_url: https://api.github.com/users/Li-Hongcheng/received_events
+            repos_url: https://api.github.com/users/Li-Hongcheng/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/Li-Hongcheng/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/Li-Hongcheng/subscriptions
+            type: User
+            url: https://api.github.com/users/Li-Hongcheng
+          private: false
+          pulls_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls{/number}
+          pushed_at: '2022-09-16T22:43:33Z'
+          releases_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/releases{/id}
+          size: 808
+          ssh_url: git@github.com:Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data.git
+          stargazers_count: 1
+          stargazers_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/stargazers
+          statuses_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscribers
+          subscription_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/subscription
+          svn_url: https://github.com/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          tags_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/tags
+          teams_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/teams
+          topics: []
+          trees_url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/git/trees{/sha}
+          updated_at: '2022-09-16T14:00:24Z'
+          url: https://api.github.com/repos/Li-Hongcheng/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+          visibility: public
+          watchers: 1
+          watchers_count: 1
+          web_commit_signoff_required: false
+        sha: 8e915d0cd4c763b84a4c8a1374a0886f72901436
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/48978411?v=4
+          events_url: https://api.github.com/users/Li-Hongcheng/events{/privacy}
+          followers_url: https://api.github.com/users/Li-Hongcheng/followers
+          following_url: https://api.github.com/users/Li-Hongcheng/following{/other_user}
+          gists_url: https://api.github.com/users/Li-Hongcheng/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/Li-Hongcheng
+          id: 48978411
+          login: Li-Hongcheng
+          node_id: MDQ6VXNlcjQ4OTc4NDEx
+          organizations_url: https://api.github.com/users/Li-Hongcheng/orgs
+          received_events_url: https://api.github.com/users/Li-Hongcheng/received_events
+          repos_url: https://api.github.com/users/Li-Hongcheng/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/Li-Hongcheng/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/Li-Hongcheng/subscriptions
+          type: User
+          url: https://api.github.com/users/Li-Hongcheng
+      html_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/16
+      id: 1058803769
+      issue_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/issues/16
+      labels: []
+      locked: false
+      merge_commit_sha: 6e7fd2d955d704c77e3078fce6f59dc61a51fb14
+      merged_at: null
+      milestone: null
+      node_id: PR_kwDOHXvi6s4_HBA5
+      number: 16
+      patch_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/16.patch
+      requested_reviewers: []
+      requested_teams: []
+      review_comment_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/comments{/number}
+      review_comments_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16/comments
+      state: open
+      statuses_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/statuses/8e915d0cd4c763b84a4c8a1374a0886f72901436
+      title: INFOCOM2022
+      updated_at: '2022-09-16T22:45:42Z'
+      url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/48978411?v=4
+        events_url: https://api.github.com/users/Li-Hongcheng/events{/privacy}
+        followers_url: https://api.github.com/users/Li-Hongcheng/followers
+        following_url: https://api.github.com/users/Li-Hongcheng/following{/other_user}
+        gists_url: https://api.github.com/users/Li-Hongcheng/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/Li-Hongcheng
+        id: 48978411
+        login: Li-Hongcheng
+        node_id: MDQ6VXNlcjQ4OTc4NDEx
+        organizations_url: https://api.github.com/users/Li-Hongcheng/orgs
+        received_events_url: https://api.github.com/users/Li-Hongcheng/received_events
+        repos_url: https://api.github.com/users/Li-Hongcheng/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/Li-Hongcheng/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/Li-Hongcheng/subscriptions
+        type: User
+        url: https://api.github.com/users/Li-Hongcheng
+    review:
+      _links:
+        html:
+          href: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/16#pullrequestreview-1111349771
+        pull_request:
+          href: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16
+      author_association: COLLABORATOR
+      body: LGTM
+      commit_id: 8e915d0cd4c763b84a4c8a1374a0886f72901436
+      html_url: https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pull/16#pullrequestreview-1111349771
+      id: 1111349771
+      node_id: PRR_kwDOHXvi6s5CPdoL
+      pull_request_url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/pulls/16
+      state: approved
+      submitted_at: '2022-09-16T22:45:42Z'
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+  public: true
+  repo:
+    id: 494658282
+    name: youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PullRequestReviewEvent
