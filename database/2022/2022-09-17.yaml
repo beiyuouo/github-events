@@ -422,3 +422,34 @@
     name: youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
     url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
   type: PullRequestReviewEvent
+'24065799242':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-17T13:17:42Z'
+  id: '24065799242'
+  payload:
+    before: e4171be0b2caaecf7cf5e4246b9dc1adf3029ea8
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: oj2
+      sha: 4c7b74a49f65600839bbf133a9a0caeb83eeb5e2
+      url: https://api.github.com/repos/beiyuouo/loa/commits/4c7b74a49f65600839bbf133a9a0caeb83eeb5e2
+    distinct_size: 1
+    head: 4c7b74a49f65600839bbf133a9a0caeb83eeb5e2
+    push_id: 11053296824
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 529792213
+    name: beiyuouo/loa
+    url: https://api.github.com/repos/beiyuouo/loa
+  type: PushEvent
