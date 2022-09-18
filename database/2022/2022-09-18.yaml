@@ -42,3 +42,132 @@
     name: beiyuouo/loool
     url: https://api.github.com/repos/beiyuouo/loool
   type: CreateEvent
+'24071483792':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-18T08:17:07Z'
+  id: '24071483792'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 341991865
+    name: litian96/ditto
+    url: https://api.github.com/repos/litian96/ditto
+  type: WatchEvent
+'24072147923':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-18T10:13:26Z'
+  id: '24072147923'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: 5d1a46a52caa281912a0416d929f982a7fdc971c
+    commits:
+    - author:
+        email: mdgawali23@gmail.com
+        name: phenomenal-manish
+      distinct: true
+      message: 'build(fedcv): add metrics, checkpoint, file logger'
+      sha: 934a229d764732d9858e71edd2045399f0e0b204
+      url: https://api.github.com/repos/FedML-AI/FedML/commits/934a229d764732d9858e71edd2045399f0e0b204
+    distinct_size: 1
+    head: 934a229d764732d9858e71edd2045399f0e0b204
+    push_id: 11057720616
+    ref: refs/heads/dev/v0.7.0
+    size: 1
+  public: true
+  repo:
+    id: 281519510
+    name: FedML-AI/FedML
+    url: https://api.github.com/repos/FedML-AI/FedML
+  type: PushEvent
+'24072184906':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-18T10:19:31Z'
+  id: '24072184906'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: 934a229d764732d9858e71edd2045399f0e0b204
+    commits: []
+    distinct_size: 0
+    head: 5d1a46a52caa281912a0416d929f982a7fdc971c
+    push_id: 11057744492
+    ref: refs/heads/dev/v0.7.0
+    size: 0
+  public: true
+  repo:
+    id: 281519510
+    name: FedML-AI/FedML
+    url: https://api.github.com/repos/FedML-AI/FedML
+  type: PushEvent
+'24072580288':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-18T11:25:44Z'
+  id: '24072580288'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: 5d1a46a52caa281912a0416d929f982a7fdc971c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build(fedcv): add metrics, checkpoint, file logger
+
+
+        - add metrics for val
+
+        - add checkpoint for server and clients
+
+        - add file logger'
+      sha: 8dafad3cdea34efb6ceb531a88831ca1265949ec
+      url: https://api.github.com/repos/FedML-AI/FedML/commits/8dafad3cdea34efb6ceb531a88831ca1265949ec
+    distinct_size: 1
+    head: 8dafad3cdea34efb6ceb531a88831ca1265949ec
+    push_id: 11058006531
+    ref: refs/heads/dev/v0.7.0
+    size: 1
+  public: true
+  repo:
+    id: 281519510
+    name: FedML-AI/FedML
+    url: https://api.github.com/repos/FedML-AI/FedML
+  type: PushEvent
