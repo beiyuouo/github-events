@@ -171,3 +171,34 @@
     name: FedML-AI/FedML
     url: https://api.github.com/repos/FedML-AI/FedML
   type: PushEvent
+'24073245019':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-18T13:07:38Z'
+  id: '24073245019'
+  payload:
+    before: bf7e7a12845a908c0f4b9c0a8ef48f1141f86891
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update update.yml
+      sha: 6c038528d1fce46a1363606ed15ddf89a9f0c9b4
+      url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/6c038528d1fce46a1363606ed15ddf89a9f0c9b4
+    distinct_size: 1
+    head: 6c038528d1fce46a1363606ed15ddf89a9f0c9b4
+    push_id: 11058455305
+    ref: refs/heads/main
+    size: 1
+  public: true
+  repo:
+    id: 494658282
+    name: youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
