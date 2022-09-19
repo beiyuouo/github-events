@@ -202,3 +202,34 @@
     name: youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
     url: https://api.github.com/repos/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
   type: PushEvent
+'24073903813':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-18T14:42:45Z'
+  id: '24073903813'
+  payload:
+    before: 565cda8208cee8ec46d60292eddc4d733a617bc7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: unformatted image size'
+      sha: ba04c24b198d850d9a0ccc86eb0384c12e24c7b3
+      url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/commits/ba04c24b198d850d9a0ccc86eb0384c12e24c7b3
+    distinct_size: 1
+    head: ba04c24b198d850d9a0ccc86eb0384c12e24c7b3
+    push_id: 11058891850
+    ref: refs/heads/dev
+    size: 1
+  public: true
+  repo:
+    id: 487513377
+    name: beiyuouo/hcaptcha-model-factory
+    url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory
+  type: PushEvent
