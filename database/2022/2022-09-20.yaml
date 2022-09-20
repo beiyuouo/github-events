@@ -16,3 +16,21 @@
     name: yzy1996/English-Writing
     url: https://api.github.com/repos/yzy1996/English-Writing
   type: WatchEvent
+'24113652733':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-20T13:18:12Z'
+  id: '24113652733'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 495677531
+    name: zj-jayzhang/awesome-dataset-distillation
+    url: https://api.github.com/repos/zj-jayzhang/awesome-dataset-distillation
+  type: WatchEvent
