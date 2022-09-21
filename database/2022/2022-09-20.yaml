@@ -34,3 +34,21 @@
     name: zj-jayzhang/awesome-dataset-distillation
     url: https://api.github.com/repos/zj-jayzhang/awesome-dataset-distillation
   type: WatchEvent
+'24115597794':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-20T14:31:33Z'
+  id: '24115597794'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 532599581
+    name: Samuel-Maddock/federated-boosted-dp-trees
+    url: https://api.github.com/repos/Samuel-Maddock/federated-boosted-dp-trees
+  type: WatchEvent
