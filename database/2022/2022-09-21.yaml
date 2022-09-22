@@ -288,3 +288,208 @@
     name: bytecodealliance/wasmtime
     url: https://api.github.com/repos/bytecodealliance/wasmtime
   type: WatchEvent
+'24139982413':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-21T14:11:33Z'
+  id: '24139982413'
+  payload:
+    before: ba04c24b198d850d9a0ccc86eb0384c12e24c7b3
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Create settings.json
+      sha: 5d39db793bff8ab22d8da9719a90c7c0d3e146dd
+      url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/commits/5d39db793bff8ab22d8da9719a90c7c0d3e146dd
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: #36'
+      sha: 3190b6c386c6302f398fd31b0b65f5da53f313c2
+      url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/commits/3190b6c386c6302f398fd31b0b65f5da53f313c2
+    distinct_size: 2
+    head: 3190b6c386c6302f398fd31b0b65f5da53f313c2
+    push_id: 11092726055
+    ref: refs/heads/dev
+    size: 2
+  public: true
+  repo:
+    id: 487513377
+    name: beiyuouo/hcaptcha-model-factory
+    url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory
+  type: PushEvent
+'24140051104':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-21T14:14:09Z'
+  id: '24140051104'
+  payload:
+    action: created
+    comment:
+      author_association: OWNER
+      body: I have fix it at [here](https://github.com/beiyuouo/hcaptcha-model-factory/commit/3190b6c386c6302f398fd31b0b65f5da53f313c2).
+        You can pull the dev branch or manually modify to fix it. We will release
+        it soon! Thanks a lot.
+      created_at: '2022-09-21T14:14:09Z'
+      html_url: https://github.com/beiyuouo/hcaptcha-model-factory/issues/36#issuecomment-1253774462
+      id: 1253774462
+      issue_url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/36
+      node_id: IC_kwDOHQ7dIc5KuxR-
+      performed_via_github_app: null
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/comments/1253774462/reactions
+      updated_at: '2022-09-21T14:14:09Z'
+      url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/comments/1253774462
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+    issue:
+      active_lock_reason: null
+      assignee: null
+      assignees: []
+      author_association: NONE
+      body: "**Question**\r\nim using auto label but i always got value error\r\n\r\
+        \ni saved image by `open(filename, \"wb\").write(bytes)` i think here is error?\r\
+        \n\r\n**Expected behavior**\r\n```\r\n\r\nPS D:\\python\\hcaptcha-model-factory\\\
+        src> py main.py new \r\nprompt[en] --> fish_underwater\r\n2022-09-21 19:57:05\
+        \ | DEBUG - Diagnose task | task_name=fish_underwater\r\nUse AI to automatically\
+        \ label datasets? {'y', 'n'} --> y\r\nplease put all the images in the `unlabel`\
+        \ folder and press any key to continue...\r\n2022-09-21 19:57:26 | INFO -\
+        \ Found 7 images in D:\\python\\hcaptcha-model-factory\\data\\fish_underwater\\\
+        unlabel\r\n2022-09-21 19:57:26 | DEBUG - Extracting embeddings...\r\n2022-09-21\
+        \ 19:57:27 | INFO - Embeddings extracted\r\n2022-09-21 19:57:27 | INFO - PCA...,\
+        \ shape of embs: (7, 512)\r\n2022-09-21 19:57:27 | ERROR - An error has been\
+        \ caught in function '_CallAndUpdateTrace', process 'MainProcess' (8452),\
+        \ thread 'MainThread' (21844):\r\nTraceback (most recent call last):\r\n \
+        \ File \"main.py\", line 6, in <module>\r\n    Fire(Scaffold)\r\n  File \"\
+        C:\\Users\\luanon404\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\\
+        fire\\core.py\", line 141, in Fire\r\n    component_trace = _Fire(component,\
+        \ args, parsed_flag_args, context, name)\r\n  File \"C:\\Users\\luanon404\\\
+        AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages\\fire\\core.py\"\
+        , line 466, in _Fire\r\n    component, remaining_args = _CallAndUpdateTrace(\r\
+        \n> File \"C:\\Users\\luanon404\\AppData\\Local\\Programs\\Python\\Python38\\\
+        lib\\site-packages\\fire\\core.py\", line 681, in _CallAndUpdateTrace\r\n\
+        \    component = fn(*varargs, **kwargs)\r\n  File \"D:\\python\\hcaptcha-model-factory\\\
+        src\\apis\\scaffold.py\", line 70, in new\r\n    ClusterLabeler(data_dir=data_dir).run()\r\
+        \n  File \"D:\\python\\hcaptcha-model-factory\\src\\components\\auto_label\\\
+        cluster.py\", line 65, in run\r\n    self.embs = PCA(n_components=self.num_feat).fit_transform(self.embs)\r\
+        \n  File \"C:\\Users\\luanon404\\AppData\\Local\\Programs\\Python\\Python38\\\
+        lib\\site-packages\\sklearn\\decomposition\\_pca.py\", line 407, in fit_transform\r\
+        \n    U, S, Vt = self._fit(X)\r\n  File \"C:\\Users\\luanon404\\AppData\\\
+        Local\\Programs\\Python\\Python38\\lib\\site-packages\\sklearn\\decomposition\\\
+        _pca.py\", line 457, in _fit\r\n    return self._fit_full(X, n_components)\r\
+        \n  File \"C:\\Users\\luanon404\\AppData\\Local\\Programs\\Python\\Python38\\\
+        lib\\site-packages\\sklearn\\decomposition\\_pca.py\", line 475, in _fit_full\r\
+        \n    raise ValueError(\r\nValueError: n_components=128 must be between 0\
+        \ and min(n_samples, n_features)=7 with svd_solver='full'\r\n```\r\n\r\n**Desktop\
+        \ (please complete the following information):**\r\n\r\n- OS: windows\r\n\
+        - Version: latest\r\n\r\n**Additional context**\r\n![cf461699-6add-408a-aa9a-fd568c088c82](https://user-images.githubusercontent.com/71830807/191510461-64623cef-a640-47e4-86df-c0c9bf75cc66.png)\r\
+        \n![ec656c58-afcb-4644-a09c-4a00f8c4f6c2](https://user-images.githubusercontent.com/71830807/191510465-193c24bc-5767-4c5b-92f7-45320b68b872.png)\r\
+        \n![f13f04dd-7284-4cd8-9d25-609dbc2bd418](https://user-images.githubusercontent.com/71830807/191510467-7978561d-dcca-4b4a-a290-fe03f39ae50d.png)\r\
+        \n![fc658142-4c28-4778-ab1e-4979bf283bcd](https://user-images.githubusercontent.com/71830807/191510471-02b63c51-3535-42c7-a544-b05c5ce09b83.png)\r\
+        \n![0d903179-757d-4ef2-98d1-2b0bc25ef85d](https://user-images.githubusercontent.com/71830807/191510478-ebbb63ea-eec2-48f9-9644-27ccbf10cb2d.png)\r\
+        \n![4c1633ef-a109-41ab-8f94-b6fd45efff6f](https://user-images.githubusercontent.com/71830807/191510482-2fba4880-53a9-4f29-a4a5-6ece0f7916d8.png)\r\
+        \n![a37fb4c2-930f-45cd-81c7-e7798cc15693](https://user-images.githubusercontent.com/71830807/191510489-91e5421f-4377-4305-af74-c96bf366631a.png)\r\
+        \n\r\n"
+      closed_at: null
+      comments: 1
+      comments_url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/36/comments
+      created_at: '2022-09-21T13:01:29Z'
+      events_url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/36/events
+      html_url: https://github.com/beiyuouo/hcaptcha-model-factory/issues/36
+      id: 1380897156
+      labels:
+      - color: 0075ca
+        default: true
+        description: Improvements or additions to documentation
+        id: 4088197013
+        name: documentation
+        node_id: LA_kwDOHQ7dIc7zrO-V
+        url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/labels/documentation
+      labels_url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/36/labels{/name}
+      locked: false
+      milestone: null
+      node_id: I_kwDOHQ7dIc5STtGE
+      number: 36
+      performed_via_github_app: null
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/36/reactions
+      repository_url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory
+      state: open
+      state_reason: null
+      timeline_url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/36/timeline
+      title: '[question] auto label error'
+      updated_at: '2022-09-21T14:14:09Z'
+      url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory/issues/36
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/71830807?v=4
+        events_url: https://api.github.com/users/luanon404/events{/privacy}
+        followers_url: https://api.github.com/users/luanon404/followers
+        following_url: https://api.github.com/users/luanon404/following{/other_user}
+        gists_url: https://api.github.com/users/luanon404/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/luanon404
+        id: 71830807
+        login: luanon404
+        node_id: MDQ6VXNlcjcxODMwODA3
+        organizations_url: https://api.github.com/users/luanon404/orgs
+        received_events_url: https://api.github.com/users/luanon404/received_events
+        repos_url: https://api.github.com/users/luanon404/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/luanon404/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/luanon404/subscriptions
+        type: User
+        url: https://api.github.com/users/luanon404
+  public: true
+  repo:
+    id: 487513377
+    name: beiyuouo/hcaptcha-model-factory
+    url: https://api.github.com/repos/beiyuouo/hcaptcha-model-factory
+  type: IssueCommentEvent
