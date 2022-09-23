@@ -579,3 +579,78 @@
     name: QIN2DIM/hcaptcha-challenger
     url: https://api.github.com/repos/QIN2DIM/hcaptcha-challenger
   type: PullRequestReviewEvent
+'24167029022':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-22T15:48:28Z'
+  id: '24167029022'
+  payload:
+    action: opened
+    issue:
+      active_lock_reason: null
+      assignee: null
+      assignees: []
+      author_association: NONE
+      body: null
+      closed_at: null
+      comments: 0
+      comments_url: https://api.github.com/repos/chenzongyao200127/hello-wasm/issues/1/comments
+      created_at: '2022-09-22T15:48:28Z'
+      events_url: https://api.github.com/repos/chenzongyao200127/hello-wasm/issues/1/events
+      html_url: https://github.com/chenzongyao200127/hello-wasm/issues/1
+      id: 1382666525
+      labels: []
+      labels_url: https://api.github.com/repos/chenzongyao200127/hello-wasm/issues/1/labels{/name}
+      locked: false
+      milestone: null
+      node_id: I_kwDOIDBa085SadEd
+      number: 1
+      performed_via_github_app: null
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/chenzongyao200127/hello-wasm/issues/1/reactions
+      repository_url: https://api.github.com/repos/chenzongyao200127/hello-wasm
+      state: open
+      state_reason: null
+      timeline_url: https://api.github.com/repos/chenzongyao200127/hello-wasm/issues/1/timeline
+      title: wasm is future!
+      updated_at: '2022-09-22T15:48:28Z'
+      url: https://api.github.com/repos/chenzongyao200127/hello-wasm/issues/1
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+  public: true
+  repo:
+    id: 540039891
+    name: chenzongyao200127/hello-wasm
+    url: https://api.github.com/repos/chenzongyao200127/hello-wasm
+  type: IssuesEvent
