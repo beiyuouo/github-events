@@ -163,3 +163,75 @@
     name: FedML-AI/customer-eaigle
     url: https://api.github.com/repos/FedML-AI/customer-eaigle
   type: DeleteEvent
+'24198461499':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-24T07:47:17Z'
+  id: '24198461499'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: app
+    ref_type: branch
+  public: false
+  repo:
+    id: 508527697
+    name: FedML-AI/customer-eaigle
+    url: https://api.github.com/repos/FedML-AI/customer-eaigle
+  type: CreateEvent
+'24199501084':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-24T10:59:15Z'
+  id: '24199501084'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: f543712ed6590c4eee15a24abaf755abd8466b53
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update fedml_config.yaml
+      sha: 879895ec2dbfd15ea0808f3c17d99db65c77439c
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/879895ec2dbfd15ea0808f3c17d99db65c77439c
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: gpu setting
+      sha: 49f203a2f87ffd12726ba974709a89cb55f41cf0
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/49f203a2f87ffd12726ba974709a89cb55f41cf0
+    distinct_size: 2
+    head: 49f203a2f87ffd12726ba974709a89cb55f41cf0
+    push_id: 11123277281
+    ref: refs/heads/app
+    size: 2
+  public: false
+  repo:
+    id: 508527697
+    name: FedML-AI/customer-eaigle
+    url: https://api.github.com/repos/FedML-AI/customer-eaigle
+  type: PushEvent
