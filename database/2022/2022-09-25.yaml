@@ -22,3 +22,77 @@
     name: OpenMined/PyVertical
     url: https://api.github.com/repos/OpenMined/PyVertical
   type: WatchEvent
+'24204770282':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-25T03:46:13Z'
+  id: '24204770282'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/110997934?
+    gravatar_id: ''
+    id: 110997934
+    login: captcha-challenger
+    url: https://api.github.com/orgs/captcha-challenger
+  payload:
+    before: ad4cd42f0bf7cccc5848f33662ec1c5817c81b26
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'feat: add vercel deploy'
+      sha: 8f28178b0d37dad7ec1143e13884f7193c2ed631
+      url: https://api.github.com/repos/captcha-challenger/free-api/commits/8f28178b0d37dad7ec1143e13884f7193c2ed631
+    distinct_size: 1
+    head: 8f28178b0d37dad7ec1143e13884f7193c2ed631
+    push_id: 11126884402
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 523209622
+    name: captcha-challenger/free-api
+    url: https://api.github.com/repos/captcha-challenger/free-api
+  type: PushEvent
+'24204786378':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-25T03:50:24Z'
+  id: '24204786378'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/110997934?
+    gravatar_id: ''
+    id: 110997934
+    login: captcha-challenger
+    url: https://api.github.com/orgs/captcha-challenger
+  payload:
+    before: 8f28178b0d37dad7ec1143e13884f7193c2ed631
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update vercel.json
+      sha: 18a179de514a0d4af69ab53bf9cf3351e4dffc80
+      url: https://api.github.com/repos/captcha-challenger/free-api/commits/18a179de514a0d4af69ab53bf9cf3351e4dffc80
+    distinct_size: 1
+    head: 18a179de514a0d4af69ab53bf9cf3351e4dffc80
+    push_id: 11126895709
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 523209622
+    name: captcha-challenger/free-api
+    url: https://api.github.com/repos/captcha-challenger/free-api
+  type: PushEvent
