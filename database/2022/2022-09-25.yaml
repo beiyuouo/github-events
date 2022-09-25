@@ -96,3 +96,21 @@
     name: captcha-challenger/free-api
     url: https://api.github.com/repos/captcha-challenger/free-api
   type: PushEvent
+'24207514883':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-25T12:51:54Z'
+  id: '24207514883'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 361750883
+    name: mommytalkltd/LaTeXLive
+    url: https://api.github.com/repos/mommytalkltd/LaTeXLive
+  type: WatchEvent
