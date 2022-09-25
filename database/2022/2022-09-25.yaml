@@ -1,0 +1,24 @@
+'24204301445':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-25T01:53:42Z'
+  id: '24204301445'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/30185530?
+    gravatar_id: ''
+    id: 30185530
+    login: OpenMined
+    url: https://api.github.com/orgs/OpenMined
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 269736833
+    name: OpenMined/PyVertical
+    url: https://api.github.com/repos/OpenMined/PyVertical
+  type: WatchEvent

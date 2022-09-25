@@ -235,3 +235,39 @@
     name: FedML-AI/customer-eaigle
     url: https://api.github.com/repos/FedML-AI/customer-eaigle
   type: PushEvent
+'24200434675':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-24T13:39:05Z'
+  id: '24200434675'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 540820166
+    name: xujli/Awesome-NonIID-Federated-Learning
+    url: https://api.github.com/repos/xujli/Awesome-NonIID-Federated-Learning
+  type: WatchEvent
+'24200436850':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-24T13:39:26Z'
+  id: '24200436850'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 142256905
+    name: synxlin/nn-compression
+    url: https://api.github.com/repos/synxlin/nn-compression
+  type: WatchEvent
