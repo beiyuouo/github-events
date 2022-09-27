@@ -1,0 +1,18 @@
+'24244621019':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-27T09:32:18Z'
+  id: '24244621019'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 541965023
+    name: yuetan031/FedPCL
+    url: https://api.github.com/repos/yuetan031/FedPCL
+  type: WatchEvent
