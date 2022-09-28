@@ -16,3 +16,84 @@
     name: yuetan031/FedPCL
     url: https://api.github.com/repos/yuetan031/FedPCL
   type: WatchEvent
+'24252126168':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-27T14:54:23Z'
+  id: '24252126168'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: 60432690fa0db41f8f4a2bdfa936851ef19f59ba
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: data path'
+      sha: 433c4b8969ab2fe67ecc0df423f586bfe67160e1
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/433c4b8969ab2fe67ecc0df423f586bfe67160e1
+    distinct_size: 1
+    head: 433c4b8969ab2fe67ecc0df423f586bfe67160e1
+    push_id: 11151358262
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 508527697
+    name: FedML-AI/customer-eaigle
+    url: https://api.github.com/repos/FedML-AI/customer-eaigle
+  type: PushEvent
+'24252851396':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-27T15:22:35Z'
+  id: '24252851396'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: 433c4b8969ab2fe67ecc0df423f586bfe67160e1
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: update config'
+      sha: 86b74cd8993088063c9e5e0257d21007f9ec9fa1
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/86b74cd8993088063c9e5e0257d21007f9ec9fa1
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: update eaigle code'
+      sha: 1b404b9d0bf58f8695440022930ecf961b05b0a2
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/1b404b9d0bf58f8695440022930ecf961b05b0a2
+    distinct_size: 2
+    head: 1b404b9d0bf58f8695440022930ecf961b05b0a2
+    push_id: 11151704514
+    ref: refs/heads/main
+    size: 2
+  public: false
+  repo:
+    id: 508527697
+    name: FedML-AI/customer-eaigle
+    url: https://api.github.com/repos/FedML-AI/customer-eaigle
+  type: PushEvent
