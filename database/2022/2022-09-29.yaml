@@ -60,3 +60,54 @@
     name: harubaru/waifu-diffusion
     url: https://api.github.com/repos/harubaru/waifu-diffusion
   type: WatchEvent
+'24301984564':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-09-29T14:29:32Z'
+  id: '24301984564'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: d677ec271af5d5795597173263b533614aef8d48
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: update simulation config
+      sha: a493d60ed7fd909f131bb15724a5d7def04e5e4e
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/a493d60ed7fd909f131bb15724a5d7def04e5e4e
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: eaigle loss'
+      sha: 3a1f44736695e686cd5a90f7315dbbdbdb2e1161
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/3a1f44736695e686cd5a90f7315dbbdbdb2e1161
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: export and val pb model'
+      sha: 79f2bfcdc4a626b87160e86aab56c9b433f84d49
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/79f2bfcdc4a626b87160e86aab56c9b433f84d49
+    distinct_size: 3
+    head: 79f2bfcdc4a626b87160e86aab56c9b433f84d49
+    push_id: 11176032033
+    ref: refs/heads/main
+    size: 3
+  public: false
+  repo:
+    id: 508527697
+    name: FedML-AI/customer-eaigle
+    url: https://api.github.com/repos/FedML-AI/customer-eaigle
+  type: PushEvent
