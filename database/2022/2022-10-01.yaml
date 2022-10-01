@@ -40,3 +40,34 @@
     name: google/latexify_py
     url: https://api.github.com/repos/google/latexify_py
   type: WatchEvent
+'24338949102':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-01T12:54:57Z'
+  id: '24338949102'
+  payload:
+    before: 0a5dd9e07348e171a2323d013f890e5b44180aa7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: update prml s3
+      sha: 080d224225854a17597b5cfd407b972c8051c76c
+      url: https://api.github.com/repos/beiyuouo/ucas-code/commits/080d224225854a17597b5cfd407b972c8051c76c
+    distinct_size: 1
+    head: 080d224225854a17597b5cfd407b972c8051c76c
+    push_id: 11194921653
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 529792213
+    name: beiyuouo/ucas-code
+    url: https://api.github.com/repos/beiyuouo/ucas-code
+  type: PushEvent
