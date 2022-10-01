@@ -1,0 +1,42 @@
+'24338116697':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-01T10:41:05Z'
+  id: '24338116697'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 429520684
+    name: hellodigua/code996
+    url: https://api.github.com/repos/hellodigua/code996
+  type: WatchEvent
+'24338117198':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-01T10:41:09Z'
+  id: '24338117198'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/1342004?
+    gravatar_id: ''
+    id: 1342004
+    login: google
+    url: https://api.github.com/orgs/google
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 282443202
+    name: google/latexify_py
+    url: https://api.github.com/repos/google/latexify_py
+  type: WatchEvent
