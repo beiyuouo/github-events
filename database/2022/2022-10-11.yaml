@@ -179,3 +179,65 @@
     name: beiyuouo/BDCI-FSL
     url: https://api.github.com/repos/beiyuouo/BDCI-FSL
   type: MemberEvent
+'24526376708':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-11T13:25:55Z'
+  id: '24526376708'
+  payload:
+    before: 8b69fb6f1b05081bee2c98a9649a07eafe9e163b
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: change path'
+      sha: 9565b2484b0b19fc3583f04de1cfac82aea646fa
+      url: https://api.github.com/repos/beiyuouo/BDCI-FSL/commits/9565b2484b0b19fc3583f04de1cfac82aea646fa
+    distinct_size: 1
+    head: 9565b2484b0b19fc3583f04de1cfac82aea646fa
+    push_id: 11292500538
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 548923856
+    name: beiyuouo/BDCI-FSL
+    url: https://api.github.com/repos/beiyuouo/BDCI-FSL
+  type: PushEvent
+'24526398028':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-11T13:26:44Z'
+  id: '24526398028'
+  payload:
+    before: 9565b2484b0b19fc3583f04de1cfac82aea646fa
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: testA'
+      sha: 6f8f04ce1080ba149c57deaea016ff0347525697
+      url: https://api.github.com/repos/beiyuouo/BDCI-FSL/commits/6f8f04ce1080ba149c57deaea016ff0347525697
+    distinct_size: 1
+    head: 6f8f04ce1080ba149c57deaea016ff0347525697
+    push_id: 11292510924
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 548923856
+    name: beiyuouo/BDCI-FSL
+    url: https://api.github.com/repos/beiyuouo/BDCI-FSL
+  type: PushEvent
