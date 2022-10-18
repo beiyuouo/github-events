@@ -1,0 +1,31 @@
+'24646140135':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-17T14:59:02Z'
+  id: '24646140135'
+  payload:
+    before: c25fbdbc9ebf8ad089ff6c644335f559a33c0a6b
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: prml hw4
+      sha: 3d2860e1eda21306b5c32ca2609f5a66cccf388d
+      url: https://api.github.com/repos/beiyuouo/ucas-code/commits/3d2860e1eda21306b5c32ca2609f5a66cccf388d
+    distinct_size: 1
+    head: 3d2860e1eda21306b5c32ca2609f5a66cccf388d
+    push_id: 11355381330
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 529792213
+    name: beiyuouo/ucas-code
+    url: https://api.github.com/repos/beiyuouo/ucas-code
+  type: PushEvent
