@@ -35,3 +35,34 @@
     name: FedML-AI/customer-eaigle
     url: https://api.github.com/repos/FedML-AI/customer-eaigle
   type: PushEvent
+'24789930992':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-24T13:02:28Z'
+  id: '24789930992'
+  payload:
+    before: 8a4db494959626bdc37833c3a59e8a8b0ed8a93c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: latest
+      sha: 800f7e1d474f865eeb69d36c6450957e9e78fd48
+      url: https://api.github.com/repos/beiyuouo/BDCI-FSL/commits/800f7e1d474f865eeb69d36c6450957e9e78fd48
+    distinct_size: 1
+    head: 800f7e1d474f865eeb69d36c6450957e9e78fd48
+    push_id: 11429821516
+    ref: refs/heads/kfold
+    size: 1
+  public: false
+  repo:
+    id: 548923856
+    name: beiyuouo/BDCI-FSL
+    url: https://api.github.com/repos/beiyuouo/BDCI-FSL
+  type: PushEvent
