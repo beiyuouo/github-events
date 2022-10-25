@@ -1,0 +1,22 @@
+'24806228560':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-10-25T04:58:41Z'
+  id: '24806228560'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: en
+    ref_type: branch
+  public: false
+  repo:
+    id: 548923856
+    name: beiyuouo/BDCI-FSL
+    url: https://api.github.com/repos/beiyuouo/BDCI-FSL
+  type: CreateEvent
