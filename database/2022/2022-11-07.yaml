@@ -1,0 +1,18 @@
+'25061444476':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-11-07T02:20:16Z'
+  id: '25061444476'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 559033997
+    name: mli/autocut
+    url: https://api.github.com/repos/mli/autocut
+  type: WatchEvent
