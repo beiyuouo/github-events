@@ -1,0 +1,18 @@
+'25443854439':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-11-24T02:52:39Z'
+  id: '25443854439'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 569704247
+    name: yuetan031/FedStar
+    url: https://api.github.com/repos/yuetan031/FedStar
+  type: WatchEvent

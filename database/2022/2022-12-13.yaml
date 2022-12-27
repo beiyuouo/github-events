@@ -1,0 +1,138 @@
+'25848735655':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-12-13T08:53:48Z'
+  id: '25848735655'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    action: opened
+    issue:
+      active_lock_reason: null
+      assignee: null
+      assignees: []
+      author_association: COLLABORATOR
+      body: "```\r\n[FedML-Client(1) @device-id-11270] [Mon, 12 Dec 2022 01:56:04]\
+        \ [INFO] [eaigle_trainer.py:180:train] ####################\r\n[FedML-Client(1)\
+        \ @device-id-11270] [Mon, 12 Dec 2022 01:56:04] [INFO] [eaigle_trainer.py:182:train]\
+        \ Trainer 0 epoch 0 time: 603.4525887966156s batch_num: 1157 speed: 0.5211162252129669\
+        \ s/batch\r\n[FedML-Client(1) @device-id-11270] [Mon, 12 Dec 2022 01:56:04]\
+        \ [INFO] [eaigle_trainer.py:185:train] ####################\r\n[FedML-Client(1)\
+        \ @device-id-11270] [Mon, 12 Dec 2022 01:56:04] [INFO] [eaigle_trainer.py:202:train]\
+        \ End training on Trainer 0\r\n[FedML-Client(1) @device-id-11270] [Mon, 12\
+        \ Dec 2022 01:56:14] [INFO] [eaigle_trainer.py:298:export_yolo] export saved\
+        \ model and pb model\r\n[FedML-Client(1) @device-id-11270] [Mon, 12 Dec 2022\
+        \ 01:56:15] [INFO] [export.py:465:run]\r\n[FedML-Client(1) @device-id-11270]\
+        \ [Mon, 12 Dec 2022 01:56:15] [INFO] \e[34m\e[1mPyTorch:\e[0m starting from\
+        \ runs\\train\\exp\\weights\\model_client_0.pt with output shape (1, 25200,\
+        \ 6) (28.3 MB)\r\n[FedML-Client(1) @device-id-11270] [Mon, 12 Dec 2022 01:56:15]\
+        \ [INFO] [export.py:261:export_saved_model]\r\n[FedML-Client(1) @device-id-11270]\
+        \ [Mon, 12 Dec 2022 01:56:15] [INFO] \e[34m\e[1mTensorFlow SavedModel:\e[0m\
+        \ starting export with tensorflow saved_model 2.4.1...\r\n[FedML-Server(0)\
+        \ @device-id-12547] [Mon, 12 Dec 2022 06:56:57] [INFO] [fedml_comm_manager.py:37:receive_message]\
+        \ receive_message. msg_type = 0, sender_id = 0, receiver_id = 0\r\n[FedML-Server(0)\
+        \ @device-id-12547] [Mon, 12 Dec 2022 06:57:58] [INFO] [fedml_comm_manager.py:37:receive_message]\
+        \ receive_message. msg_type = 0, sender_id = 0, receiver_id = 0\r\n```"
+      closed_at: null
+      comments: 0
+      comments_url: https://api.github.com/repos/FedML-AI/customer-eaigle/issues/1/comments
+      created_at: '2022-12-13T08:53:47Z'
+      events_url: https://api.github.com/repos/FedML-AI/customer-eaigle/issues/1/events
+      html_url: https://github.com/FedML-AI/customer-eaigle/issues/1
+      id: 1493740372
+      labels: []
+      labels_url: https://api.github.com/repos/FedML-AI/customer-eaigle/issues/1/labels{/name}
+      locked: false
+      milestone: null
+      node_id: I_kwDOHk-EUc5ZCKtU
+      number: 1
+      performed_via_github_app: null
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/FedML-AI/customer-eaigle/issues/1/reactions
+      repository_url: https://api.github.com/repos/FedML-AI/customer-eaigle
+      state: open
+      state_reason: null
+      timeline_url: https://api.github.com/repos/FedML-AI/customer-eaigle/issues/1/timeline
+      title: Export Error
+      updated_at: '2022-12-13T08:53:47Z'
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/issues/1
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+  public: false
+  repo:
+    id: 508527697
+    name: FedML-AI/customer-eaigle
+    url: https://api.github.com/repos/FedML-AI/customer-eaigle
+  type: IssuesEvent
+'25851166203':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-12-13T10:29:12Z'
+  id: '25851166203'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/69099025?
+    gravatar_id: ''
+    id: 69099025
+    login: FedML-AI
+    url: https://api.github.com/orgs/FedML-AI
+  payload:
+    before: 281210f0668409c95339e9d34754335c04b35961
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update eaigle_trainer.py
+      sha: c3c68f8d3baae5ccc2e13404a82854f2e4f586eb
+      url: https://api.github.com/repos/FedML-AI/customer-eaigle/commits/c3c68f8d3baae5ccc2e13404a82854f2e4f586eb
+    distinct_size: 1
+    head: c3c68f8d3baae5ccc2e13404a82854f2e4f586eb
+    push_id: 11979732794
+    ref: refs/heads/main
+    size: 1
+  public: false
+  repo:
+    id: 508527697
+    name: FedML-AI/customer-eaigle
+    url: https://api.github.com/repos/FedML-AI/customer-eaigle
+  type: PushEvent
