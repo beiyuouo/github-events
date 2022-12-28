@@ -14,31 +14,14 @@ import json
 import yaml
 from github import Github
 import pytz
-
-github_activity = {
-    "PushEvent": "📌",
-    "CreateEvent": "📁",
-    "WatchEvent": "⭐",
-    "ForkEvent": "🍴",
-    "IssuesEvent": "📝",
-    "PullRequestEvent": "📦",
-    "ReleaseEvent": "🎉",
-    "CommitCommentEvent": "💬",
-    "DeleteEvent": "🗑",
-    "DownloadEvent": "📁",
-    "FollowEvent": "👤",
-    "GistEvent": "📝",
-    "IssueCommentEvent": "💬",
-    "PublicEvent": "📝",
-}
-
-GITHUB_START_COMMENT = "<!-- START_SECTION:github -->"
-GITHUB_END_COMMENT = "<!-- END_SECTION:github -->"
+import report
+import datetime
+from constants import *
 
 
 def get_activity_emoji(tag: str) -> str:
     """Get activity emoji"""
-    return github_activity.get(tag, "")
+    return GITHUB_ACTIVITY.get(tag, "")
 
 
 def mkdir(path: str) -> None:
@@ -47,10 +30,11 @@ def mkdir(path: str) -> None:
         os.mkdir(path)
 
 
-def prepare_database():
+def prepare():
     """Prepare database"""
-    database_path = os.path.join(os.path.dirname(__file__), "..", "database")
-    mkdir(database_path)
+    mkdir(DATABASE_PATH)
+    mkdir(REPORT_PATH)
+    mkdir(FIGURE_PATH)
 
 
 def get_user_events(g: Github):
@@ -71,7 +55,7 @@ def get_user_events(g: Github):
 
 def cache_events(g: Github, time_zone=pytz.timezone("Asia/Shanghai")) -> None:
     """Cache events"""
-    prepare_database()
+    prepare()
     print("username:", g.get_user().name)
 
     global entries
@@ -165,3 +149,40 @@ def generate_new_readme(
         )
 
     return re.sub(pattern, repl, readme)
+
+
+def clear_cache(rebuild: bool = True):
+    """Clear cache"""
+    import shutil
+
+    shutil.rmtree(DATABASE_PATH)
+
+    if rebuild:
+        prepare()
+
+
+def get_readme():
+    pass
+
+
+def update_readme():
+    pass
+
+
+def write_readme():
+    pass
+
+
+def write_summary():
+    pass
+
+
+def generate_report(year: int = None):
+    prepare()
+    reportT = report.ReportTemplate()
+
+    if year is None:
+        year = datetime.datetime.now().year
+
+    reportT.generate(year)
+    reportT.export(to_csv=True)

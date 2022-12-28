@@ -32,3 +32,9 @@ class Core(object):
         readme = utils.update_readme(readme)
         utils.write_readme(readme_path, readme)
         utils.write_summary(readme)
+
+    def clear(self):
+        utils.clear_cache()
+
+    def generate(self, year: int = None):
+        utils.generate_report(year)
