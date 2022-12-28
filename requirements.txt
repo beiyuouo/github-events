@@ -3,3 +3,5 @@ PyGithub
 pytz
 PyYAML
 fire
+pandas
+matplotlib
