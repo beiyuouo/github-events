@@ -1,0 +1,18 @@
+'26151154454':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2022-12-30T13:50:26Z'
+  id: '26151154454'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 153568046
+    name: htqin/awesome-model-quantization
+    url: https://api.github.com/repos/htqin/awesome-model-quantization
+  type: WatchEvent
