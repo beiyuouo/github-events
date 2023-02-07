@@ -36,3 +36,51 @@
     name: beiyuouo/FedDG-Eye
     url: https://api.github.com/repos/beiyuouo/FedDG-Eye
   type: PushEvent
+'26917439791':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-07T07:55:41Z'
+  id: '26917439791'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/43085319?
+    gravatar_id: ''
+    id: 43085319
+    login: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    url: https://api.github.com/orgs/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 156648725
+    name: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    url: https://api.github.com/repos/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  type: WatchEvent
+'26920163247':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-07T09:53:56Z'
+  id: '26920163247'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/16943930?
+    gravatar_id: ''
+    id: 16943930
+    login: facebookresearch
+    url: https://api.github.com/orgs/facebookresearch
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 578825599
+    name: facebookresearch/DiT
+    url: https://api.github.com/repos/facebookresearch/DiT
+  type: WatchEvent
