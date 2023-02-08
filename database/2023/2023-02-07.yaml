@@ -84,3 +84,45 @@
     name: facebookresearch/DiT
     url: https://api.github.com/repos/facebookresearch/DiT
   type: WatchEvent
+'26927764520':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-07T14:53:14Z'
+  id: '26927764520'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 594096901
+    name: lucidrains/musiclm-pytorch
+    url: https://api.github.com/repos/lucidrains/musiclm-pytorch
+  type: WatchEvent
+'26928646856':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-07T15:23:08Z'
+  id: '26928646856'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/11524593?
+    gravatar_id: ''
+    id: 11524593
+    login: secdr
+    url: https://api.github.com/orgs/secdr
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 39057765
+    name: secdr/research-method
+    url: https://api.github.com/repos/secdr/research-method
+  type: WatchEvent
