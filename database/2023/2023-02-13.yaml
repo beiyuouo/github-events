@@ -1,0 +1,36 @@
+'27046486384':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-13T10:08:28Z'
+  id: '27046486384'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 593076976
+    name: Yujun-Shi/FedCLS
+    url: https://api.github.com/repos/Yujun-Shi/FedCLS
+  type: WatchEvent
+'27046635354':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-13T10:14:13Z'
+  id: '27046635354'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 146447849
+    name: xialeiliu/Awesome-Incremental-Learning
+    url: https://api.github.com/repos/xialeiliu/Awesome-Incremental-Learning
+  type: WatchEvent
