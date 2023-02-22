@@ -16,3 +16,35 @@
     name: camenduru/stable-diffusion-webui-colab
     url: https://api.github.com/repos/camenduru/stable-diffusion-webui-colab
   type: WatchEvent
+'27250326278':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-22T07:29:24Z'
+  id: '27250326278'
+  payload:
+    before: b7aac86ff690a68bda37bc1f598fe99aaf9d053c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update 2022-2023-spring.ics
+      sha: cf04d4f7cb53996174b97d15120e4630b1bb2c9f
+      url: https://api.github.com/repos/beiyuouo/schedule/commits/cf04d4f7cb53996174b97d15120e4630b1bb2c9f
+    distinct_size: 1
+    head: cf04d4f7cb53996174b97d15120e4630b1bb2c9f
+    push_id: 12703331660
+    ref: refs/heads/main
+    repository_id: 530141484
+    size: 1
+  public: false
+  repo:
+    id: 530141484
+    name: beiyuouo/schedule
+    url: https://api.github.com/repos/beiyuouo/schedule
+  type: PushEvent
