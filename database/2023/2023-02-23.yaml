@@ -1,0 +1,24 @@
+'27273724355':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-02-23T01:50:53Z'
+  id: '27273724355'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/80042887?
+    gravatar_id: ''
+    id: 80042887
+    login: CVMI-Lab
+    url: https://api.github.com/orgs/CVMI-Lab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 551286851
+    name: CVMI-Lab/SyntheticData
+    url: https://api.github.com/repos/CVMI-Lab/SyntheticData
+  type: WatchEvent
