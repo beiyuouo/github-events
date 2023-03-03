@@ -126,3 +126,21 @@
     name: beiyuouo/blog
     url: https://api.github.com/repos/beiyuouo/blog
   type: PushEvent
+'27464694656':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-03-03T07:56:35Z'
+  id: '27464694656'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 539888500
+    name: chenzomi12/DeepLearningSystem
+    url: https://api.github.com/repos/chenzomi12/DeepLearningSystem
+  type: WatchEvent
