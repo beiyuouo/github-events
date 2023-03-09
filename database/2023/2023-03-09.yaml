@@ -16,3 +16,27 @@
     name: ksreenivasan/OOD_Federated_Learning
     url: https://api.github.com/repos/ksreenivasan/OOD_Federated_Learning
   type: WatchEvent
+'27604742189':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-03-09T12:16:49Z'
+  id: '27604742189'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/104909003?
+    gravatar_id: ''
+    id: 104909003
+    login: openvpi
+    url: https://api.github.com/orgs/openvpi
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 520929785
+    name: openvpi/DiffSinger
+    url: https://api.github.com/repos/openvpi/DiffSinger
+  type: WatchEvent
