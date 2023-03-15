@@ -1,0 +1,24 @@
+'27726288734':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-03-15T02:39:32Z'
+  id: '27726288734'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/48590610?
+    gravatar_id: ''
+    id: 48590610
+    login: THUDM
+    url: https://api.github.com/orgs/THUDM
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 613349035
+    name: THUDM/ChatGLM-6B
+    url: https://api.github.com/repos/THUDM/ChatGLM-6B
+  type: WatchEvent
