@@ -1,0 +1,18 @@
+'27745020999':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-03-15T16:28:40Z'
+  id: '27745020999'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 575042276
+    name: gencay/vscode-chatgpt
+    url: https://api.github.com/repos/gencay/vscode-chatgpt
+  type: WatchEvent
