@@ -1,0 +1,24 @@
+'27815298884':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-03-18T16:07:54Z'
+  id: '27815298884'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/127122328?
+    gravatar_id: ''
+    id: 127122328
+    login: svc-develop-team
+    url: https://api.github.com/orgs/svc-develop-team
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 612139233
+    name: svc-develop-team/so-vits-svc
+    url: https://api.github.com/repos/svc-develop-team/so-vits-svc
+  type: WatchEvent
