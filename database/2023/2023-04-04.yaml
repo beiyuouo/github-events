@@ -150,3 +150,27 @@
     name: captcha-challenger/hcaptcha-model-factory
     url: https://api.github.com/repos/captcha-challenger/hcaptcha-model-factory
   type: IssueCommentEvent
+'28193215091':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-04T12:37:58Z'
+  id: '28193215091'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/10639145?
+    gravatar_id: ''
+    id: 10639145
+    login: apple
+    url: https://api.github.com/orgs/apple
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 566576114
+    name: apple/ml-stable-diffusion
+    url: https://api.github.com/repos/apple/ml-stable-diffusion
+  type: WatchEvent
