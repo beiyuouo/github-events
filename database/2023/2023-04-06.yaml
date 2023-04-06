@@ -1,0 +1,66 @@
+'28239090475':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-06T05:07:19Z'
+  id: '28239090475'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/4158466?
+    gravatar_id: ''
+    id: 4158466
+    login: bytedance
+    url: https://api.github.com/orgs/bytedance
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 607015434
+    name: bytedance/FedDecorr
+    url: https://api.github.com/repos/bytedance/FedDecorr
+  type: WatchEvent
+'28239107787':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-06T05:08:38Z'
+  id: '28239107787'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/16943930?
+    gravatar_id: ''
+    id: 16943930
+    login: facebookresearch
+    url: https://api.github.com/orgs/facebookresearch
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 618058471
+    name: facebookresearch/segment-anything
+    url: https://api.github.com/repos/facebookresearch/segment-anything
+  type: WatchEvent
+'28239116570':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-06T05:09:18Z'
+  id: '28239116570'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 111381431
+    name: hibayesian/awesome-automl-papers
+    url: https://api.github.com/repos/hibayesian/awesome-automl-papers
+  type: WatchEvent
