@@ -22,3 +22,21 @@
     name: ray-project/rayfed
     url: https://api.github.com/repos/ray-project/rayfed
   type: WatchEvent
+'28271427987':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-07T13:01:32Z'
+  id: '28271427987'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 578685027
+    name: godly-devotion/MochiDiffusion
+    url: https://api.github.com/repos/godly-devotion/MochiDiffusion
+  type: WatchEvent
