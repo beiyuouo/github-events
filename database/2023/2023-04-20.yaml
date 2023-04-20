@@ -86,3 +86,155 @@
     name: lm-sys/FastChat
     url: https://api.github.com/repos/lm-sys/FastChat
   type: WatchEvent
+'28537888659':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-20T01:56:59Z'
+  id: '28537888659'
+  payload:
+    before: 368ee685eeae5bf0450133de3e24def0d71e899e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update friends.md
+      sha: 2bfb3729f40827c04de344069b9ed7655a909176
+      url: https://api.github.com/repos/beiyuouo/blog-source/commits/2bfb3729f40827c04de344069b9ed7655a909176
+    distinct_size: 1
+    head: 2bfb3729f40827c04de344069b9ed7655a909176
+    push_id: 13362549494
+    ref: refs/heads/main
+    repository_id: 417769439
+    size: 1
+  public: false
+  repo:
+    id: 417769439
+    name: beiyuouo/blog-source
+    url: https://api.github.com/repos/beiyuouo/blog-source
+  type: PushEvent
+'28537896878':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-20T01:57:39Z'
+  id: '28537896878'
+  payload:
+    before: 9af88d53726c6873f37f44415dfa665fdc593ef2
+    commits:
+    - author:
+        email: beiyuouo@users.noreply.github.com
+        name: beiyuouo
+      distinct: true
+      message: Automated deployment @ 2023-04-20 09:57:34 Asia/Shanghai
+      sha: 5628d5697d5f6454d52fa95a7fabe78fffd2c85b
+      url: https://api.github.com/repos/beiyuouo/blog/commits/5628d5697d5f6454d52fa95a7fabe78fffd2c85b
+    distinct_size: 1
+    head: 5628d5697d5f6454d52fa95a7fabe78fffd2c85b
+    push_id: 13362553647
+    ref: refs/heads/main
+    repository_id: 417776586
+    size: 1
+  public: true
+  repo:
+    id: 417776586
+    name: beiyuouo/blog
+    url: https://api.github.com/repos/beiyuouo/blog
+  type: PushEvent
+'28538085772':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-20T02:11:56Z'
+  id: '28538085772'
+  payload:
+    before: 2bfb3729f40827c04de344069b9ed7655a909176
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update friends.md
+      sha: 6b662731e8efbdff3ca1455c05beedca23db1583
+      url: https://api.github.com/repos/beiyuouo/blog-source/commits/6b662731e8efbdff3ca1455c05beedca23db1583
+    distinct_size: 1
+    head: 6b662731e8efbdff3ca1455c05beedca23db1583
+    push_id: 13362661965
+    ref: refs/heads/main
+    repository_id: 417769439
+    size: 1
+  public: false
+  repo:
+    id: 417769439
+    name: beiyuouo/blog-source
+    url: https://api.github.com/repos/beiyuouo/blog-source
+  type: PushEvent
+'28538093419':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-20T02:12:34Z'
+  id: '28538093419'
+  payload:
+    before: 5628d5697d5f6454d52fa95a7fabe78fffd2c85b
+    commits:
+    - author:
+        email: beiyuouo@users.noreply.github.com
+        name: beiyuouo
+      distinct: true
+      message: Automated deployment @ 2023-04-20 10:12:30 Asia/Shanghai
+      sha: 366b4cdb5e6061d9d0ea7160ea0517659e550c1d
+      url: https://api.github.com/repos/beiyuouo/blog/commits/366b4cdb5e6061d9d0ea7160ea0517659e550c1d
+    distinct_size: 1
+    head: 366b4cdb5e6061d9d0ea7160ea0517659e550c1d
+    push_id: 13362666313
+    ref: refs/heads/main
+    repository_id: 417776586
+    size: 1
+  public: true
+  repo:
+    id: 417776586
+    name: beiyuouo/blog
+    url: https://api.github.com/repos/beiyuouo/blog
+  type: PushEvent
+'28538773747':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-20T03:11:45Z'
+  id: '28538773747'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/43830688?
+    gravatar_id: ''
+    id: 43830688
+    login: google-research
+    url: https://api.github.com/orgs/google-research
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 561364252
+    name: google-research/nerf-from-image
+    url: https://api.github.com/repos/google-research/nerf-from-image
+  type: WatchEvent
