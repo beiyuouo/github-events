@@ -1,0 +1,72 @@
+'28566773213':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-21T03:18:59Z'
+  id: '28566773213'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/127190579?
+    gravatar_id: ''
+    id: 127190579
+    login: OpenLMLab
+    url: https://api.github.com/orgs/OpenLMLab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 628296906
+    name: OpenLMLab/MOSS
+    url: https://api.github.com/repos/OpenLMLab/MOSS
+  type: WatchEvent
+'28569001294':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-21T06:20:02Z'
+  id: '28569001294'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/49653101?
+    gravatar_id: ''
+    id: 49653101
+    login: nv-tlabs
+    url: https://api.github.com/orgs/nv-tlabs
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 624586437
+    name: nv-tlabs/VideoLDM
+    url: https://api.github.com/repos/nv-tlabs/VideoLDM
+  type: WatchEvent
+'28571493280':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-21T08:25:58Z'
+  id: '28571493280'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/30700872?
+    gravatar_id: ''
+    id: 30700872
+    login: plaidml
+    url: https://api.github.com/orgs/plaidml
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 100326126
+    name: plaidml/plaidml
+    url: https://api.github.com/repos/plaidml/plaidml
+  type: WatchEvent
