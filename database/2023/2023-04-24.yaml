@@ -98,3 +98,45 @@
     name: mlc-ai/web-llm
     url: https://api.github.com/repos/mlc-ai/web-llm
   type: WatchEvent
+'28624606347':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-24T15:56:30Z'
+  id: '28624606347'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 148014019
+    name: chrizonix/XInputTest
+    url: https://api.github.com/repos/chrizonix/XInputTest
+  type: WatchEvent
+'28624612842':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-04-24T15:56:45Z'
+  id: '28624612842'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/61346166?
+    gravatar_id: ''
+    id: 61346166
+    login: Vision-CAIR
+    url: https://api.github.com/orgs/Vision-CAIR
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 627716663
+    name: Vision-CAIR/3DCoMPaT-v2
+    url: https://api.github.com/repos/Vision-CAIR/3DCoMPaT-v2
+  type: WatchEvent
