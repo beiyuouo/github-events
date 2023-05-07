@@ -1,0 +1,32 @@
+'28898759873':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-05-07T10:03:10Z'
+  id: '28898759873'
+  payload:
+    before: 24bb72cb95dd7c974e57aa56601cef73df9669b2
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: fix aics exp6
+      sha: 28ebd3d004bea767d6f88aa12707a656c7e1873d
+      url: https://api.github.com/repos/beiyuouo/ucas-code/commits/28ebd3d004bea767d6f88aa12707a656c7e1873d
+    distinct_size: 1
+    head: 28ebd3d004bea767d6f88aa12707a656c7e1873d
+    push_id: 13549997793
+    ref: refs/heads/main
+    repository_id: 529792213
+    size: 1
+  public: false
+  repo:
+    id: 529792213
+    name: beiyuouo/ucas-code
+    url: https://api.github.com/repos/beiyuouo/ucas-code
+  type: PushEvent
