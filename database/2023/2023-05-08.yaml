@@ -30,3 +30,45 @@
     name: beiyuouo/ucas-code
     url: https://api.github.com/repos/beiyuouo/ucas-code
   type: PushEvent
+'28922051990':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-05-08T15:34:49Z'
+  id: '28922051990'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/131225614?
+    gravatar_id: ''
+    id: 131225614
+    login: voicepaw
+    url: https://api.github.com/orgs/voicepaw
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 614403880
+    name: voicepaw/so-vits-svc-fork
+    url: https://api.github.com/repos/voicepaw/so-vits-svc-fork
+  type: WatchEvent
+'28922053290':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-05-08T15:34:52Z'
+  id: '28922053290'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 527419347
+    name: w-okada/voice-changer
+    url: https://api.github.com/repos/w-okada/voice-changer
+  type: WatchEvent
