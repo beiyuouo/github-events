@@ -16,3 +16,53 @@
     name: JayZhang42/FederatedGPT-Shepherd
     url: https://api.github.com/repos/JayZhang42/FederatedGPT-Shepherd
   type: WatchEvent
+'29046071637':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-05-13T15:20:29Z'
+  id: '29046071637'
+  payload:
+    before: c86130f8a589cd476f0491a2f237561a1212e9bc
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: dl paper reading
+      sha: 632e9387431e6127d9f61176a7e6e772980143f7
+      url: https://api.github.com/repos/beiyuouo/ucas-code/commits/632e9387431e6127d9f61176a7e6e772980143f7
+    distinct_size: 1
+    head: 632e9387431e6127d9f61176a7e6e772980143f7
+    push_id: 13624329038
+    ref: refs/heads/main
+    repository_id: 529792213
+    size: 1
+  public: false
+  repo:
+    id: 529792213
+    name: beiyuouo/ucas-code
+    url: https://api.github.com/repos/beiyuouo/ucas-code
+  type: PushEvent
+'29046106867':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-05-13T15:25:53Z'
+  id: '29046106867'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 639770088
+    name: zjr2000/Awesome-Multimodal-Assistant
+    url: https://api.github.com/repos/zjr2000/Awesome-Multimodal-Assistant
+  type: WatchEvent
