@@ -1,0 +1,18 @@
+'29392026574':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-05-30T03:52:12Z'
+  id: '29392026574'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 644280681
+    name: lyuchenyang/Macaw-LLM
+    url: https://api.github.com/repos/lyuchenyang/Macaw-LLM
+  type: WatchEvent
