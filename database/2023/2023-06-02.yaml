@@ -1,0 +1,78 @@
+'29479071788':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-02T02:46:30Z'
+  id: '29479071788'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 645232426
+    name: jianzhnie/Chinese-Guanaco
+    url: https://api.github.com/repos/jianzhnie/Chinese-Guanaco
+  type: WatchEvent
+'29479072572':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-02T02:46:35Z'
+  id: '29479072572'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 461864160
+    name: JerryLife/FedOnce
+    url: https://api.github.com/repos/JerryLife/FedOnce
+  type: WatchEvent
+'29487623658':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-02T11:00:08Z'
+  id: '29487623658'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/16943930?
+    gravatar_id: ''
+    id: 16943930
+    login: facebookresearch
+    url: https://api.github.com/orgs/facebookresearch
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 645640182
+    name: facebookresearch/hiera
+    url: https://api.github.com/repos/facebookresearch/hiera
+  type: WatchEvent
+'29488678112':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-02T11:51:03Z'
+  id: '29488678112'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 648068417
+    name: yihua7/NeRF-Texture
+    url: https://api.github.com/repos/yihua7/NeRF-Texture
+  type: WatchEvent
