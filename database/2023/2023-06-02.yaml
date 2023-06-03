@@ -76,3 +76,41 @@
     name: yihua7/NeRF-Texture
     url: https://api.github.com/repos/yihua7/NeRF-Texture
   type: WatchEvent
+'29492361392':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-02T14:20:07Z'
+  id: '29492361392'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/110997934?
+    gravatar_id: ''
+    id: 110997934
+    login: captcha-challenger
+    url: https://api.github.com/orgs/captcha-challenger
+  payload:
+    before: 5a69e1a924d7a7b3a1cb81948b17b6c1cb03a058
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: altclip demo'
+      sha: 395bc252dde268749d82670469fb229981b06bd3
+      url: https://api.github.com/repos/captcha-challenger/unicaptcha-challenger/commits/395bc252dde268749d82670469fb229981b06bd3
+    distinct_size: 1
+    head: 395bc252dde268749d82670469fb229981b06bd3
+    push_id: 13850414424
+    ref: refs/heads/main
+    repository_id: 581772592
+    size: 1
+  public: false
+  repo:
+    id: 581772592
+    name: captcha-challenger/unicaptcha-challenger
+    url: https://api.github.com/repos/captcha-challenger/unicaptcha-challenger
+  type: PushEvent
