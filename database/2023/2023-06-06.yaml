@@ -147,3 +147,35 @@
     name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
     url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
   type: PushEvent
+'29561177979':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-06T12:15:41Z'
+  id: '29561177979'
+  payload:
+    before: b74a07f9dd24cf905060c2b9c45ca37881602f46
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update README.md
+      sha: 9c4fd2f8ae0814f576ea62ccd6a2659cdd1ce913
+      url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data/commits/9c4fd2f8ae0814f576ea62ccd6a2659cdd1ce913
+    distinct_size: 1
+    head: 9c4fd2f8ae0814f576ea62ccd6a2659cdd1ce913
+    push_id: 13886371542
+    ref: refs/heads/main
+    repository_id: 650129573
+    size: 1
+  public: true
+  repo:
+    id: 650129573
+    name: beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+    url: https://api.github.com/repos/beiyuouo/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+  type: PushEvent
