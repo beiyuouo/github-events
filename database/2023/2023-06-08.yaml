@@ -1,0 +1,18 @@
+'29607220762':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-08T01:30:17Z'
+  id: '29607220762'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 148800148
+    name: wzpan/BeamerStyleSlides
+    url: https://api.github.com/repos/wzpan/BeamerStyleSlides
+  type: WatchEvent
