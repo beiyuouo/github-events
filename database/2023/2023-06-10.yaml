@@ -1,0 +1,42 @@
+'29661299780':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-10T07:20:35Z'
+  id: '29661299780'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/113579933?
+    gravatar_id: ''
+    id: 113579933
+    login: PlayVoice
+    url: https://api.github.com/orgs/PlayVoice
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 539767354
+    name: PlayVoice/so-vits-svc-5.0
+    url: https://api.github.com/repos/PlayVoice/so-vits-svc-5.0
+  type: WatchEvent
+'29661301086':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-10T07:20:49Z'
+  id: '29661301086'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 568649213
+    name: zjhellofss/KuiperInfer
+    url: https://api.github.com/repos/zjhellofss/KuiperInfer
+  type: WatchEvent
