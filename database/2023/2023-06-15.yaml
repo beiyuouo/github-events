@@ -1,0 +1,24 @@
+'29780813759':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-15T13:20:12Z'
+  id: '29780813759'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/54675540?
+    gravatar_id: ''
+    id: 54675540
+    login: FederatedAI
+    url: https://api.github.com/orgs/FederatedAI
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 306213405
+    name: FederatedAI/research
+    url: https://api.github.com/repos/FederatedAI/research
+  type: WatchEvent
