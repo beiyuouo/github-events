@@ -129,3 +129,39 @@
     name: windingwind/zotero-better-notes
     url: https://api.github.com/repos/windingwind/zotero-better-notes
   type: WatchEvent
+'30036278904':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-27T12:58:05Z'
+  id: '30036278904'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 568797613
+    name: MuiseDestiny/zotero-style
+    url: https://api.github.com/repos/MuiseDestiny/zotero-style
+  type: WatchEvent
+'30036570790':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-27T13:07:31Z'
+  id: '30036570790'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 410689335
+    name: dvanoni/notero
+    url: https://api.github.com/repos/dvanoni/notero
+  type: WatchEvent
