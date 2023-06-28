@@ -1,0 +1,18 @@
+'30051717879':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-06-28T01:26:56Z'
+  id: '30051717879'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 223101787
+    name: l0o0/translators_CN
+    url: https://api.github.com/repos/l0o0/translators_CN
+  type: WatchEvent
