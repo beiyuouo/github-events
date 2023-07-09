@@ -262,3 +262,21 @@
     name: beiyuouo/awesome-asynchronous-federated-learning
     url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
   type: PushEvent
+'30292252891':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-09T12:30:30Z'
+  id: '30292252891'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 574868854
+    name: WwZzz/FLGo
+    url: https://api.github.com/repos/WwZzz/FLGo
+  type: WatchEvent
