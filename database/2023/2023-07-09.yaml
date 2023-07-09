@@ -102,3 +102,163 @@
     name: imgly/background-removal-js
     url: https://api.github.com/repos/imgly/background-removal-js
   type: WatchEvent
+'30290782365':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-09T08:52:18Z'
+  id: '30290782365'
+  payload:
+    before: 71668347a4d4fa20cec563860ffabeff47610032
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update papers.yaml
+      sha: 67795e0ae196ffdfbff8f1defe8fed36d2a2f4a2
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/67795e0ae196ffdfbff8f1defe8fed36d2a2f4a2
+    distinct_size: 1
+    head: 67795e0ae196ffdfbff8f1defe8fed36d2a2f4a2
+    push_id: 14254354491
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
+'30290805195':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-09T08:56:15Z'
+  id: '30290805195'
+  payload:
+    before: 76d681859ded9a432f374410ce93be3194c1c015
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update papers.yaml
+      sha: 267558c266e5d472ee7f604817045602d86ee9df
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/267558c266e5d472ee7f604817045602d86ee9df
+    distinct_size: 1
+    head: 267558c266e5d472ee7f604817045602d86ee9df
+    push_id: 14254368652
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
+'30290870769':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-09T09:06:51Z'
+  id: '30290870769'
+  payload:
+    before: 2bf503495b84bbe7defbb1006ca6c9381e3b4674
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: pre-commit
+      sha: 6bbfe8665da17dbc0a0b22fc97b3a1d7103fde2a
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/6bbfe8665da17dbc0a0b22fc97b3a1d7103fde2a
+    distinct_size: 1
+    head: 6bbfe8665da17dbc0a0b22fc97b3a1d7103fde2a
+    push_id: 14254409581
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
+'30290964383':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-09T09:21:02Z'
+  id: '30290964383'
+  payload:
+    before: 6bbfe8665da17dbc0a0b22fc97b3a1d7103fde2a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: page build
+      sha: bb85acf9fb5a419afeb00c3946739f8e5433ca62
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/bb85acf9fb5a419afeb00c3946739f8e5433ca62
+    distinct_size: 1
+    head: bb85acf9fb5a419afeb00c3946739f8e5433ca62
+    push_id: 14254468073
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
+'30291472213':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-09T10:37:26Z'
+  id: '30291472213'
+  payload:
+    before: 03d7fb928cdf1aa29f6cfe307da8a70e05c94a09
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update papers.yaml
+      sha: 9b4199018097d7e88a6a7fccc49e4ea6b942ded2
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/9b4199018097d7e88a6a7fccc49e4ea6b942ded2
+    distinct_size: 1
+    head: 9b4199018097d7e88a6a7fccc49e4ea6b942ded2
+    push_id: 14254792019
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
