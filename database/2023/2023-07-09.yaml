@@ -280,3 +280,27 @@
     name: WwZzz/FLGo
     url: https://api.github.com/repos/WwZzz/FLGo
   type: WatchEvent
+'30292655443':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-09T13:20:36Z'
+  id: '30292655443'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/60539444?
+    gravatar_id: ''
+    id: 60539444
+    login: jina-ai
+    url: https://api.github.com/orgs/jina-ai
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 157198623
+    name: jina-ai/clip-as-service
+    url: https://api.github.com/repos/jina-ai/clip-as-service
+  type: WatchEvent
