@@ -1,0 +1,18 @@
+'30311038375':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-10T12:50:44Z'
+  id: '30311038375'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 450204275
+    name: rui-yan/SSL-FL
+    url: https://api.github.com/repos/rui-yan/SSL-FL
+  type: WatchEvent
