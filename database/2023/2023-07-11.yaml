@@ -69,3 +69,35 @@
     name: beiyuouo/awesome-asynchronous-federated-learning
     url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
   type: PushEvent
+'30341710547':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-11T13:08:44Z'
+  id: '30341710547'
+  payload:
+    before: b4f2a75a4d555ec981424b0a1fbaa9b9684c9ce7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update papers.yaml
+      sha: cf22bc44f42fb646abdf7d1348533dca4baad31e
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/cf22bc44f42fb646abdf7d1348533dca4baad31e
+    distinct_size: 1
+    head: cf22bc44f42fb646abdf7d1348533dca4baad31e
+    push_id: 14279933566
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
