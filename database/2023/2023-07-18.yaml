@@ -1,0 +1,24 @@
+'30485185177':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-18T01:08:59Z'
+  id: '30485185177'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/80964257?
+    gravatar_id: ''
+    id: 80964257
+    login: SMILELab-FL
+    url: https://api.github.com/orgs/SMILELab-FL
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 648743789
+    name: SMILELab-FL/FedNoisy
+    url: https://api.github.com/repos/SMILELab-FL/FedNoisy
+  type: WatchEvent
