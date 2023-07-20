@@ -1,0 +1,24 @@
+'30544275382':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-20T01:37:18Z'
+  id: '30544275382'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/33334274?
+    gravatar_id: ''
+    id: 33334274
+    login: synercys
+    url: https://api.github.com/orgs/synercys
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 446255437
+    name: synercys/annotated_latex_equations
+    url: https://api.github.com/repos/synercys/annotated_latex_equations
+  type: WatchEvent
