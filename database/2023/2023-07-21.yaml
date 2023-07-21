@@ -1,0 +1,42 @@
+'30573249122':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-21T01:29:17Z'
+  id: '30573249122'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 668122773
+    name: FlagAlpha/Llama2-Chinese
+    url: https://api.github.com/repos/FlagAlpha/Llama2-Chinese
+  type: WatchEvent
+'30573251247':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-21T01:29:31Z'
+  id: '30573251247'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/126568758?
+    gravatar_id: ''
+    id: 126568758
+    login: securefederatedai
+    url: https://api.github.com/orgs/securefederatedai
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 642597606
+    name: securefederatedai/federated-standards
+    url: https://api.github.com/repos/securefederatedai/federated-standards
+  type: WatchEvent
