@@ -16,3 +16,67 @@
     name: QIN2DIM/hysterical_ticket
     url: https://api.github.com/repos/QIN2DIM/hysterical_ticket
   type: WatchEvent
+'30730978816':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-28T01:33:13Z'
+  id: '30730978816'
+  payload:
+    before: fb53972ae452fe4817a60ffc6e60bdd64452851c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update slides.md
+      sha: a8271e2b58b0bfdd5f61596ce757c4b1d40d36e0
+      url: https://api.github.com/repos/beiyuouo/slide/commits/a8271e2b58b0bfdd5f61596ce757c4b1d40d36e0
+    distinct_size: 1
+    head: a8271e2b58b0bfdd5f61596ce757c4b1d40d36e0
+    push_id: 14476294088
+    ref: refs/heads/main
+    repository_id: 669984987
+    size: 1
+  public: true
+  repo:
+    id: 669984987
+    name: beiyuouo/slide
+    url: https://api.github.com/repos/beiyuouo/slide
+  type: PushEvent
+'30731078709':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-28T01:42:27Z'
+  id: '30731078709'
+  payload:
+    before: a8271e2b58b0bfdd5f61596ce757c4b1d40d36e0
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Create README.md
+      sha: 2e310ff83fa3388674abb5baf4cbd82e7c0290b8
+      url: https://api.github.com/repos/beiyuouo/slide/commits/2e310ff83fa3388674abb5baf4cbd82e7c0290b8
+    distinct_size: 1
+    head: 2e310ff83fa3388674abb5baf4cbd82e7c0290b8
+    push_id: 14476346066
+    ref: refs/heads/main
+    repository_id: 669984987
+    size: 1
+  public: true
+  repo:
+    id: 669984987
+    name: beiyuouo/slide
+    url: https://api.github.com/repos/beiyuouo/slide
+  type: PushEvent
