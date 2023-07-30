@@ -1,0 +1,32 @@
+'30760936010':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-29T17:37:45Z'
+  id: '30760936010'
+  payload:
+    before: 2e310ff83fa3388674abb5baf4cbd82e7c0290b8
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update slides.md
+      sha: 2a2d33839a4d4deac7922ce0fce54cf68676622a
+      url: https://api.github.com/repos/beiyuouo/slide/commits/2a2d33839a4d4deac7922ce0fce54cf68676622a
+    distinct_size: 1
+    head: 2a2d33839a4d4deac7922ce0fce54cf68676622a
+    push_id: 14492332717
+    ref: refs/heads/main
+    repository_id: 669984987
+    size: 1
+  public: true
+  repo:
+    id: 669984987
+    name: beiyuouo/slide
+    url: https://api.github.com/repos/beiyuouo/slide
+  type: PushEvent
