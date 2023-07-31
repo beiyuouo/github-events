@@ -1,0 +1,24 @@
+'30785038120':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-07-31T12:43:43Z'
+  id: '30785038120'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/20442435?
+    gravatar_id: ''
+    id: 20442435
+    login: epfml
+    url: https://api.github.com/orgs/epfml
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 672733733
+    name: epfml/optML-pku
+    url: https://api.github.com/repos/epfml/optML-pku
+  type: WatchEvent
