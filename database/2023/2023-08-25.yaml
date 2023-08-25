@@ -286,3 +286,35 @@
     name: beiyuouo/leica-watermark
     url: https://api.github.com/repos/beiyuouo/leica-watermark
   type: PushEvent
+'31373710207':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-08-25T12:11:56Z'
+  id: '31373710207'
+  payload:
+    before: b166d2801e6c3b63f900cb48dd6f2c0e408ae6ce
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: use png for icon, fit img size'
+      sha: c63689c493c75549bc8d6007e6900e8d3ba2724a
+      url: https://api.github.com/repos/beiyuouo/leica-watermark/commits/c63689c493c75549bc8d6007e6900e8d3ba2724a
+    distinct_size: 1
+    head: c63689c493c75549bc8d6007e6900e8d3ba2724a
+    push_id: 14805464174
+    ref: refs/heads/main
+    repository_id: 681914143
+    size: 1
+  public: true
+  repo:
+    id: 681914143
+    name: beiyuouo/leica-watermark
+    url: https://api.github.com/repos/beiyuouo/leica-watermark
+  type: PushEvent
