@@ -140,3 +140,35 @@
     name: beiyuouo/ezkfg
     url: https://api.github.com/repos/beiyuouo/ezkfg
   type: CreateEvent
+'31777370038':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-09-12T15:09:11Z'
+  id: '31777370038'
+  payload:
+    before: 7ac70d202ac8de4e0841d0f023baca8c47d07c8c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: nsga2 logs and results'
+      sha: 057bcbaf8e9dfbd1f6dd8fc0de1e5c1c13eceb65
+      url: https://api.github.com/repos/beiyuouo/KAMOFL/commits/057bcbaf8e9dfbd1f6dd8fc0de1e5c1c13eceb65
+    distinct_size: 1
+    head: 057bcbaf8e9dfbd1f6dd8fc0de1e5c1c13eceb65
+    push_id: 15013994105
+    ref: refs/heads/main
+    repository_id: 666034583
+    size: 1
+  public: false
+  repo:
+    id: 666034583
+    name: beiyuouo/KAMOFL
+    url: https://api.github.com/repos/beiyuouo/KAMOFL
+  type: PushEvent
