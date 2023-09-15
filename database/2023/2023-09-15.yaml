@@ -1,0 +1,24 @@
+'31851209286':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-09-15T01:56:05Z'
+  id: '31851209286'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/67871744?
+    gravatar_id: ''
+    id: 67871744
+    login: sun-umn
+    url: https://api.github.com/orgs/sun-umn
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 571084441
+    name: sun-umn/federated-multi-modality-learning
+    url: https://api.github.com/repos/sun-umn/federated-multi-modality-learning
+  type: WatchEvent
