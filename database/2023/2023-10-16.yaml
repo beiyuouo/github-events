@@ -1,0 +1,18 @@
+'32584436940':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-10-16T08:51:20Z'
+  id: '32584436940'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 630253898
+    name: justin871030/Segment-Anything-CLIP
+    url: https://api.github.com/repos/justin871030/Segment-Anything-CLIP
+  type: WatchEvent
