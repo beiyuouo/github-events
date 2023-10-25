@@ -1,0 +1,37 @@
+'32807978157':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-10-24T15:22:32Z'
+  id: '32807978157'
+  payload:
+    action: added
+    member:
+      avatar_url: https://avatars.githubusercontent.com/u/133198826?v=4
+      events_url: https://api.github.com/users/heshiwukong/events{/privacy}
+      followers_url: https://api.github.com/users/heshiwukong/followers
+      following_url: https://api.github.com/users/heshiwukong/following{/other_user}
+      gists_url: https://api.github.com/users/heshiwukong/gists{/gist_id}
+      gravatar_id: ''
+      html_url: https://github.com/heshiwukong
+      id: 133198826
+      login: heshiwukong
+      node_id: U_kgDOB_Bz6g
+      organizations_url: https://api.github.com/users/heshiwukong/orgs
+      received_events_url: https://api.github.com/users/heshiwukong/received_events
+      repos_url: https://api.github.com/users/heshiwukong/repos
+      site_admin: false
+      starred_url: https://api.github.com/users/heshiwukong/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/heshiwukong/subscriptions
+      type: User
+      url: https://api.github.com/users/heshiwukong
+  public: false
+  repo:
+    id: 529792213
+    name: beiyuouo/ucas-code
+    url: https://api.github.com/repos/beiyuouo/ucas-code
+  type: MemberEvent
