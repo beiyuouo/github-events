@@ -1,0 +1,24 @@
+'32823389349':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-10-25T05:08:34Z'
+  id: '32823389349'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/109945100?
+    gravatar_id: ''
+    id: 109945100
+    login: modelscope
+    url: https://api.github.com/orgs/modelscope
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 517552648
+    name: modelscope/modelscope
+    url: https://api.github.com/repos/modelscope/modelscope
+  type: WatchEvent
