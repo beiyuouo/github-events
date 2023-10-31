@@ -1,0 +1,36 @@
+'32970184498':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-10-31T05:39:09Z'
+  id: '32970184498'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 712215280
+    name: Sprinter1999/FedGCN
+    url: https://api.github.com/repos/Sprinter1999/FedGCN
+  type: WatchEvent
+'32970187073':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-10-31T05:39:20Z'
+  id: '32970187073'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 454532702
+    name: yh-yao/FedGCN
+    url: https://api.github.com/repos/yh-yao/FedGCN
+  type: WatchEvent
