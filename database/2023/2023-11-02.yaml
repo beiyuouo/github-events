@@ -1,0 +1,18 @@
+'33035902491':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-02T08:42:29Z'
+  id: '33035902491'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 697087474
+    name: abbottyanginchina/Awesome-Federated-Unlearning
+    url: https://api.github.com/repos/abbottyanginchina/Awesome-Federated-Unlearning
+  type: WatchEvent
