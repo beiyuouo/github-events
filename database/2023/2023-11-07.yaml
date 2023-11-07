@@ -1,0 +1,77 @@
+'33147830871':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-07T08:02:54Z'
+  id: '33147830871'
+  payload:
+    before: 4e143e6d3c893d2fd665378bd6cfb30c61a7800e
+    commits:
+    - author:
+        email: mgq3374541@163.com
+        name: mgqa34
+      distinct: true
+      message: 'add cipher key default config
+
+
+        Signed-off-by: mgqa34 <mgq3374541@163.com>'
+      sha: e636f37021a979ebdbaffb9798f066df43f6958b
+      url: https://api.github.com/repos/beiyuouo/FATE/commits/e636f37021a979ebdbaffb9798f066df43f6958b
+    - author:
+        email: mgq3374541@163.com
+        name: mgqa34
+      distinct: true
+      message: 'Merge pull request #5238 from FederatedAI/feature-v1.11.4-key_config
+
+
+        add cipher key default config'
+      sha: 4f625b8b94d26f339212096ec4f76e77a29e3712
+      url: https://api.github.com/repos/beiyuouo/FATE/commits/4f625b8b94d26f339212096ec4f76e77a29e3712
+    - author:
+        email: talkingwallace@sohu.com
+        name: weijingchen
+      distinct: true
+      message: 'recover xentropy computation, align to lgb
+
+        Signed-off-by: weijingchen <talkingwallace@sohu.com>
+
+
+        Signed-off-by: cwj <talkingwallace@sohu.com>'
+      sha: c563921356a9855119686517041893b7cf1f83b7
+      url: https://api.github.com/repos/beiyuouo/FATE/commits/c563921356a9855119686517041893b7cf1f83b7
+    - author:
+        email: mgq3374541@163.com
+        name: mgqa34
+      distinct: true
+      message: 'Merge pull request #5248 from FederatedAI/feature-1.11.4-bug-fix
+
+
+        recover xentropy computation, align to lgb'
+      sha: 564e5d9c78fbec69bc938c27548628d2829bb461
+      url: https://api.github.com/repos/beiyuouo/FATE/commits/564e5d9c78fbec69bc938c27548628d2829bb461
+    - author:
+        email: 289765648@qq.com
+        name: FanTao
+      distinct: true
+      message: 'Merge pull request #5251 from FederatedAI/develop-1.11.4
+
+
+        Update Default Key Strength'
+      sha: 8fd64e31226841cd623fda00479d3fb6c530d904
+      url: https://api.github.com/repos/beiyuouo/FATE/commits/8fd64e31226841cd623fda00479d3fb6c530d904
+    distinct_size: 5
+    head: 8fd64e31226841cd623fda00479d3fb6c530d904
+    push_id: 15722205786
+    ref: refs/heads/master
+    repository_id: 685902349
+    size: 5
+  public: true
+  repo:
+    id: 685902349
+    name: beiyuouo/FATE
+    url: https://api.github.com/repos/beiyuouo/FATE
+  type: PushEvent
