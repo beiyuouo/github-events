@@ -1,0 +1,36 @@
+'33289695986':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-13T02:36:04Z'
+  id: '33289695986'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 104337773
+    name: 1c7/chinese-independent-developer
+    url: https://api.github.com/repos/1c7/chinese-independent-developer
+  type: WatchEvent
+'33300385874':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-13T11:53:06Z'
+  id: '33300385874'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 717317259
+    name: weigq/iclr2024_stats
+    url: https://api.github.com/repos/weigq/iclr2024_stats
+  type: WatchEvent
