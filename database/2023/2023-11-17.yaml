@@ -34,3 +34,21 @@
     name: yfzhang114/Generalization-Causality
     url: https://api.github.com/repos/yfzhang114/Generalization-Causality
   type: WatchEvent
+'33416928004':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-17T01:43:44Z'
+  id: '33416928004'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 675981554
+    name: cv-cat/Spider_XHS
+    url: https://api.github.com/repos/cv-cat/Spider_XHS
+  type: WatchEvent
