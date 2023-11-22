@@ -1,0 +1,24 @@
+'33533685665':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-22T04:56:18Z'
+  id: '33533685665'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/58421721?
+    gravatar_id: ''
+    id: 58421721
+    login: aim-uofa
+    url: https://api.github.com/orgs/aim-uofa
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 721435008
+    name: aim-uofa/AutoStory
+    url: https://api.github.com/repos/aim-uofa/AutoStory
+  type: WatchEvent
