@@ -16,3 +16,109 @@
     name: jingyi0000/VLM_survey
     url: https://api.github.com/repos/jingyi0000/VLM_survey
   type: WatchEvent
+'33717540240':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-29T12:31:34Z'
+  id: '33717540240'
+  payload:
+    before: ce2f790c037c53c802e75b660466ba21af9826cf
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: init framework'
+      sha: a1e92a8ea2b9facb0730e93db1a27ed562b6b765
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/a1e92a8ea2b9facb0730e93db1a27ed562b6b765
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: demo version'
+      sha: a445bbbf3bafcd563f7f37cfb62d60e9da3f7874
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/a445bbbf3bafcd563f7f37cfb62d60e9da3f7874
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: suffix'
+      sha: ab3e7c8cbe338e1fc35801ba1746709da16fb13e
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/ab3e7c8cbe338e1fc35801ba1746709da16fb13e
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: add logs'
+      sha: 53709280b2a7c6bbb066a38f154719b0059ad066
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/53709280b2a7c6bbb066a38f154719b0059ad066
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: suffix'
+      sha: f7024f2553fc130ed6305907a253df2f1679b706
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/f7024f2553fc130ed6305907a253df2f1679b706
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: rolling'
+      sha: f8ee7613d456487c53e44b95d38c5c2a031c9f7a
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/f8ee7613d456487c53e44b95d38c5c2a031c9f7a
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: suffix and finialize'
+      sha: 178ec12eb2fa07a57297e683b47bb51e76be0afd
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/178ec12eb2fa07a57297e683b47bb51e76be0afd
+    distinct_size: 7
+    head: 178ec12eb2fa07a57297e683b47bb51e76be0afd
+    push_id: 16020046537
+    ref: refs/heads/main
+    repository_id: 707521821
+    size: 7
+  public: false
+  repo:
+    id: 707521821
+    name: beiyuouo/FATE-Async
+    url: https://api.github.com/repos/beiyuouo/FATE-Async
+  type: PushEvent
+'33717662075':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-11-29T12:35:31Z'
+  id: '33717662075'
+  payload:
+    before: 178ec12eb2fa07a57297e683b47bb51e76be0afd
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: update readme'
+      sha: 7fe127eb200e10ea8ac61dfd87c5b58e4f42e1d3
+      url: https://api.github.com/repos/beiyuouo/FATE-Async/commits/7fe127eb200e10ea8ac61dfd87c5b58e4f42e1d3
+    distinct_size: 1
+    head: 7fe127eb200e10ea8ac61dfd87c5b58e4f42e1d3
+    push_id: 16020109082
+    ref: refs/heads/main
+    repository_id: 707521821
+    size: 1
+  public: false
+  repo:
+    id: 707521821
+    name: beiyuouo/FATE-Async
+    url: https://api.github.com/repos/beiyuouo/FATE-Async
+  type: PushEvent
