@@ -1,0 +1,39 @@
+'33970121619':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-07T09:01:45Z'
+  id: '33970121619'
+  payload:
+    before: 28f8a1b74ccd01c8ac96e7620cabde3d4554af89
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: theoretical analysis'
+      sha: cc005a1f6183e805af305f6ec0e6db5babb4f39a
+      url: https://api.github.com/repos/beiyuouo/KAMOFL/commits/cc005a1f6183e805af305f6ec0e6db5babb4f39a
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: add Wg, sigma norm and seed'
+      sha: 60b673f5b7d4f6f4be0394d7c76e94a4fb4eb9c8
+      url: https://api.github.com/repos/beiyuouo/KAMOFL/commits/60b673f5b7d4f6f4be0394d7c76e94a4fb4eb9c8
+    distinct_size: 2
+    head: 60b673f5b7d4f6f4be0394d7c76e94a4fb4eb9c8
+    push_id: 16168909243
+    ref: refs/heads/main
+    repository_id: 666034583
+    size: 2
+  public: false
+  repo:
+    id: 666034583
+    name: beiyuouo/KAMOFL
+    url: https://api.github.com/repos/beiyuouo/KAMOFL
+  type: PushEvent
