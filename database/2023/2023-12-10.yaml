@@ -40,3 +40,27 @@
     name: practical-tutorials/project-based-learning
     url: https://api.github.com/repos/practical-tutorials/project-based-learning
   type: WatchEvent
+'34046614347':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-10T12:30:39Z'
+  id: '34046614347'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/39571499?
+    gravatar_id: ''
+    id: 39571499
+    login: mit-han-lab
+    url: https://api.github.com/orgs/mit-han-lab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 497420077
+    name: mit-han-lab/bevfusion
+    url: https://api.github.com/repos/mit-han-lab/bevfusion
+  type: WatchEvent
