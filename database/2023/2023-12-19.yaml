@@ -1,0 +1,60 @@
+'34275824739':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-19T10:31:56Z'
+  id: '34275824739'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 584877726
+    name: junjie18/CMT
+    url: https://api.github.com/repos/junjie18/CMT
+  type: WatchEvent
+'34275829150':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-19T10:32:05Z'
+  id: '34275829150'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/4158466?
+    gravatar_id: ''
+    id: 4158466
+    login: bytedance
+    url: https://api.github.com/orgs/bytedance
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 731333742
+    name: bytedance/ImageDream
+    url: https://api.github.com/repos/bytedance/ImageDream
+  type: WatchEvent
+'34275840019':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-19T10:32:26Z'
+  id: '34275840019'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 714054501
+    name: ndb796/MachineUnlearning
+    url: https://api.github.com/repos/ndb796/MachineUnlearning
+  type: WatchEvent
