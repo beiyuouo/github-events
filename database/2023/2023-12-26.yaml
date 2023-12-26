@@ -1,0 +1,18 @@
+'34400541356':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-25T16:17:15Z'
+  id: '34400541356'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 716501182
+    name: Borber/tran
+    url: https://api.github.com/repos/Borber/tran
+  type: WatchEvent
