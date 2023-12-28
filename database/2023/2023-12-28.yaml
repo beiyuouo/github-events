@@ -1,0 +1,42 @@
+'34441284400':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-28T03:03:04Z'
+  id: '34441284400'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 242723992
+    name: yaoyao-liu/class-incremental-learning
+    url: https://api.github.com/repos/yaoyao-liu/class-incremental-learning
+  type: WatchEvent
+'34441418868':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-28T03:16:47Z'
+  id: '34441418868'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/1299356?
+    gravatar_id: ''
+    id: 1299356
+    login: alipay
+    url: https://api.github.com/orgs/alipay
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 735497726
+    name: alipay/private_llm
+    url: https://api.github.com/repos/alipay/private_llm
+  type: WatchEvent
