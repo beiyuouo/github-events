@@ -40,3 +40,27 @@
     name: alipay/private_llm
     url: https://api.github.com/repos/alipay/private_llm
   type: WatchEvent
+'34450620966':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-28T13:47:27Z'
+  id: '34450620966'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/118160626?
+    gravatar_id: ''
+    id: 118160626
+    login: baaivision
+    url: https://api.github.com/orgs/baaivision
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 731657905
+    name: baaivision/tokenize-anything
+    url: https://api.github.com/repos/baaivision/tokenize-anything
+  type: WatchEvent
