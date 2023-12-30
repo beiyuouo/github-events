@@ -1,0 +1,32 @@
+'34479027265':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2023-12-30T06:37:30Z'
+  id: '34479027265'
+  payload:
+    before: 60b673f5b7d4f6f4be0394d7c76e94a4fb4eb9c8
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: 2stage'
+      sha: a94d63ebcde0117707cae692f9aef01102513893
+      url: https://api.github.com/repos/beiyuouo/KAMOFL/commits/a94d63ebcde0117707cae692f9aef01102513893
+    distinct_size: 1
+    head: a94d63ebcde0117707cae692f9aef01102513893
+    push_id: 16449492575
+    ref: refs/heads/main
+    repository_id: 666034583
+    size: 1
+  public: false
+  repo:
+    id: 666034583
+    name: beiyuouo/KAMOFL
+    url: https://api.github.com/repos/beiyuouo/KAMOFL
+  type: PushEvent
