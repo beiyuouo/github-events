@@ -1,0 +1,42 @@
+'34594612889':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-05T09:22:32Z'
+  id: '34594612889'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 731057580
+    name: linChen99/FedNed
+    url: https://api.github.com/repos/linChen99/FedNed
+  type: WatchEvent
+'34597454378':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-05T11:21:10Z'
+  id: '34597454378'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/54706620?
+    gravatar_id: ''
+    id: 54706620
+    login: RUCAIBox
+    url: https://api.github.com/orgs/RUCAIBox
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 613731840
+    name: RUCAIBox/LLMSurvey
+    url: https://api.github.com/repos/RUCAIBox/LLMSurvey
+  type: WatchEvent
