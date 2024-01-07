@@ -1,0 +1,42 @@
+'34627650102':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-07T10:04:58Z'
+  id: '34627650102'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 649955694
+    name: AmberLJC/LLMSys-PaperList
+    url: https://api.github.com/repos/AmberLJC/LLMSys-PaperList
+  type: WatchEvent
+'34628495189':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-07T11:51:57Z'
+  id: '34628495189'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/83739826?
+    gravatar_id: ''
+    id: 83739826
+    login: TencentARC
+    url: https://api.github.com/orgs/TencentARC
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 618338116
+    name: TencentARC/MasaCtrl
+    url: https://api.github.com/repos/TencentARC/MasaCtrl
+  type: WatchEvent
