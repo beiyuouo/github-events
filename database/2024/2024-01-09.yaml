@@ -1,0 +1,24 @@
+'34675570624':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-09T09:38:57Z'
+  id: '34675570624'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/102363196?
+    gravatar_id: ''
+    id: 102363196
+    login: janhq
+    url: https://api.github.com/orgs/janhq
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 679506386
+    name: janhq/jan
+    url: https://api.github.com/repos/janhq/jan
+  type: WatchEvent
