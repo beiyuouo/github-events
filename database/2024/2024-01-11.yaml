@@ -1,0 +1,88 @@
+'34733533165':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-11T02:56:23Z'
+  id: '34733533165'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/94522163?
+    gravatar_id: ''
+    id: 94522163
+    login: OpenGVLab
+    url: https://api.github.com/orgs/OpenGVLab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 650980216
+    name: OpenGVLab/LAMM
+    url: https://api.github.com/repos/OpenGVLab/LAMM
+  type: WatchEvent
+'34734050395':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-11T03:32:45Z'
+  id: '34734050395'
+  payload:
+    before: 89cab704a4a682fb995882a9c6b4c01633baab14
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update papers.yaml
+      sha: af9e8c9011229634bdf238ae920bde43266c035c
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/af9e8c9011229634bdf238ae920bde43266c035c
+    distinct_size: 1
+    head: af9e8c9011229634bdf238ae920bde43266c035c
+    push_id: 16590527493
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
+'34735082664':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-11T04:45:41Z'
+  id: '34735082664'
+  payload:
+    before: 33e6fe84707f802e827209b395f61e63f2180ff1
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update papers.yaml
+      sha: cd9e8fe5ca2e66fca374594fad62f28b7d65e008
+      url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning/commits/cd9e8fe5ca2e66fca374594fad62f28b7d65e008
+    distinct_size: 1
+    head: cd9e8fe5ca2e66fca374594fad62f28b7d65e008
+    push_id: 16591068415
+    ref: refs/heads/main
+    repository_id: 410216819
+    size: 1
+  public: true
+  repo:
+    id: 410216819
+    name: beiyuouo/awesome-asynchronous-federated-learning
+    url: https://api.github.com/repos/beiyuouo/awesome-asynchronous-federated-learning
+  type: PushEvent
