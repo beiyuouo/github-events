@@ -1,0 +1,32 @@
+'34817001765':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-15T01:28:55Z'
+  id: '34817001765'
+  payload:
+    before: c4e21ed54fa8dace3a313b40d476f8e39ce6bef5
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update script.js
+      sha: 8e02db92baf720c06dcfb34db1a6f4ad582c4695
+      url: https://api.github.com/repos/beiyuouo/314gm/commits/8e02db92baf720c06dcfb34db1a6f4ad582c4695
+    distinct_size: 1
+    head: 8e02db92baf720c06dcfb34db1a6f4ad582c4695
+    push_id: 16636393299
+    ref: refs/heads/main
+    repository_id: 742294311
+    size: 1
+  public: true
+  repo:
+    id: 742294311
+    name: beiyuouo/314gm
+    url: https://api.github.com/repos/beiyuouo/314gm
+  type: PushEvent
