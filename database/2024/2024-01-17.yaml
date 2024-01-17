@@ -1,0 +1,78 @@
+'34881564248':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-17T03:22:30Z'
+  id: '34881564248'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 444059649
+    name: Abby-ZS/NUDT_MobileTraffic
+    url: https://api.github.com/repos/Abby-ZS/NUDT_MobileTraffic
+  type: WatchEvent
+'34881643050':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-17T03:28:16Z'
+  id: '34881643050'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/155622668?
+    gravatar_id: ''
+    id: 155622668
+    login: AIGCDesignGroup
+    url: https://api.github.com/orgs/AIGCDesignGroup
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 739249646
+    name: AIGCDesignGroup/ReplaceAnything
+    url: https://api.github.com/repos/AIGCDesignGroup/ReplaceAnything
+  type: WatchEvent
+'34881661469':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-17T03:29:38Z'
+  id: '34881661469'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 721456487
+    name: gpt4video/GPT4Video
+    url: https://api.github.com/repos/gpt4video/GPT4Video
+  type: WatchEvent
+'34882529225':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-01-17T04:33:21Z'
+  id: '34882529225'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 734258423
+    name: UbiquitousLearning/Efficient_Foundation_Model_Survey
+    url: https://api.github.com/repos/UbiquitousLearning/Efficient_Foundation_Model_Survey
+  type: WatchEvent
