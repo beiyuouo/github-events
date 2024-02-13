@@ -1,0 +1,36 @@
+'35622529919':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-13T03:52:18Z'
+  id: '35622529919'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 752815135
+    name: uclaml/SPIN
+    url: https://api.github.com/repos/uclaml/SPIN
+  type: WatchEvent
+'35631623096':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-13T10:39:05Z'
+  id: '35631623096'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 5483330
+    name: soimort/you-get
+    url: https://api.github.com/repos/soimort/you-get
+  type: WatchEvent
