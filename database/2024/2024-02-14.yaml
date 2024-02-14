@@ -62,3 +62,21 @@
     name: beiyuouo/beiyuouo
     url: https://api.github.com/repos/beiyuouo/beiyuouo
   type: PushEvent
+'35670080861':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-14T12:59:24Z'
+  id: '35670080861'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 317227375
+    name: yfeng95/PIXIE
+    url: https://api.github.com/repos/yfeng95/PIXIE
+  type: WatchEvent
