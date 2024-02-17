@@ -1,0 +1,18 @@
+'35745593797':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-16T17:15:17Z'
+  id: '35745593797'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 758369194
+    name: zhangzhao219/WSDM-Cup-2024
+    url: https://api.github.com/repos/zhangzhao219/WSDM-Cup-2024
+  type: WatchEvent
