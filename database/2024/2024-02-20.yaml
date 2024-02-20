@@ -211,3 +211,67 @@
     name: mnotgod96/AppAgent
     url: https://api.github.com/repos/mnotgod96/AppAgent
   type: WatchEvent
+'35830773749':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T12:13:28Z'
+  id: '35830773749'
+  payload:
+    before: cade1a0148210dc3d1953c008c2911b175afda72
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update opensource.tex
+      sha: aa3d4f058c456dd0d2af69013e853e327fbd55f5
+      url: https://api.github.com/repos/beiyuouo/cv/commits/aa3d4f058c456dd0d2af69013e853e327fbd55f5
+    distinct_size: 1
+    head: aa3d4f058c456dd0d2af69013e853e327fbd55f5
+    push_id: 17173814223
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'35830852114':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T12:15:51Z'
+  id: '35830852114'
+  payload:
+    before: 081b1e21691659cc378fa446651f34d6790f022c
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: aca36ce1afecf9298195a3e05bfce4f856a498b2
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/aca36ce1afecf9298195a3e05bfce4f856a498b2
+    distinct_size: 1
+    head: aca36ce1afecf9298195a3e05bfce4f856a498b2
+    push_id: 17173855045
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
