@@ -1,0 +1,213 @@
+'35816043514':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T01:45:47Z'
+  id: '35816043514'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 249599851
+    name: wangshub/RL-Stock
+    url: https://api.github.com/repos/wangshub/RL-Stock
+  type: WatchEvent
+'35816081988':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T01:48:18Z'
+  id: '35816081988'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 743116659
+    name: lllyasviel/stable-diffusion-webui-forge
+    url: https://api.github.com/repos/lllyasviel/stable-diffusion-webui-forge
+  type: WatchEvent
+'35816571653':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T02:19:19Z'
+  id: '35816571653'
+  payload:
+    before: de714fdeb18abcc5422c3da7829ce55d9d00ae29
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update
+      sha: 4f675aa20cb77d775b76b3e87722dc6ef5e42213
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/4f675aa20cb77d775b76b3e87722dc6ef5e42213
+    distinct_size: 1
+    head: 4f675aa20cb77d775b76b3e87722dc6ef5e42213
+    push_id: 17166604346
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'35820619751':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T06:26:50Z'
+  id: '35820619751'
+  payload:
+    before: 70b9791ca360aff4d34895c90ae265cb6d56d777
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: lots of change of cv en
+      sha: 8f124e170e8af9ccbb8df444f901d0e37c3fe042
+      url: https://api.github.com/repos/beiyuouo/cv/commits/8f124e170e8af9ccbb8df444f901d0e37c3fe042
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: fix typo
+      sha: 566e3b671fea274708ba355f8aeee842d9cae234
+      url: https://api.github.com/repos/beiyuouo/cv/commits/566e3b671fea274708ba355f8aeee842d9cae234
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: open source projects
+      sha: 38ca1699bc72ebcd8ae4d5f8289655151b6794df
+      url: https://api.github.com/repos/beiyuouo/cv/commits/38ca1699bc72ebcd8ae4d5f8289655151b6794df
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: polish project desc
+      sha: cade1a0148210dc3d1953c008c2911b175afda72
+      url: https://api.github.com/repos/beiyuouo/cv/commits/cade1a0148210dc3d1953c008c2911b175afda72
+    distinct_size: 4
+    head: cade1a0148210dc3d1953c008c2911b175afda72
+    push_id: 17168795327
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 4
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'35820665606':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T06:29:03Z'
+  id: '35820665606'
+  payload:
+    before: 4f675aa20cb77d775b76b3e87722dc6ef5e42213
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 081b1e21691659cc378fa446651f34d6790f022c
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/081b1e21691659cc378fa446651f34d6790f022c
+    distinct_size: 1
+    head: 081b1e21691659cc378fa446651f34d6790f022c
+    push_id: 17168819250
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'35823707390':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T08:33:52Z'
+  id: '35823707390'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/157873899?
+    gravatar_id: ''
+    id: 157873899
+    login: LargeWorldModel
+    url: https://api.github.com/orgs/LargeWorldModel
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 754447605
+    name: LargeWorldModel/LWM
+    url: https://api.github.com/repos/LargeWorldModel/LWM
+  type: WatchEvent
+'35829323196':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T11:25:36Z'
+  id: '35829323196'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 641614801
+    name: chuanyangjin/fast-DiT
+    url: https://api.github.com/repos/chuanyangjin/fast-DiT
+  type: WatchEvent
+'35829387142':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-20T11:27:39Z'
+  id: '35829387142'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 733899994
+    name: mnotgod96/AppAgent
+    url: https://api.github.com/repos/mnotgod96/AppAgent
+  type: WatchEvent
