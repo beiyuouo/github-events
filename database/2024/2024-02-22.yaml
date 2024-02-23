@@ -34,3 +34,21 @@
     name: tangly1024/NotionNext
     url: https://api.github.com/repos/tangly1024/NotionNext
   type: WatchEvent
+'35910478435':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-22T13:14:20Z'
+  id: '35910478435'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 749364877
+    name: yyyujintang/Awesome-Mamba-Papers
+    url: https://api.github.com/repos/yyyujintang/Awesome-Mamba-Papers
+  type: WatchEvent
