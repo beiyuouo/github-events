@@ -218,3 +218,51 @@
     name: MAGIC-AI4Med/MMedLM
     url: https://api.github.com/repos/MAGIC-AI4Med/MMedLM
   type: WatchEvent
+'35950553996':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-23T15:30:20Z'
+  id: '35950553996'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/8596759?
+    gravatar_id: ''
+    id: 8596759
+    login: google-deepmind
+    url: https://api.github.com/orgs/google-deepmind
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 760683276
+    name: google-deepmind/gemma
+    url: https://api.github.com/repos/google-deepmind/gemma
+  type: WatchEvent
+'35950558211':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-23T15:30:27Z'
+  id: '35950558211'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/158247319?
+    gravatar_id: ''
+    id: 158247319
+    login: gomate-community
+    url: https://api.github.com/orgs/gomate-community
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 762177580
+    name: gomate-community/awesome-papers-for-rag
+    url: https://api.github.com/repos/gomate-community/awesome-papers-for-rag
+  type: WatchEvent
