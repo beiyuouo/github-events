@@ -1,0 +1,42 @@
+'35984701817':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-25T13:37:58Z'
+  id: '35984701817'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/129088087?
+    gravatar_id: ''
+    id: 129088087
+    login: epfLLM
+    url: https://api.github.com/orgs/epfLLM
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 671912468
+    name: epfLLM/Megatron-LLM
+    url: https://api.github.com/repos/epfLLM/Megatron-LLM
+  type: WatchEvent
+'35985403940':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-02-25T14:39:08Z'
+  id: '35985403940'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 746221935
+    name: hammoudhasan/SynthCLIP
+    url: https://api.github.com/repos/hammoudhasan/SynthCLIP
+  type: WatchEvent
