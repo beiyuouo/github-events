@@ -1,0 +1,84 @@
+'36324448694':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-07T06:39:45Z'
+  id: '36324448694'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 755241894
+    name: hamidkazemi22/CLIPInversion
+    url: https://api.github.com/repos/hamidkazemi22/CLIPInversion
+  type: WatchEvent
+'36326759923':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-07T08:08:13Z'
+  id: '36326759923'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/13861006?
+    gravatar_id: ''
+    id: 13861006
+    login: clinicalml
+    url: https://api.github.com/orgs/clinicalml
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 767130020
+    name: clinicalml/co-llm
+    url: https://api.github.com/repos/clinicalml/co-llm
+  type: WatchEvent
+'36326783519':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-07T08:09:04Z'
+  id: '36326783519'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 634557591
+    name: yuvalkirstain/PickScore
+    url: https://api.github.com/repos/yuvalkirstain/PickScore
+  type: WatchEvent
+'36329259514':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-07T09:25:43Z'
+  id: '36329259514'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/50999261?
+    gravatar_id: ''
+    id: 50999261
+    login: bowang-lab
+    url: https://api.github.com/orgs/bowang-lab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 631367959
+    name: bowang-lab/MedSAM
+    url: https://api.github.com/repos/bowang-lab/MedSAM
+  type: WatchEvent
