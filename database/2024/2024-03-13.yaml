@@ -1,0 +1,378 @@
+'36497874144':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T05:46:11Z'
+  id: '36497874144'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 674273349
+    name: tanganke/peta
+    url: https://api.github.com/repos/tanganke/peta
+  type: WatchEvent
+'36498641884':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:25:12Z'
+  id: '36498641884'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    description: AI App Navigation
+    master_branch: main
+    pusher_type: user
+    ref: null
+    ref_type: repository
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: CreateEvent
+'36498642117':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:25:13Z'
+  id: '36498642117'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    description: AI App Navigation
+    master_branch: main
+    pusher_type: user
+    ref: main
+    ref_type: branch
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: CreateEvent
+'36498867709':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:36:06Z'
+  id: '36498867709'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: ef42ba224167021599b3279e6e77fd20d2d8237a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: init
+      sha: d48ab40b71d7e35a2ca35455e55672be07c07020
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/d48ab40b71d7e35a2ca35455e55672be07c07020
+    distinct_size: 1
+    head: d48ab40b71d7e35a2ca35455e55672be07c07020
+    push_id: 17517710665
+    ref: refs/heads/main
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
+'36498926381':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:38:58Z'
+  id: '36498926381'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: d48ab40b71d7e35a2ca35455e55672be07c07020
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: add theme
+      sha: fbba52475fb026c9e7c85127548664ffb290bfd7
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/fbba52475fb026c9e7c85127548664ffb290bfd7
+    distinct_size: 1
+    head: fbba52475fb026c9e7c85127548664ffb290bfd7
+    push_id: 17517740878
+    ref: refs/heads/main
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
+'36499041686':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:44:20Z'
+  id: '36499041686'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: fbba52475fb026c9e7c85127548664ffb290bfd7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Initial commit
+      sha: 13249cb16a4d318dc47499c4539d43df7c379bb9
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/13249cb16a4d318dc47499c4539d43df7c379bb9
+    distinct_size: 1
+    head: 13249cb16a4d318dc47499c4539d43df7c379bb9
+    push_id: 17517798129
+    ref: refs/heads/main
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
+'36499082985':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:46:18Z'
+  id: '36499082985'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: 13249cb16a4d318dc47499c4539d43df7c379bb9
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update deploy-hugo.yml
+      sha: eecec9276dc58ab1f931d232aa0068c845523c14
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/eecec9276dc58ab1f931d232aa0068c845523c14
+    distinct_size: 1
+    head: eecec9276dc58ab1f931d232aa0068c845523c14
+    push_id: 17517818839
+    ref: refs/heads/main
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
+'36499155160':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:49:44Z'
+  id: '36499155160'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: eecec9276dc58ab1f931d232aa0068c845523c14
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update deploy-hugo.yml
+      sha: 3302f1463f40f51fe7fb53a9f1fb1df278d436a3
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/3302f1463f40f51fe7fb53a9f1fb1df278d436a3
+    distinct_size: 1
+    head: 3302f1463f40f51fe7fb53a9f1fb1df278d436a3
+    push_id: 17517855705
+    ref: refs/heads/main
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
+'36499198112':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T06:51:47Z'
+  id: '36499198112'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: f5033c4881c4de2112bb21bf2adbbce95e2ad4ae
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Create CNAME
+      sha: 66cbaea7e7bb80e3fea1769676ee1857fc8fbc94
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/66cbaea7e7bb80e3fea1769676ee1857fc8fbc94
+    distinct_size: 1
+    head: 66cbaea7e7bb80e3fea1769676ee1857fc8fbc94
+    push_id: 17517877492
+    ref: refs/heads/gh-pages
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
+'36499432295':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T07:02:22Z'
+  id: '36499432295'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: 3302f1463f40f51fe7fb53a9f1fb1df278d436a3
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Create CNAME
+      sha: 84a3bd3a2e573ffd93e14fee2fd67e4029d9eed3
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/84a3bd3a2e573ffd93e14fee2fd67e4029d9eed3
+    distinct_size: 1
+    head: 84a3bd3a2e573ffd93e14fee2fd67e4029d9eed3
+    push_id: 17517996775
+    ref: refs/heads/main
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
+'36499546444':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T07:07:17Z'
+  id: '36499546444'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/160766972?
+    gravatar_id: ''
+    id: 160766972
+    login: ai-app-nav
+    url: https://api.github.com/orgs/ai-app-nav
+  payload:
+    before: 84a3bd3a2e573ffd93e14fee2fd67e4029d9eed3
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update config.toml
+      sha: 6c8367e670fd2561a23738ec03f3346ad5f1e272
+      url: https://api.github.com/repos/ai-app-nav/nav/commits/6c8367e670fd2561a23738ec03f3346ad5f1e272
+    distinct_size: 1
+    head: 6c8367e670fd2561a23738ec03f3346ad5f1e272
+    push_id: 17518054893
+    ref: refs/heads/main
+    repository_id: 771353072
+    size: 1
+  public: true
+  repo:
+    id: 771353072
+    name: ai-app-nav/nav
+    url: https://api.github.com/repos/ai-app-nav/nav
+  type: PushEvent
