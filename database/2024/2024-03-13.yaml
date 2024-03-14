@@ -376,3 +376,27 @@
     name: ai-app-nav/nav
     url: https://api.github.com/repos/ai-app-nav/nav
   type: PushEvent
+'36511764883':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-13T13:22:32Z'
+  id: '36511764883'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/38042178?
+    gravatar_id: ''
+    id: 38042178
+    login: Drakkar-Software
+    url: https://api.github.com/orgs/Drakkar-Software
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 122682362
+    name: Drakkar-Software/OctoBot
+    url: https://api.github.com/repos/Drakkar-Software/OctoBot
+  type: WatchEvent
