@@ -16,3 +16,21 @@
     name: visitworld123/FedFed
     url: https://api.github.com/repos/visitworld123/FedFed
   type: WatchEvent
+'36620317284':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-17T12:32:41Z'
+  id: '36620317284'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 371191142
+    name: zhuangdizhu/FedGen
+    url: https://api.github.com/repos/zhuangdizhu/FedGen
+  type: WatchEvent
