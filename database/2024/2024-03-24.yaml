@@ -158,3 +158,27 @@
     name: beiyuouo/beiyuouo.github.io
     url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
   type: PushEvent
+'36832516083':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-24T14:46:30Z'
+  id: '36832516083'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/156262143?
+    gravatar_id: ''
+    id: 156262143
+    login: Efficient-Large-Model
+    url: https://api.github.com/orgs/Efficient-Large-Model
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 762193211
+    name: Efficient-Large-Model/VILA
+    url: https://api.github.com/repos/Efficient-Large-Model/VILA
+  type: WatchEvent
