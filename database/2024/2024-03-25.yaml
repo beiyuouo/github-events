@@ -186,3 +186,291 @@
     name: beiyuouo/beiyuouo.github.io
     url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
   type: PushEvent
+'36855923203':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:00:31Z'
+  id: '36855923203'
+  payload:
+    before: 61145cc0f1d884cd9f61dad0c6a210272167c917
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update 240325
+      sha: 969e31914a832f4b6dca0465dbf1f5c8407d5a88
+      url: https://api.github.com/repos/beiyuouo/cv/commits/969e31914a832f4b6dca0465dbf1f5c8407d5a88
+    distinct_size: 1
+    head: 969e31914a832f4b6dca0465dbf1f5c8407d5a88
+    push_id: 17693751659
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'36856009647':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:02:56Z'
+  id: '36856009647'
+  payload:
+    before: 00341f72ae23da22c22ffc839d57f225350c1ecd
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: d100a56e9a5ad797e641309e6e0d0834a5d09ec4
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/d100a56e9a5ad797e641309e6e0d0834a5d09ec4
+    distinct_size: 1
+    head: d100a56e9a5ad797e641309e6e0d0834a5d09ec4
+    push_id: 17693791810
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'36856352915':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:12:17Z'
+  id: '36856352915'
+  payload:
+    before: 969e31914a832f4b6dca0465dbf1f5c8407d5a88
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update awesome-cv.cls
+      sha: 6d3b7a0c376a52b816d5321d9e50d24cf07e4eff
+      url: https://api.github.com/repos/beiyuouo/cv/commits/6d3b7a0c376a52b816d5321d9e50d24cf07e4eff
+    distinct_size: 1
+    head: 6d3b7a0c376a52b816d5321d9e50d24cf07e4eff
+    push_id: 17693951601
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'36856447705':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:14:53Z'
+  id: '36856447705'
+  payload:
+    before: d100a56e9a5ad797e641309e6e0d0834a5d09ec4
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 510380512012ca4fc08cf7d8b6427c5011b75081
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/510380512012ca4fc08cf7d8b6427c5011b75081
+    distinct_size: 1
+    head: 510380512012ca4fc08cf7d8b6427c5011b75081
+    push_id: 17693995410
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'36856508420':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:16:31Z'
+  id: '36856508420'
+  payload:
+    before: 6d3b7a0c376a52b816d5321d9e50d24cf07e4eff
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update awesome-cv.cls
+      sha: 32f0458d5f8a0c59337aabc4f8dd8f22572dbe7c
+      url: https://api.github.com/repos/beiyuouo/cv/commits/32f0458d5f8a0c59337aabc4f8dd8f22572dbe7c
+    distinct_size: 1
+    head: 32f0458d5f8a0c59337aabc4f8dd8f22572dbe7c
+    push_id: 17694024817
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'36856595537':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:18:49Z'
+  id: '36856595537'
+  payload:
+    before: 510380512012ca4fc08cf7d8b6427c5011b75081
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: bf7cc7f5d4349dfea40e1da7e8425abf304b56b4
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/bf7cc7f5d4349dfea40e1da7e8425abf304b56b4
+    distinct_size: 1
+    head: bf7cc7f5d4349dfea40e1da7e8425abf304b56b4
+    push_id: 17694068129
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'36856908266':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:26:55Z'
+  id: '36856908266'
+  payload:
+    before: bf7cc7f5d4349dfea40e1da7e8425abf304b56b4
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update index.html
+      sha: d25e387a2e2f5aebe8f7b7278973d2400a986c4b
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/d25e387a2e2f5aebe8f7b7278973d2400a986c4b
+    distinct_size: 1
+    head: d25e387a2e2f5aebe8f7b7278973d2400a986c4b
+    push_id: 17694221040
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'36856939315':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:27:44Z'
+  id: '36856939315'
+  payload:
+    before: 32f0458d5f8a0c59337aabc4f8dd8f22572dbe7c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: typo
+      sha: 4246e57e44109a3d99ffa59bb490d8f2d948b0a3
+      url: https://api.github.com/repos/beiyuouo/cv/commits/4246e57e44109a3d99ffa59bb490d8f2d948b0a3
+    distinct_size: 1
+    head: 4246e57e44109a3d99ffa59bb490d8f2d948b0a3
+    push_id: 17694235181
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'36857032277':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-25T14:30:12Z'
+  id: '36857032277'
+  payload:
+    before: d25e387a2e2f5aebe8f7b7278973d2400a986c4b
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 7cfc8e15dea6605404384df1e6b01f5b7967da68
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/7cfc8e15dea6605404384df1e6b01f5b7967da68
+    distinct_size: 1
+    head: 7cfc8e15dea6605404384df1e6b01f5b7967da68
+    push_id: 17694277776
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
