@@ -112,3 +112,27 @@
     name: beiyuouo/beiyuouo.github.io
     url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
   type: PushEvent
+'36969831017':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-03-28T14:25:44Z'
+  id: '36969831017'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/96586070?
+    gravatar_id: ''
+    id: 96586070
+    login: Picsart-AI-Research
+    url: https://api.github.com/orgs/Picsart-AI-Research
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 773613693
+    name: Picsart-AI-Research/StreamingT2V
+    url: https://api.github.com/repos/Picsart-AI-Research/StreamingT2V
+  type: WatchEvent
