@@ -1,0 +1,18 @@
+'37069825383':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-02T02:16:18Z'
+  id: '37069825383'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 639546287
+    name: taokz/BiomedGPT
+    url: https://api.github.com/repos/taokz/BiomedGPT
+  type: WatchEvent
