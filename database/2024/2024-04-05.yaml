@@ -1,0 +1,82 @@
+'37188893364':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-05T03:32:56Z'
+  id: '37188893364'
+  payload:
+    before: 8738efa792d825715ef2c6b96c8d6f7dce8e545a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update education.tex
+      sha: 02c37c6b2f53ed3d36b3c8e60b1dba2e862e67ff
+      url: https://api.github.com/repos/beiyuouo/cv/commits/02c37c6b2f53ed3d36b3c8e60b1dba2e862e67ff
+    distinct_size: 1
+    head: 02c37c6b2f53ed3d36b3c8e60b1dba2e862e67ff
+    push_id: 17858487430
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'37188931971':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-05T03:35:15Z'
+  id: '37188931971'
+  payload:
+    before: 5975efc898129a4176b286938bd8fe256891bea0
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 897a499cf841f95f739c651c4711f35694e8c577
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/897a499cf841f95f739c651c4711f35694e8c577
+    distinct_size: 1
+    head: 897a499cf841f95f739c651c4711f35694e8c577
+    push_id: 17858504428
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'37199536758':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-05T10:54:13Z'
+  id: '37199536758'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 724060384
+    name: SunzeY/AlphaCLIP
+    url: https://api.github.com/repos/SunzeY/AlphaCLIP
+  type: WatchEvent
