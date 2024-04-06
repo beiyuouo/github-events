@@ -1,0 +1,18 @@
+'37223247397':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-06T07:05:17Z'
+  id: '37223247397'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 508400222
+    name: Markin-Wang/awesome_radiology_report_generation
+    url: https://api.github.com/repos/Markin-Wang/awesome_radiology_report_generation
+  type: WatchEvent
