@@ -16,3 +16,21 @@
     name: liguodongiot/llm-action
     url: https://api.github.com/repos/liguodongiot/llm-action
   type: WatchEvent
+'37321998724':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-10T03:15:38Z'
+  id: '37321998724'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 328121585
+    name: lonnyzhang423/douyin-hot-hub
+    url: https://api.github.com/repos/lonnyzhang423/douyin-hot-hub
+  type: WatchEvent
