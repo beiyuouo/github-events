@@ -1,0 +1,24 @@
+'37497523091':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-16T10:47:44Z'
+  id: '37497523091'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/133301039?
+    gravatar_id: ''
+    id: 133301039
+    login: openmedlab
+    url: https://api.github.com/orgs/openmedlab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 745555192
+    name: openmedlab/Awesome-Medical-Dataset
+    url: https://api.github.com/repos/openmedlab/Awesome-Medical-Dataset
+  type: WatchEvent
