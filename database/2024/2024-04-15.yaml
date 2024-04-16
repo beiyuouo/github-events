@@ -1,0 +1,63 @@
+'37468131399':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-15T14:41:08Z'
+  id: '37468131399'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/64006090?
+    gravatar_id: ''
+    id: 64006090
+    login: dvlab-research
+    url: https://api.github.com/orgs/dvlab-research
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 777812139
+    name: dvlab-research/MiniGemini
+    url: https://api.github.com/repos/dvlab-research/MiniGemini
+  type: WatchEvent
+'37469316838':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-15T15:12:25Z'
+  id: '37469316838'
+  payload:
+    before: 5dc3c46a0382c4818d5b2d7dcebb65f8b686b617
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: add vit & bert'
+      sha: a7be6da2e8444be2e46881b22febf66ce1d069dd
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/a7be6da2e8444be2e46881b22febf66ce1d069dd
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix:'
+      sha: 05ae1847a111d8c1f0741c3d276ea8ef87ef23de
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/05ae1847a111d8c1f0741c3d276ea8ef87ef23de
+    distinct_size: 2
+    head: 05ae1847a111d8c1f0741c3d276ea8ef87ef23de
+    push_id: 18003230172
+    ref: refs/heads/main
+    repository_id: 759403970
+    size: 2
+  public: false
+  repo:
+    id: 759403970
+    name: beiyuouo/AMMFL
+    url: https://api.github.com/repos/beiyuouo/AMMFL
+  type: PushEvent
