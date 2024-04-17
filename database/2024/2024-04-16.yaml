@@ -22,3 +22,85 @@
     name: openmedlab/Awesome-Medical-Dataset
     url: https://api.github.com/repos/openmedlab/Awesome-Medical-Dataset
   type: WatchEvent
+'37503033568':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-16T13:29:35Z'
+  id: '37503033568'
+  payload:
+    before: 7ffd62503bd23afe3f203d6d76ecf45a4b9e91fa
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: update major
+      sha: 141cdc7a49d59929aac033ce3088e5d5473f706f
+      url: https://api.github.com/repos/beiyuouo/cv/commits/141cdc7a49d59929aac033ce3088e5d5473f706f
+    distinct_size: 1
+    head: 141cdc7a49d59929aac033ce3088e5d5473f706f
+    push_id: 18019519960
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'37503125254':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-16T13:31:54Z'
+  id: '37503125254'
+  payload:
+    before: 321d7ac2ba38cb94e4108ee0b6234cae7480e334
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 4ae2b1b807a9a69270c1ed1259d939132c7200ab
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/4ae2b1b807a9a69270c1ed1259d939132c7200ab
+    distinct_size: 1
+    head: 4ae2b1b807a9a69270c1ed1259d939132c7200ab
+    push_id: 18019562685
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'37507619337':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-16T15:27:25Z'
+  id: '37507619337'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 721554510
+    name: sunnyxuejj/FedLPS
+    url: https://api.github.com/repos/sunnyxuejj/FedLPS
+  type: WatchEvent
