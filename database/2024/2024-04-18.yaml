@@ -16,3 +16,27 @@
     name: ljb121002/fednar
     url: https://api.github.com/repos/ljb121002/fednar
   type: WatchEvent
+'37583250950':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-18T12:57:21Z'
+  id: '37583250950'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/125483730?
+    gravatar_id: ''
+    id: 125483730
+    login: dr-bell
+    url: https://api.github.com/orgs/dr-bell
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 781001625
+    name: dr-bell/data-centric-federated-learning
+    url: https://api.github.com/repos/dr-bell/data-centric-federated-learning
+  type: WatchEvent
