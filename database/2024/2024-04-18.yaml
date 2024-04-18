@@ -40,3 +40,27 @@
     name: dr-bell/data-centric-federated-learning
     url: https://api.github.com/repos/dr-bell/data-centric-federated-learning
   type: WatchEvent
+'37583622720':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-18T13:06:15Z'
+  id: '37583622720'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/120981762?
+    gravatar_id: ''
+    id: 120981762
+    login: promptslab
+    url: https://api.github.com/orgs/promptslab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 599716050
+    name: promptslab/Awesome-Prompt-Engineering
+    url: https://api.github.com/repos/promptslab/Awesome-Prompt-Engineering
+  type: WatchEvent
