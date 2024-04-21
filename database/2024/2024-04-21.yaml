@@ -48,3 +48,162 @@
     name: xiangyue9607/DP-Forward
     url: https://api.github.com/repos/xiangyue9607/DP-Forward
   type: WatchEvent
+'37660687599':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-21T12:54:27Z'
+  id: '37660687599'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: v1
+    ref_type: branch
+  public: false
+  repo:
+    id: 759403970
+    name: beiyuouo/AMMFL
+    url: https://api.github.com/repos/beiyuouo/AMMFL
+  type: CreateEvent
+'37660687657':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-21T12:54:27Z'
+  id: '37660687657'
+  payload:
+    before: '0000000000000000000000000000000000000000'
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: false
+      message: Initial commit
+      sha: 92b5e54378588179711837569fef08f86ee7261b
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/92b5e54378588179711837569fef08f86ee7261b
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: MRG task'
+      sha: 3447644516cee0658e17b4103e48676bafab8123
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/3447644516cee0658e17b4103e48676bafab8123
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: generation'
+      sha: a1d2d0c741f2ab854ff159128e1208d9aa0f71c9
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/a1d2d0c741f2ab854ff159128e1208d9aa0f71c9
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix: loss calcuation'
+      sha: 0190a40c7dbe3c6ae98f9462e14be1ee9cf82229
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/0190a40c7dbe3c6ae98f9462e14be1ee9cf82229
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix: train loss'
+      sha: 8ea72afcf044901660372e46bcdd460404e1cb40
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/8ea72afcf044901660372e46bcdd460404e1cb40
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: batch generate'
+      sha: c0bd2617189e82bd17c6150875e8edecd36a9eb1
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/c0bd2617189e82bd17c6150875e8edecd36a9eb1
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix: forward and generate'
+      sha: 07aaeab5c019e4ab5a53d23b4e16b6adcc376a63
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/07aaeab5c019e4ab5a53d23b4e16b6adcc376a63
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix: generate'
+      sha: 5dc3c46a0382c4818d5b2d7dcebb65f8b686b617
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/5dc3c46a0382c4818d5b2d7dcebb65f8b686b617
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: add vit & bert'
+      sha: a7be6da2e8444be2e46881b22febf66ce1d069dd
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/a7be6da2e8444be2e46881b22febf66ce1d069dd
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix:'
+      sha: 05ae1847a111d8c1f0741c3d276ea8ef87ef23de
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/05ae1847a111d8c1f0741c3d276ea8ef87ef23de
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: resnet backbone'
+      sha: bf9cbbd3e3af69b78c977593787653e6089cd37b
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/bf9cbbd3e3af69b78c977593787653e6089cd37b
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: roberta'
+      sha: fef4f9d3c991749ed4cbdcdcbb9c28165f451bf9
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/fef4f9d3c991749ed4cbdcdcbb9c28165f451bf9
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: add data processing'
+      sha: 6ef798b17a4c84acc7e41edc009979692ae5489e
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/6ef798b17a4c84acc7e41edc009979692ae5489e
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'build: llama3'
+      sha: 98575ff8cd02cd64453affbd866c7d60aee49e01
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/98575ff8cd02cd64453affbd866c7d60aee49e01
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix: llama-3-8b-instruct'
+      sha: 6700565e86d9b875da8d2524abb67fc4f4a6ff49
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/6700565e86d9b875da8d2524abb67fc4f4a6ff49
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix: dataset'
+      sha: 85af582d7fd48dac754377a85e9105d9c472a5d0
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/85af582d7fd48dac754377a85e9105d9c472a5d0
+    distinct_size: 0
+    head: 85af582d7fd48dac754377a85e9105d9c472a5d0
+    push_id: 18090284795
+    ref: refs/heads/v1
+    repository_id: 759403970
+    size: 16
+  public: false
+  repo:
+    id: 759403970
+    name: beiyuouo/AMMFL
+    url: https://api.github.com/repos/beiyuouo/AMMFL
+  type: PushEvent
