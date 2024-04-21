@@ -30,3 +30,21 @@
     name: beiyuouo/AMMFL
     url: https://api.github.com/repos/beiyuouo/AMMFL
   type: PushEvent
+'37655922031':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-21T03:46:11Z'
+  id: '37655922031'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 608815039
+    name: xiangyue9607/DP-Forward
+    url: https://api.github.com/repos/xiangyue9607/DP-Forward
+  type: WatchEvent
