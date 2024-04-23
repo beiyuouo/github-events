@@ -188,3 +188,21 @@
     name: beiyuouo/beiyuouo.github.io
     url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
   type: PushEvent
+'37729810619':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-23T12:37:54Z'
+  id: '37729810619'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 105154070
+    name: tdurieux/anonymous_github
+    url: https://api.github.com/repos/tdurieux/anonymous_github
+  type: WatchEvent
