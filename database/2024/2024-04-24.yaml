@@ -1,0 +1,24 @@
+'37756134728':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-24T04:14:17Z'
+  id: '37756134728'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/46047812?
+    gravatar_id: ''
+    id: 46047812
+    login: datawhalechina
+    url: https://api.github.com/orgs/datawhalechina
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 667346345
+    name: datawhalechina/so-large-lm
+    url: https://api.github.com/repos/datawhalechina/so-large-lm
+  type: WatchEvent
