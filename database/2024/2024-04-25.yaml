@@ -104,3 +104,27 @@
     name: beiyuouo/arxiv-daily
     url: https://api.github.com/repos/beiyuouo/arxiv-daily
   type: PushEvent
+'37812664952':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-25T12:34:59Z'
+  id: '37812664952'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/132903285?
+    gravatar_id: ''
+    id: 132903285
+    login: AILab-CVC
+    url: https://api.github.com/orgs/AILab-CVC
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 779567940
+    name: AILab-CVC/SEED-X
+    url: https://api.github.com/repos/AILab-CVC/SEED-X
+  type: WatchEvent
