@@ -128,3 +128,27 @@
     name: AILab-CVC/SEED-X
     url: https://api.github.com/repos/AILab-CVC/SEED-X
   type: WatchEvent
+'37817178941':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-25T14:20:13Z'
+  id: '37817178941'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/67596164?
+    gravatar_id: ''
+    id: 67596164
+    login: synlp
+    url: https://api.github.com/orgs/synlp
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 731189955
+    name: synlp/R2-LLM
+    url: https://api.github.com/repos/synlp/R2-LLM
+  type: WatchEvent
