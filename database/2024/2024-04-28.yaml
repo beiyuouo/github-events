@@ -310,3 +310,21 @@
     name: beiyuouo/AMMFL
     url: https://api.github.com/repos/beiyuouo/AMMFL
   type: PushEvent
+'37889311633':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-28T12:45:30Z'
+  id: '37889311633'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 451427970
+    name: MAZiqing/FEDformer
+    url: https://api.github.com/repos/MAZiqing/FEDformer
+  type: WatchEvent
