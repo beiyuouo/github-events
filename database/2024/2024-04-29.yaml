@@ -1,0 +1,24 @@
+'37897269486':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-29T01:44:43Z'
+  id: '37897269486'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/94522163?
+    gravatar_id: ''
+    id: 94522163
+    login: OpenGVLab
+    url: https://api.github.com/orgs/OpenGVLab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 721995615
+    name: OpenGVLab/InternVL
+    url: https://api.github.com/repos/OpenGVLab/InternVL
+  type: WatchEvent
