@@ -22,3 +22,27 @@
     name: OpenGVLab/InternVL
     url: https://api.github.com/repos/OpenGVLab/InternVL
   type: WatchEvent
+'37917397886':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-29T13:58:08Z'
+  id: '37917397886'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/139343765?
+    gravatar_id: ''
+    id: 139343765
+    login: magic-research
+    url: https://api.github.com/orgs/magic-research
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 788278003
+    name: magic-research/PLLaVA
+    url: https://api.github.com/repos/magic-research/PLLaVA
+  type: WatchEvent

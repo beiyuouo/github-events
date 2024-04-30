@@ -1,0 +1,18 @@
+'37922695836':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-29T16:07:25Z'
+  id: '37922695836'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 604032872
+    name: winycg/CLIP-KD
+    url: https://api.github.com/repos/winycg/CLIP-KD
+  type: WatchEvent
