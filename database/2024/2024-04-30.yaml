@@ -98,3 +98,21 @@
     name: mushanshanshan/ESLTTS
     url: https://api.github.com/repos/mushanshanshan/ESLTTS
   type: WatchEvent
+'37957576253':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-04-30T13:24:54Z'
+  id: '37957576253'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 784123157
+    name: Ruixxxx/Awesome-Vision-Mamba-Models
+    url: https://api.github.com/repos/Ruixxxx/Awesome-Vision-Mamba-Models
+  type: WatchEvent
