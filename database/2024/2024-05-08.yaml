@@ -69,3 +69,91 @@
     name: beiyuouo/beiyuouo.github.io
     url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
   type: PushEvent
+'38201249398':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-08T14:06:20Z'
+  id: '38201249398'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/103930968?
+    gravatar_id: ''
+    id: 103930968
+    login: CS-BAOYAN
+    url: https://api.github.com/orgs/CS-BAOYAN
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 704071777
+    name: CS-BAOYAN/CSSummerCamp2024
+    url: https://api.github.com/repos/CS-BAOYAN/CSSummerCamp2024
+  type: WatchEvent
+'38201455212':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-08T14:11:49Z'
+  id: '38201455212'
+  payload:
+    before: a8a994b9b7928c38051c4994b28f4bc78424ef0a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Update awesome-cv.cls
+      sha: 0641aee2ecff8fa8277b70e847fb83ee9027053d
+      url: https://api.github.com/repos/beiyuouo/cv/commits/0641aee2ecff8fa8277b70e847fb83ee9027053d
+    distinct_size: 1
+    head: 0641aee2ecff8fa8277b70e847fb83ee9027053d
+    push_id: 18332556926
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'38201546348':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-08T14:14:02Z'
+  id: '38201546348'
+  payload:
+    before: f5eb65519dcc00a70e4e37f6d4b69dcb407e4bc0
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 2230add1efd264f06fc038f17c8b05afa9a27493
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/2230add1efd264f06fc038f17c8b05afa9a27493
+    distinct_size: 1
+    head: 2230add1efd264f06fc038f17c8b05afa9a27493
+    push_id: 18332598498
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
