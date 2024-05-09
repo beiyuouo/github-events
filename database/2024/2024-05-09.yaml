@@ -80,3 +80,121 @@
     name: Victorwz/LLaVA-Llama-3
     url: https://api.github.com/repos/Victorwz/LLaVA-Llama-3
   type: WatchEvent
+'38219772713':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-09T03:19:05Z'
+  id: '38219772713'
+  payload:
+    before: e69929208edf600af52fcab786ae88bba86febf4
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update
+      sha: a7afca286eaac0b8c3d6a650aa219d2a724e4c6f
+      url: https://api.github.com/repos/beiyuouo/cv/commits/a7afca286eaac0b8c3d6a650aa219d2a724e4c6f
+    distinct_size: 1
+    head: a7afca286eaac0b8c3d6a650aa219d2a724e4c6f
+    push_id: 18341231541
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'38219805662':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-09T03:21:27Z'
+  id: '38219805662'
+  payload:
+    before: e01457bbda58e6a2ad25ebffeb19a9ab9f78c207
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 5e485f70d8784d783734b0b06468bc8c7a12c9f2
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/5e485f70d8784d783734b0b06468bc8c7a12c9f2
+    distinct_size: 1
+    head: 5e485f70d8784d783734b0b06468bc8c7a12c9f2
+    push_id: 18341250139
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'38225694331':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-09T08:21:44Z'
+  id: '38225694331'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 798133762
+    name: netease-youdao/yd-docqa
+    url: https://api.github.com/repos/netease-youdao/yd-docqa
+  type: WatchEvent
+'38231206872':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-09T11:41:08Z'
+  id: '38231206872'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 714951975
+    name: yule-BUAA/MergeLM
+    url: https://api.github.com/repos/yule-BUAA/MergeLM
+  type: WatchEvent
+'38231230185':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-09T11:42:05Z'
+  id: '38231230185'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 771931129
+    name: TJU-sjyj/AMU-Tuning
+    url: https://api.github.com/repos/TJU-sjyj/AMU-Tuning
+  type: WatchEvent
