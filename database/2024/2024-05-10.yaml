@@ -184,3 +184,35 @@
     name: showlab/Awesome-MLLM-Hallucination
     url: https://api.github.com/repos/showlab/Awesome-MLLM-Hallucination
   type: WatchEvent
+'38265815640':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-10T12:26:48Z'
+  id: '38265815640'
+  payload:
+    before: ed19dc14b78a49cf6eeeb44c1a5895ea3681984f
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: aggregation'
+      sha: 1f7a1616db614ae66b22701c6f85216a41003653
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/1f7a1616db614ae66b22701c6f85216a41003653
+    distinct_size: 1
+    head: 1f7a1616db614ae66b22701c6f85216a41003653
+    push_id: 18363545159
+    ref: refs/heads/main
+    repository_id: 759403970
+    size: 1
+  public: false
+  repo:
+    id: 759403970
+    name: beiyuouo/AMMFL
+    url: https://api.github.com/repos/beiyuouo/AMMFL
+  type: PushEvent
