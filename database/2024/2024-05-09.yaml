@@ -240,3 +240,35 @@
     name: EmbodiedGPT/EmbodiedGPT_Pytorch
     url: https://api.github.com/repos/EmbodiedGPT/EmbodiedGPT_Pytorch
   type: WatchEvent
+'38237161710':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-09T14:55:23Z'
+  id: '38237161710'
+  payload:
+    before: a8f4d14eb3e8143d539d40f8646c294218e2c620
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: niid'
+      sha: 895f1c91252e3ef452fad9bc5fdf2c661b335382
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/895f1c91252e3ef452fad9bc5fdf2c661b335382
+    distinct_size: 1
+    head: 895f1c91252e3ef452fad9bc5fdf2c661b335382
+    push_id: 18349687804
+    ref: refs/heads/main
+    repository_id: 759403970
+    size: 1
+  public: false
+  repo:
+    id: 759403970
+    name: beiyuouo/AMMFL
+    url: https://api.github.com/repos/beiyuouo/AMMFL
+  type: PushEvent
