@@ -1,0 +1,57 @@
+'38272370101':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-10T16:10:55Z'
+  id: '38272370101'
+  payload:
+    before: 1f7a1616db614ae66b22701c6f85216a41003653
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: aggregation weights'
+      sha: 92487d9c456d65cb7547b75bdbd06df4226fc8dd
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/92487d9c456d65cb7547b75bdbd06df4226fc8dd
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: prototype loss'
+      sha: 7fe241f5605d3e37a8b88d2578c5402b614ef7cb
+      url: https://api.github.com/repos/beiyuouo/AMMFL/commits/7fe241f5605d3e37a8b88d2578c5402b614ef7cb
+    distinct_size: 2
+    head: 7fe241f5605d3e37a8b88d2578c5402b614ef7cb
+    push_id: 18366708161
+    ref: refs/heads/main
+    repository_id: 759403970
+    size: 2
+  public: false
+  repo:
+    id: 759403970
+    name: beiyuouo/AMMFL
+    url: https://api.github.com/repos/beiyuouo/AMMFL
+  type: PushEvent
+'38274502116':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-10T17:37:40Z'
+  id: '38274502116'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 797246647
+    name: lllyasviel/IC-Light
+    url: https://api.github.com/repos/lllyasviel/IC-Light
+  type: WatchEvent
