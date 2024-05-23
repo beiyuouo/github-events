@@ -16,3 +16,70 @@
     name: JingyangQiao/prompt-gradient-projection
     url: https://api.github.com/repos/JingyangQiao/prompt-gradient-projection
   type: WatchEvent
+'38609892558':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-22T14:09:48Z'
+  id: '38609892558'
+  payload:
+    before: a7afca286eaac0b8c3d6a650aa219d2a724e4c6f
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'update 240522
+
+
+        3ye'
+      sha: 62fc812cb4cd93555a76396f09e5427bf3109102
+      url: https://api.github.com/repos/beiyuouo/cv/commits/62fc812cb4cd93555a76396f09e5427bf3109102
+    distinct_size: 1
+    head: 62fc812cb4cd93555a76396f09e5427bf3109102
+    push_id: 18539144937
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'38609987559':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-22T14:12:09Z'
+  id: '38609987559'
+  payload:
+    before: 5e485f70d8784d783734b0b06468bc8c7a12c9f2
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 1da7c4d392ad821a02c061137f6d6f19b2c9f396
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/1da7c4d392ad821a02c061137f6d6f19b2c9f396
+    distinct_size: 1
+    head: 1da7c4d392ad821a02c061137f6d6f19b2c9f396
+    push_id: 18539188978
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
