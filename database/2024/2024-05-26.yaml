@@ -1,0 +1,18 @@
+'38716547499':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-05-26T09:49:08Z'
+  id: '38716547499'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 806056916
+    name: wangzihuixmu/FedSAC
+    url: https://api.github.com/repos/wangzihuixmu/FedSAC
+  type: WatchEvent
