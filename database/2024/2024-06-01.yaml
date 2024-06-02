@@ -1,0 +1,18 @@
+'38909750440':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-01T15:31:03Z'
+  id: '38909750440'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 799062805
+    name: xiaoachen98/Open-LLaVA-NeXT
+    url: https://api.github.com/repos/xiaoachen98/Open-LLaVA-NeXT
+  type: WatchEvent
