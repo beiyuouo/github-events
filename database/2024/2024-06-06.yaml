@@ -52,3 +52,27 @@
     name: XueFuzhao/OpenMoE
     url: https://api.github.com/repos/XueFuzhao/OpenMoE
   type: WatchEvent
+'39064743156':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-06T14:55:56Z'
+  id: '39064743156'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/124339599?
+    gravatar_id: ''
+    id: 124339599
+    login: pjlab-sys4nlp
+    url: https://api.github.com/orgs/pjlab-sys4nlp
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 670026629
+    name: pjlab-sys4nlp/llama-moe
+    url: https://api.github.com/repos/pjlab-sys4nlp/llama-moe
+  type: WatchEvent
