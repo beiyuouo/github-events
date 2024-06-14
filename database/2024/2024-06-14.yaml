@@ -158,3 +158,27 @@
     name: beiyuouo/beiyuouo.github.io
     url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
   type: PushEvent
+'39302010845':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-14T12:12:47Z'
+  id: '39302010845'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/2695301?
+    gravatar_id: ''
+    id: 2695301
+    login: NVlabs
+    url: https://api.github.com/orgs/NVlabs
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 785300720
+    name: NVlabs/DoRA
+    url: https://api.github.com/repos/NVlabs/DoRA
+  type: WatchEvent
