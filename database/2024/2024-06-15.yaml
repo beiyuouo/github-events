@@ -1,0 +1,24 @@
+'39326007822':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-15T14:14:10Z'
+  id: '39326007822'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/38862586?
+    gravatar_id: ''
+    id: 38862586
+    login: HLTCHKUST
+    url: https://api.github.com/orgs/HLTCHKUST
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 814908442
+    name: HLTCHKUST/UniVaR
+    url: https://api.github.com/repos/HLTCHKUST/UniVaR
+  type: WatchEvent
