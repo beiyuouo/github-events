@@ -30,3 +30,85 @@
     name: beiyuouo/HOCO-DQ
     url: https://api.github.com/repos/beiyuouo/HOCO-DQ
   type: PushEvent
+'39345032628':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-17T01:24:17Z'
+  id: '39345032628'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 644640925
+    name: duygunuryldz/Federated_Orthogonal_Training
+    url: https://api.github.com/repos/duygunuryldz/Federated_Orthogonal_Training
+  type: WatchEvent
+'39345091740':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-17T01:28:33Z'
+  id: '39345091740'
+  payload:
+    before: 77fb622982df9d2111e4cec03861d5cc548f6f2c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'update: pub'
+      sha: bd2cefb697d2762b90ed416de10864b436781bc7
+      url: https://api.github.com/repos/beiyuouo/cv/commits/bd2cefb697d2762b90ed416de10864b436781bc7
+    distinct_size: 1
+    head: bd2cefb697d2762b90ed416de10864b436781bc7
+    push_id: 18906213850
+    ref: refs/heads/main
+    repository_id: 461140744
+    size: 1
+  public: true
+  repo:
+    id: 461140744
+    name: beiyuouo/cv
+    url: https://api.github.com/repos/beiyuouo/cv
+  type: PushEvent
+'39345121850':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-17T01:30:42Z'
+  id: '39345121850'
+  payload:
+    before: f2d070b15a9ef090cb5f63f7654098215f8ca938
+    commits:
+    - author:
+        email: 41898282+github-actions[bot]@users.noreply.github.com
+        name: github-actions[bot]
+      distinct: true
+      message: Update CV
+      sha: 6b7a0c1891878670e1dca25c1de7cefd40c23649
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/6b7a0c1891878670e1dca25c1de7cefd40c23649
+    distinct_size: 1
+    head: 6b7a0c1891878670e1dca25c1de7cefd40c23649
+    push_id: 18906229196
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
