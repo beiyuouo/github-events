@@ -136,3 +136,35 @@
     name: facebookresearch/LLM-QAT
     url: https://api.github.com/repos/facebookresearch/LLM-QAT
   type: WatchEvent
+'39368176235':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-17T15:56:02Z'
+  id: '39368176235'
+  payload:
+    before: 0be662f33a8e5224d432201d1ab09314b797753f
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: params'
+      sha: f5a4fcd9461b478aa1de4cadf8ed35607ac4bbc0
+      url: https://api.github.com/repos/beiyuouo/HOCO-DQ/commits/f5a4fcd9461b478aa1de4cadf8ed35607ac4bbc0
+    distinct_size: 1
+    head: f5a4fcd9461b478aa1de4cadf8ed35607ac4bbc0
+    push_id: 18917254707
+    ref: refs/heads/main
+    repository_id: 813993380
+    size: 1
+  public: false
+  repo:
+    id: 813993380
+    name: beiyuouo/HOCO-DQ
+    url: https://api.github.com/repos/beiyuouo/HOCO-DQ
+  type: PushEvent
