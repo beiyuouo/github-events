@@ -40,3 +40,21 @@
     name: langgenius/dify
     url: https://api.github.com/repos/langgenius/dify
   type: WatchEvent
+'39502944374':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-21T12:12:53Z'
+  id: '39502944374'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 814677987
+    name: LilianHollard/LeYOLO
+    url: https://api.github.com/repos/LilianHollard/LeYOLO
+  type: WatchEvent
