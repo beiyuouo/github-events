@@ -1,0 +1,18 @@
+'39669347904':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-27T10:10:18Z'
+  id: '39669347904'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 759631234
+    name: szbonaldo/FedMLP
+    url: https://api.github.com/repos/szbonaldo/FedMLP
+  type: WatchEvent
