@@ -76,3 +76,35 @@
     name: pymupdf/RAG
     url: https://api.github.com/repos/pymupdf/RAG
   type: WatchEvent
+'39731258612':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-06-29T14:07:31Z'
+  id: '39731258612'
+  payload:
+    before: c2c980dc3f77b85badb70fcde5c2c3e726eb1031
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: quadratic'
+      sha: 9bcaf100ea5db8c3f92377d845dd8f553c20072f
+      url: https://api.github.com/repos/beiyuouo/HOCO-DQ/commits/9bcaf100ea5db8c3f92377d845dd8f553c20072f
+    distinct_size: 1
+    head: 9bcaf100ea5db8c3f92377d845dd8f553c20072f
+    push_id: 19102153240
+    ref: refs/heads/main
+    repository_id: 813993380
+    size: 1
+  public: false
+  repo:
+    id: 813993380
+    name: beiyuouo/HOCO-DQ
+    url: https://api.github.com/repos/beiyuouo/HOCO-DQ
+  type: PushEvent
