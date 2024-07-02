@@ -16,3 +16,35 @@
     name: Tebmer/Awesome-Knowledge-Distillation-of-LLMs
     url: https://api.github.com/repos/Tebmer/Awesome-Knowledge-Distillation-of-LLMs
   type: WatchEvent
+'39764374190':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-01T12:07:38Z'
+  id: '39764374190'
+  payload:
+    before: a9a588ccf700832b061a6cc5b0595d376de92edc
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update index.html
+      sha: 99d9c7159fcdef805c2d46a9b2d18fa8588efc9a
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/99d9c7159fcdef805c2d46a9b2d18fa8588efc9a
+    distinct_size: 1
+    head: 99d9c7159fcdef805c2d46a9b2d18fa8588efc9a
+    push_id: 19121236526
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
