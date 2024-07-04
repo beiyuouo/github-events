@@ -66,3 +66,21 @@
     name: beiyuouo/SLM
     url: https://api.github.com/repos/beiyuouo/SLM
   type: CreateEvent
+'39864073494':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-04T08:13:47Z'
+  id: '39864073494'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 786651035
+    name: jiangsongtao/TinyMed
+    url: https://api.github.com/repos/jiangsongtao/TinyMed
+  type: WatchEvent
