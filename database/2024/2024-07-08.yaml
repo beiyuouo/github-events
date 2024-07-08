@@ -1,0 +1,32 @@
+'39941306365':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-08T06:17:46Z'
+  id: '39941306365'
+  payload:
+    before: 3dee809f396398ef71679151ccfd01f088518a0e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: ojs'
+      sha: d68927ce8da48d5a6e2e0170912220b4db3244ea
+      url: https://api.github.com/repos/beiyuouo/HOCO-DQ/commits/d68927ce8da48d5a6e2e0170912220b4db3244ea
+    distinct_size: 1
+    head: d68927ce8da48d5a6e2e0170912220b4db3244ea
+    push_id: 19214008642
+    ref: refs/heads/main
+    repository_id: 813993380
+    size: 1
+  public: false
+  repo:
+    id: 813993380
+    name: beiyuouo/HOCO-DQ
+    url: https://api.github.com/repos/beiyuouo/HOCO-DQ
+  type: PushEvent
