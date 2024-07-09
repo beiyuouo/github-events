@@ -22,3 +22,27 @@
     name: Vision-CAIR/MiniGPT-Med
     url: https://api.github.com/repos/Vision-CAIR/MiniGPT-Med
   type: WatchEvent
+'39981605117':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-09T08:26:35Z'
+  id: '39981605117'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/171549236?
+    gravatar_id: ''
+    id: 171549236
+    login: Kwai-Kolors
+    url: https://api.github.com/orgs/Kwai-Kolors
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 824577084
+    name: Kwai-Kolors/Kolors
+    url: https://api.github.com/repos/Kwai-Kolors/Kolors
+  type: WatchEvent
