@@ -46,3 +46,135 @@
     name: Kwai-Kolors/Kolors
     url: https://api.github.com/repos/Kwai-Kolors/Kolors
   type: WatchEvent
+'39996175158':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-09T15:25:53Z'
+  id: '39996175158'
+  payload:
+    before: c4bd86c5dd9d2e1747c81439a673a1869b5879e0
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: main_med'
+      sha: ed6fe375b16ba9e4761c9c217b67108a116dc702
+      url: https://api.github.com/repos/beiyuouo/SLM/commits/ed6fe375b16ba9e4761c9c217b67108a116dc702
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: coll max'
+      sha: d22812bcb55713e051491b287c4120feb757b299
+      url: https://api.github.com/repos/beiyuouo/SLM/commits/d22812bcb55713e051491b287c4120feb757b299
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: eval'
+      sha: fcede626fff8b1f228a7e34178dd6fe9352dc1f9
+      url: https://api.github.com/repos/beiyuouo/SLM/commits/fcede626fff8b1f228a7e34178dd6fe9352dc1f9
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: prompt'
+      sha: 4965d07c0da21a53a20e96c9174c8c53d5ba1fd5
+      url: https://api.github.com/repos/beiyuouo/SLM/commits/4965d07c0da21a53a20e96c9174c8c53d5ba1fd5
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: tokenizer and strategy'
+      sha: eb6d05f4dc37c8a0c97a3d13c6e670f547828dc6
+      url: https://api.github.com/repos/beiyuouo/SLM/commits/eb6d05f4dc37c8a0c97a3d13c6e670f547828dc6
+    distinct_size: 5
+    head: eb6d05f4dc37c8a0c97a3d13c6e670f547828dc6
+    push_id: 19240645935
+    ref: refs/heads/main
+    repository_id: 823743327
+    size: 5
+  public: false
+  repo:
+    id: 823743327
+    name: beiyuouo/SLM
+    url: https://api.github.com/repos/beiyuouo/SLM
+  type: PushEvent
+'39996365908':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-09T15:31:17Z'
+  id: '39996365908'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 825180645
+    name: yankang18/FedCG
+    url: https://api.github.com/repos/yankang18/FedCG
+  type: WatchEvent
+'39996377705':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-09T15:31:37Z'
+  id: '39996377705'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 360580312
+    name: yankang18/PrADA
+    url: https://api.github.com/repos/yankang18/PrADA
+  type: WatchEvent
+'39996382884':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-09T15:31:47Z'
+  id: '39996382884'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 787863294
+    name: yankang18/FedCVT
+    url: https://api.github.com/repos/yankang18/FedCVT
+  type: WatchEvent
+'39996404361':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-09T15:32:25Z'
+  id: '39996404361'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 825891216
+    name: QIN2DIM/alloy-voice-assistant
+    url: https://api.github.com/repos/QIN2DIM/alloy-voice-assistant
+  type: WatchEvent
