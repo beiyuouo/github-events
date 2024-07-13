@@ -1,0 +1,24 @@
+'40096528370':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-07-12T11:48:32Z'
+  id: '40096528370'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/127318616?
+    gravatar_id: ''
+    id: 127318616
+    login: MobileLLM
+    url: https://api.github.com/orgs/MobileLLM
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 740601905
+    name: MobileLLM/Personal_LLM_Agents_Survey
+    url: https://api.github.com/repos/MobileLLM/Personal_LLM_Agents_Survey
+  type: WatchEvent
