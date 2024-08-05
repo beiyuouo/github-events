@@ -1,0 +1,18 @@
+'40735584317':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-08-05T03:02:47Z'
+  id: '40735584317'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 811638645
+    name: HCPLab-SYSU/Embodied_AI_Paper_List
+    url: https://api.github.com/repos/HCPLab-SYSU/Embodied_AI_Paper_List
+  type: WatchEvent
