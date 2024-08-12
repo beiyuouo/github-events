@@ -1,0 +1,155 @@
+'40932784212':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-08-12T02:51:43Z'
+  id: '40932784212'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/176036829?
+    gravatar_id: ''
+    id: 176036829
+    login: VITA-MLLM
+    url: https://api.github.com/orgs/VITA-MLLM
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 840678954
+    name: VITA-MLLM/VITA
+    url: https://api.github.com/repos/VITA-MLLM/VITA
+  type: WatchEvent
+'40938064494':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-08-12T07:46:38Z'
+  id: '40938064494'
+  payload:
+    before: 567a862b07aa32cf0940a23a1cc0e71d86d52d93
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: RECOO alpha'
+      sha: 66384767f3915f976b78810c861f5f2944683339
+      url: https://api.github.com/repos/beiyuouo/HOCO-DQ/commits/66384767f3915f976b78810c861f5f2944683339
+    distinct_size: 1
+    head: 66384767f3915f976b78810c861f5f2944683339
+    push_id: 19727224028
+    ref: refs/heads/main
+    repository_id: 813993380
+    size: 1
+  public: false
+  repo:
+    id: 813993380
+    name: beiyuouo/HOCO-DQ
+    url: https://api.github.com/repos/beiyuouo/HOCO-DQ
+  type: PushEvent
+'40938197121':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-08-12T07:51:18Z'
+  id: '40938197121'
+  payload:
+    before: ad601b4a6cf53a743e5e4d109d82341c7cd977a2
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: RECOO alpha'
+      sha: f169433eb560ef8f080ca669a1330be4c7db7949
+      url: https://api.github.com/repos/beiyuouo/HOCO-DQ/commits/f169433eb560ef8f080ca669a1330be4c7db7949
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: change solver name to COLDQ'
+      sha: 5731d1b5f02b29b1450805cc5b6a2d8e38dd7f38
+      url: https://api.github.com/repos/beiyuouo/HOCO-DQ/commits/5731d1b5f02b29b1450805cc5b6a2d8e38dd7f38
+    distinct_size: 2
+    head: 5731d1b5f02b29b1450805cc5b6a2d8e38dd7f38
+    push_id: 19727286736
+    ref: refs/heads/pub
+    repository_id: 813993380
+    size: 2
+  public: false
+  repo:
+    id: 813993380
+    name: beiyuouo/HOCO-DQ
+    url: https://api.github.com/repos/beiyuouo/HOCO-DQ
+  type: PushEvent
+'40942060459':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-08-12T09:56:31Z'
+  id: '40942060459'
+  payload:
+    before: 643f745ffac034eb0eb842efae8fb60a0d0904e6
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: train bf16 & cd'
+      sha: af550544bb213405edd149b93d125d79cf38393f
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/af550544bb213405edd149b93d125d79cf38393f
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: cd'
+      sha: 4ae3c36631fe92c511effd814de32e783a912e23
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/4ae3c36631fe92c511effd814de32e783a912e23
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: eval'
+      sha: cf9824aee9a4471f38ff1eca1cdb2c7afd849c09
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/cf9824aee9a4471f38ff1eca1cdb2c7afd849c09
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: evalcap import'
+      sha: fb54ce968331ec031c5e72177f3b0510cdf3490a
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/fb54ce968331ec031c5e72177f3b0510cdf3490a
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: train'
+      sha: 920a0e76adf194c308ded3e049c567f9cef11156
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/920a0e76adf194c308ded3e049c567f9cef11156
+    distinct_size: 5
+    head: 920a0e76adf194c308ded3e049c567f9cef11156
+    push_id: 19729131856
+    ref: refs/heads/main
+    repository_id: 832244325
+    size: 5
+  public: false
+  repo:
+    id: 832244325
+    name: beiyuouo/pcd
+    url: https://api.github.com/repos/beiyuouo/pcd
+  type: PushEvent
