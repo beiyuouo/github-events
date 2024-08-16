@@ -1,0 +1,24 @@
+'41059630665':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-08-15T17:22:19Z'
+  id: '41059630665'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/140988036?
+    gravatar_id: ''
+    id: 140988036
+    login: SakanaAI
+    url: https://api.github.com/orgs/SakanaAI
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 841376583
+    name: SakanaAI/AI-Scientist
+    url: https://api.github.com/repos/SakanaAI/AI-Scientist
+  type: WatchEvent
