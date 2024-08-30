@@ -1,0 +1,24 @@
+'41477037600':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-08-30T04:37:46Z'
+  id: '41477037600'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/141221163?
+    gravatar_id: ''
+    id: 141221163
+    login: QwenLM
+    url: https://api.github.com/orgs/QwenLM
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 849239437
+    name: QwenLM/Qwen2-VL
+    url: https://api.github.com/repos/QwenLM/Qwen2-VL
+  type: WatchEvent
