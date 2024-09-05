@@ -22,3 +22,27 @@
     name: CUHK-AIM-Group/FedGP
     url: https://api.github.com/repos/CUHK-AIM-Group/FedGP
   type: WatchEvent
+'41621589640':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-04T14:28:38Z'
+  id: '41621589640'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/5667695?
+    gravatar_id: ''
+    id: 5667695
+    login: allenai
+    url: https://api.github.com/orgs/allenai
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 818790648
+    name: allenai/OLMoE
+    url: https://api.github.com/repos/allenai/OLMoE
+  type: WatchEvent
