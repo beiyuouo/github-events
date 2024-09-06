@@ -1,0 +1,46 @@
+'41659107550':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-05T14:06:25Z'
+  id: '41659107550'
+  payload:
+    before: c8d5665011a803de0b1856454b097ee19b6c2dd7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: scripts'
+      sha: e54c97e9e3e3f92429b3195da432fcebba44ed3b
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/e54c97e9e3e3f92429b3195da432fcebba44ed3b
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: eval with bleu; normalization'
+      sha: a651728f15858f54e744839327e902f62e38708a
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/a651728f15858f54e744839327e902f62e38708a
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: i tried a lot; add support for mistral model'
+      sha: fabe6d6a18cd30a95fab1cc0dfb44ab4860a4464
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/fabe6d6a18cd30a95fab1cc0dfb44ab4860a4464
+    distinct_size: 3
+    head: fabe6d6a18cd30a95fab1cc0dfb44ab4860a4464
+    push_id: 20097833761
+    ref: refs/heads/main
+    repository_id: 832244325
+    size: 3
+  public: false
+  repo:
+    id: 832244325
+    name: beiyuouo/pcd
+    url: https://api.github.com/repos/beiyuouo/pcd
+  type: PushEvent
