@@ -1,0 +1,18 @@
+'41714540710':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-07T12:21:18Z'
+  id: '41714540710'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 603049672
+    name: Hannibal046/Awesome-LLM
+    url: https://api.github.com/repos/Hannibal046/Awesome-LLM
+  type: WatchEvent
