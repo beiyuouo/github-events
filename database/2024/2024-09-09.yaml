@@ -16,3 +16,27 @@
     name: WangCheng0116/CON-RECALL
     url: https://api.github.com/repos/WangCheng0116/CON-RECALL
   type: WatchEvent
+'41751054889':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-09T12:45:42Z'
+  id: '41751054889'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/56410036?
+    gravatar_id: ''
+    id: 56410036
+    login: AIoT-MLSys-Lab
+    url: https://api.github.com/orgs/AIoT-MLSys-Lab
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 629520282
+    name: AIoT-MLSys-Lab/Efficient-LLMs-Survey
+    url: https://api.github.com/repos/AIoT-MLSys-Lab/Efficient-LLMs-Survey
+  type: WatchEvent
