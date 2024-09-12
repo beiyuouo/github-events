@@ -1,0 +1,144 @@
+'41858693352':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-12T07:43:24Z'
+  id: '41858693352'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 773207368
+    name: YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare
+    url: https://api.github.com/repos/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare
+  type: WatchEvent
+'41861718792':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-12T09:09:36Z'
+  id: '41861718792'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: null
+    ref_type: repository
+  public: false
+  repo:
+    id: 856258185
+    name: beiyuouo/proxy-tuning
+    url: https://api.github.com/repos/beiyuouo/proxy-tuning
+  type: CreateEvent
+'41861830661':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-12T09:12:36Z'
+  id: '41861830661'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: main
+    ref_type: branch
+  public: false
+  repo:
+    id: 856258185
+    name: beiyuouo/proxy-tuning
+    url: https://api.github.com/repos/beiyuouo/proxy-tuning
+  type: CreateEvent
+'41861885235':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-12T09:14:05Z'
+  id: '41861885235'
+  payload:
+    before: fabe6d6a18cd30a95fab1cc0dfb44ab4860a4464
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: fix
+      sha: eb3ff2c3a673ca08baaa8cfef9d5a2c8062e456c
+      url: https://api.github.com/repos/beiyuouo/pcd/commits/eb3ff2c3a673ca08baaa8cfef9d5a2c8062e456c
+    distinct_size: 1
+    head: eb3ff2c3a673ca08baaa8cfef9d5a2c8062e456c
+    push_id: 20202483798
+    ref: refs/heads/main
+    repository_id: 832244325
+    size: 1
+  public: false
+  repo:
+    id: 832244325
+    name: beiyuouo/pcd
+    url: https://api.github.com/repos/beiyuouo/pcd
+  type: PushEvent
+'41862738994':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-12T09:37:30Z'
+  id: '41862738994'
+  payload:
+    before: 7fcac265164d05abfb4368ca0cec03e9a0b98eac
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix:'
+      sha: 3959c24a5ec58fc31cf6264e5b553de1a34ca412
+      url: https://api.github.com/repos/beiyuouo/proxy-tuning/commits/3959c24a5ec58fc31cf6264e5b553de1a34ca412
+    distinct_size: 1
+    head: 3959c24a5ec58fc31cf6264e5b553de1a34ca412
+    push_id: 20202898159
+    ref: refs/heads/main
+    repository_id: 856258185
+    size: 1
+  public: false
+  repo:
+    id: 856258185
+    name: beiyuouo/proxy-tuning
+    url: https://api.github.com/repos/beiyuouo/proxy-tuning
+  type: PushEvent
+'41863224531':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-12T09:51:00Z'
+  id: '41863224531'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 760947966
+    name: TinyLLaVA/TinyLLaVA_Factory
+    url: https://api.github.com/repos/TinyLLaVA/TinyLLaVA_Factory
+  type: WatchEvent
