@@ -1,0 +1,18 @@
+'41913239108':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-13T16:15:55Z'
+  id: '41913239108'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 759769875
+    name: whlzy/FiT
+    url: https://api.github.com/repos/whlzy/FiT
+  type: WatchEvent
