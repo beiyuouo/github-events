@@ -1,0 +1,60 @@
+'41941252267':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-15T13:17:38Z'
+  id: '41941252267'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 759527975
+    name: zepingyu0512/awesome-llm-understanding-mechanism
+    url: https://api.github.com/repos/zepingyu0512/awesome-llm-understanding-mechanism
+  type: WatchEvent
+'41941254445':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-15T13:17:52Z'
+  id: '41941254445'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 857596299
+    name: hijkzzz/Awesome-LLM-Strawberry
+    url: https://api.github.com/repos/hijkzzz/Awesome-LLM-Strawberry
+  type: WatchEvent
+'41942737708':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-15T15:48:42Z'
+  id: '41942737708'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/58421721?
+    gravatar_id: ''
+    id: 58421721
+    login: aim-uofa
+    url: https://api.github.com/orgs/aim-uofa
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 817617670
+    name: aim-uofa/LoRAPrune
+    url: https://api.github.com/repos/aim-uofa/LoRAPrune
+  type: WatchEvent
