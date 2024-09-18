@@ -1,0 +1,42 @@
+'42023740555':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-18T02:47:43Z'
+  id: '42023740555'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/125520581?
+    gravatar_id: ''
+    id: 125520581
+    login: NexaAI
+    url: https://api.github.com/orgs/NexaAI
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 821467413
+    name: NexaAI/Awesome-LLMs-on-device
+    url: https://api.github.com/repos/NexaAI/Awesome-LLMs-on-device
+  type: WatchEvent
+'42026690424':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-18T05:44:41Z'
+  id: '42026690424'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 817100142
+    name: jinglin-liang/DDDR
+    url: https://api.github.com/repos/jinglin-liang/DDDR
+  type: WatchEvent
