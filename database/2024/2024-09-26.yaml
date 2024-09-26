@@ -1,0 +1,18 @@
+'42280801029':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-26T03:55:37Z'
+  id: '42280801029'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 830908339
+    name: ZJU-LLMs/Awesome-LoRAs
+    url: https://api.github.com/repos/ZJU-LLMs/Awesome-LoRAs
+  type: WatchEvent
