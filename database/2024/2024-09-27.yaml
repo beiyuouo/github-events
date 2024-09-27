@@ -1,0 +1,24 @@
+'42324613997':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-27T07:38:59Z'
+  id: '42324613997'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/109945100?
+    gravatar_id: ''
+    id: 109945100
+    login: modelscope
+    url: https://api.github.com/orgs/modelscope
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 673412924
+    name: modelscope/ms-swift
+    url: https://api.github.com/repos/modelscope/ms-swift
+  type: WatchEvent
