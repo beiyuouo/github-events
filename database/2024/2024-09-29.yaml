@@ -1,0 +1,24 @@
+'42369788189':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-09-29T12:31:14Z'
+  id: '42369788189'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/4158466?
+    gravatar_id: ''
+    id: 4158466
+    login: bytedance
+    url: https://api.github.com/orgs/bytedance
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 808498141
+    name: bytedance/MTVQA
+    url: https://api.github.com/repos/bytedance/MTVQA
+  type: WatchEvent
