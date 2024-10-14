@@ -1,0 +1,18 @@
+'42806247221':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-10-14T01:30:20Z'
+  id: '42806247221'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 581380809
+    name: dqxiu/ICL_PaperList
+    url: https://api.github.com/repos/dqxiu/ICL_PaperList
+  type: WatchEvent
