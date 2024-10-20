@@ -1,0 +1,24 @@
+'43016342503':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-10-20T06:49:23Z'
+  id: '43016342503'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/43104160?
+    gravatar_id: ''
+    id: 43104160
+    login: 0voice
+    url: https://api.github.com/orgs/0voice
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 202683977
+    name: 0voice/expert_readed_books
+    url: https://api.github.com/repos/0voice/expert_readed_books
+  type: WatchEvent
