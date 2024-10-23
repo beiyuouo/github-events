@@ -1,0 +1,82 @@
+'43073490874':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-10-22T06:01:19Z'
+  id: '43073490874'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 772418082
+    name: zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs
+    url: https://api.github.com/repos/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs
+  type: WatchEvent
+'43078220662':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-10-22T08:30:59Z'
+  id: '43078220662'
+  payload:
+    before: 9a6a6e61aa0cec9f57745d3cd168543228acedf5
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update 1022
+      sha: 9bbe59f6a39280a00d175c774f45b1bddd3b185e
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/9bbe59f6a39280a00d175c774f45b1bddd3b185e
+    distinct_size: 1
+    head: 9bbe59f6a39280a00d175c774f45b1bddd3b185e
+    push_id: 20831421162
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'43078418921':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-10-22T08:36:21Z'
+  id: '43078418921'
+  payload:
+    before: 9bbe59f6a39280a00d175c774f45b1bddd3b185e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update bib
+      sha: e53901ad86b81c307153ec28f4bb4120d9eda9f9
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/e53901ad86b81c307153ec28f4bb4120d9eda9f9
+    distinct_size: 1
+    head: e53901ad86b81c307153ec28f4bb4120d9eda9f9
+    push_id: 20831513642
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
