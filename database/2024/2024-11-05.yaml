@@ -1,0 +1,32 @@
+'43491634247':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-04T18:20:09Z'
+  id: '43491634247'
+  payload:
+    before: e53901ad86b81c307153ec28f4bb4120d9eda9f9
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: change the template
+      sha: de90ef9b45286cb739e767d961f546f905070e55
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/de90ef9b45286cb739e767d961f546f905070e55
+    distinct_size: 1
+    head: de90ef9b45286cb739e767d961f546f905070e55
+    push_id: 21044579832
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
