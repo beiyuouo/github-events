@@ -30,3 +30,131 @@
     name: beiyuouo/beiyuouo.github.io
     url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
   type: PushEvent
+'43502073900':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-05T01:44:51Z'
+  id: '43502073900'
+  payload:
+    before: de90ef9b45286cb739e767d961f546f905070e55
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update news
+      sha: 36bf615b4f753005388654daa2ef1d84ac3b606d
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/36bf615b4f753005388654daa2ef1d84ac3b606d
+    distinct_size: 1
+    head: 36bf615b4f753005388654daa2ef1d84ac3b606d
+    push_id: 21049800302
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'43502161367':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-05T01:50:12Z'
+  id: '43502161367'
+  payload:
+    before: 36bf615b4f753005388654daa2ef1d84ac3b606d
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Create jekyll.yml
+      sha: a928df45cb29d12910ad045dd1758a9accf26d88
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/a928df45cb29d12910ad045dd1758a9accf26d88
+    distinct_size: 1
+    head: a928df45cb29d12910ad045dd1758a9accf26d88
+    push_id: 21049848218
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'43502303986':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-05T01:58:46Z'
+  id: '43502303986'
+  payload:
+    before: a928df45cb29d12910ad045dd1758a9accf26d88
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Delete jekyll.yml
+      sha: 53b5a33d808c5ad1dab4e45cd1422f6715897141
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/53b5a33d808c5ad1dab4e45cd1422f6715897141
+    distinct_size: 1
+    head: 53b5a33d808c5ad1dab4e45cd1422f6715897141
+    push_id: 21049919500
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'43502481337':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-05T02:08:42Z'
+  id: '43502481337'
+  payload:
+    before: 53b5a33d808c5ad1dab4e45cd1422f6715897141
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update news
+      sha: 18d4ca904ebb651eaf4697d5e17f606957d87790
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/18d4ca904ebb651eaf4697d5e17f606957d87790
+    distinct_size: 1
+    head: 18d4ca904ebb651eaf4697d5e17f606957d87790
+    push_id: 21050015321
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
