@@ -1,0 +1,24 @@
+'43594134333':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-07T10:18:14Z'
+  id: '43594134333'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/59252833?
+    gravatar_id: ''
+    id: 59252833
+    login: SICC-Group
+    url: https://api.github.com/orgs/SICC-Group
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 884610260
+    name: SICC-Group/FedMDH
+    url: https://api.github.com/repos/SICC-Group/FedMDH
+  type: WatchEvent
