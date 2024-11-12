@@ -1,0 +1,68 @@
+'43723659607':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-12T03:05:34Z'
+  id: '43723659607'
+  payload:
+    before: 42acfc9595d05027c34353ad2e5d9fcb29590195
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: Update profile.yml
+      sha: 752cbb46c3eff1c50399bab7a02d6df0db4a393c
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/752cbb46c3eff1c50399bab7a02d6df0db4a393c
+    distinct_size: 1
+    head: 752cbb46c3eff1c50399bab7a02d6df0db4a393c
+    push_id: 21164254063
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'43732137873':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-12T09:08:17Z'
+  id: '43732137873'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 822491343
+    name: ChaofanTao/Autoregressive-Models-in-Vision-Survey
+    url: https://api.github.com/repos/ChaofanTao/Autoregressive-Models-in-Vision-Survey
+  type: WatchEvent
+'43732145883':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-12T09:08:29Z'
+  id: '43732145883'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 868235795
+    name: FairyFali/SLMs-Survey
+    url: https://api.github.com/repos/FairyFali/SLMs-Survey
+  type: WatchEvent
