@@ -1,0 +1,32 @@
+'43854696840':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-15T08:06:38Z'
+  id: '43854696840'
+  payload:
+    before: 754e8f8c91d1a4001d0e6c4b17ba0471a7d5ce77
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: vqa'
+      sha: 0b1a3ca48293b4cda624dd6f0d89fcbfa08c2e73
+      url: https://api.github.com/repos/beiyuouo/Buffalo/commits/0b1a3ca48293b4cda624dd6f0d89fcbfa08c2e73
+    distinct_size: 1
+    head: 0b1a3ca48293b4cda624dd6f0d89fcbfa08c2e73
+    push_id: 21228823507
+    ref: refs/heads/main
+    repository_id: 880249367
+    size: 1
+  public: false
+  repo:
+    id: 880249367
+    name: beiyuouo/Buffalo
+    url: https://api.github.com/repos/beiyuouo/Buffalo
+  type: PushEvent
