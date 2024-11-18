@@ -1,0 +1,60 @@
+'43912597254':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-18T02:47:32Z'
+  id: '43912597254'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 478517892
+    name: fylimas/nsfc
+    url: https://api.github.com/repos/fylimas/nsfc
+  type: WatchEvent
+'43912599649':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-18T02:47:41Z'
+  id: '43912599649'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 756475416
+    name: huangwb8/ChineseResearchLaTeX
+    url: https://api.github.com/repos/huangwb8/ChineseResearchLaTeX
+  type: WatchEvent
+'43914673368':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-18T04:48:52Z'
+  id: '43914673368'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/135824553?
+    gravatar_id: ''
+    id: 135824553
+    login: PKU-YuanGroup
+    url: https://api.github.com/orgs/PKU-YuanGroup
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 889750399
+    name: PKU-YuanGroup/LLaVA-o1
+    url: https://api.github.com/repos/PKU-YuanGroup/LLaVA-o1
+  type: WatchEvent
