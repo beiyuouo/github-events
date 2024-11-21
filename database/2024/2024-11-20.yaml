@@ -1,0 +1,18 @@
+'44000350064':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-11-20T05:16:49Z'
+  id: '44000350064'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 35061929
+    name: mpflanzer/splitshow
+    url: https://api.github.com/repos/mpflanzer/splitshow
+  type: WatchEvent
