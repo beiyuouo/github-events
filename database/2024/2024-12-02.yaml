@@ -62,3 +62,35 @@
     name: beiyuouo/blog
     url: https://api.github.com/repos/beiyuouo/blog
   type: PushEvent
+'44377645004':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-12-02T12:12:09Z'
+  id: '44377645004'
+  payload:
+    before: 0fcc16414a92466269120e4157c6d54ad3c2bc23
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: update authors
+      sha: 245ef1f51634633fed1a038aa48ef3c73ce28e02
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/245ef1f51634633fed1a038aa48ef3c73ce28e02
+    distinct_size: 1
+    head: 245ef1f51634633fed1a038aa48ef3c73ce28e02
+    push_id: 21496560502
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
