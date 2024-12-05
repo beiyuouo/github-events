@@ -61,3 +61,84 @@
     name: beiyuouo/ModelTrip
     url: https://api.github.com/repos/beiyuouo/ModelTrip
   type: PushEvent
+'44457088730':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-12-04T10:18:43Z'
+  id: '44457088730'
+  payload:
+    before: 08dc7b6cd984fbb838ff96926ac4d169ceedeb5c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: fusion'
+      sha: 5f4806eb3fb75cf26f4bb22610500f7964edfd26
+      url: https://api.github.com/repos/beiyuouo/ModelTrip/commits/5f4806eb3fb75cf26f4bb22610500f7964edfd26
+    distinct_size: 1
+    head: 5f4806eb3fb75cf26f4bb22610500f7964edfd26
+    push_id: 21535913810
+    ref: refs/heads/main
+    repository_id: 813175873
+    size: 1
+  public: false
+  repo:
+    id: 813175873
+    name: beiyuouo/ModelTrip
+    url: https://api.github.com/repos/beiyuouo/ModelTrip
+  type: PushEvent
+'44457405830':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-12-04T10:27:00Z'
+  id: '44457405830'
+  payload:
+    before: 245ef1f51634633fed1a038aa48ef3c73ce28e02
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: add code for buffalo and modeltrip
+      sha: c7176bfa8997f752e30bfe7450865aca612ab0fc
+      url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io/commits/c7176bfa8997f752e30bfe7450865aca612ab0fc
+    distinct_size: 1
+    head: c7176bfa8997f752e30bfe7450865aca612ab0fc
+    push_id: 21536064663
+    ref: refs/heads/master
+    repository_id: 157235611
+    size: 1
+  public: true
+  repo:
+    id: 157235611
+    name: beiyuouo/beiyuouo.github.io
+    url: https://api.github.com/repos/beiyuouo/beiyuouo.github.io
+  type: PushEvent
+'44459417512':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-12-04T11:21:48Z'
+  id: '44459417512'
+  payload: {}
+  public: true
+  repo:
+    id: 880249367
+    name: beiyuouo/Buffalo
+    url: https://api.github.com/repos/beiyuouo/Buffalo
+  type: PublicEvent
