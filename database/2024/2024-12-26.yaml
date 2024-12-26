@@ -1,0 +1,18 @@
+'45085883433':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-12-26T03:50:56Z'
+  id: '45085883433'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 908350031
+    name: WayneJin0918/SOTA-paper-rating.io
+    url: https://api.github.com/repos/WayneJin0918/SOTA-paper-rating.io
+  type: WatchEvent
