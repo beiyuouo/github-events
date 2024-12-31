@@ -138,3 +138,21 @@
     name: beiyuouo/unifm
     url: https://api.github.com/repos/beiyuouo/unifm
   type: CreateEvent
+'45156168263':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2024-12-30T12:12:45Z'
+  id: '45156168263'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 425398900
+    name: GuanRunwei/Awesome-Vision-Transformer-Collection
+    url: https://api.github.com/repos/GuanRunwei/Awesome-Vision-Transformer-Collection
+  type: WatchEvent
