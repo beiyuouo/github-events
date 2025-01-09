@@ -1,0 +1,39 @@
+'45380255032':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-01-08T19:42:48Z'
+  id: '45380255032'
+  payload:
+    before: 82e658d6f5e15f05a83a9fc4a1d6cc6faaf6b31b
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: remove submodule'
+      sha: 41e597fbc92146d07664384046e3d7146e7ea9ac
+      url: https://api.github.com/repos/beiyuouo/graduation_project/commits/41e597fbc92146d07664384046e3d7146e7ea9ac
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: rename folder'
+      sha: dc0f45779e8794fe59abba912743d0f5205036a5
+      url: https://api.github.com/repos/beiyuouo/graduation_project/commits/dc0f45779e8794fe59abba912743d0f5205036a5
+    distinct_size: 2
+    head: dc0f45779e8794fe59abba912743d0f5205036a5
+    push_id: 22033452722
+    ref: refs/heads/main
+    repository_id: 912932324
+    size: 2
+  public: false
+  repo:
+    id: 912932324
+    name: beiyuouo/graduation_project
+    url: https://api.github.com/repos/beiyuouo/graduation_project
+  type: PushEvent
