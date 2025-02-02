@@ -1,0 +1,24 @@
+'46136651458':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-01T20:44:56Z'
+  id: '46136651458'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/148330874?
+    gravatar_id: ''
+    id: 148330874
+    login: deepseek-ai
+    url: https://api.github.com/orgs/deepseek-ai
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 741744308
+    name: deepseek-ai/awesome-deepseek-integration
+    url: https://api.github.com/repos/deepseek-ai/awesome-deepseek-integration
+  type: WatchEvent
