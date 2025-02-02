@@ -22,3 +22,39 @@
     name: deepseek-ai/awesome-deepseek-integration
     url: https://api.github.com/repos/deepseek-ai/awesome-deepseek-integration
   type: WatchEvent
+'46142631535':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-02T09:22:26Z'
+  id: '46142631535'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 775380131
+    name: deepcs233/Visual-CoT
+    url: https://api.github.com/repos/deepcs233/Visual-CoT
+  type: WatchEvent
+'46142665012':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-02T09:26:05Z'
+  id: '46142665012'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 885902812
+    name: zhaochenyang20/Awesome-ML-SYS-Tutorial
+    url: https://api.github.com/repos/zhaochenyang20/Awesome-ML-SYS-Tutorial
+  type: WatchEvent
