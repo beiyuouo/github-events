@@ -1,0 +1,18 @@
+'46152590826':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-03T01:10:12Z'
+  id: '46152590826'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 879782894
+    name: chen37058/Red-Team-Arxiv-Paper-Update
+    url: https://api.github.com/repos/chen37058/Red-Team-Arxiv-Paper-Update
+  type: WatchEvent
