@@ -16,3 +16,27 @@
     name: chen37058/Red-Team-Arxiv-Paper-Update
     url: https://api.github.com/repos/chen37058/Red-Team-Arxiv-Paper-Update
   type: WatchEvent
+'46168821622':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-03T12:03:44Z'
+  id: '46168821622'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/197144242?
+    gravatar_id: ''
+    id: 197144242
+    login: simplescaling
+    url: https://api.github.com/orgs/simplescaling
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 925501141
+    name: simplescaling/s1
+    url: https://api.github.com/repos/simplescaling/s1
+  type: WatchEvent
