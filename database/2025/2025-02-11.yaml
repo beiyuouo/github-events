@@ -1,0 +1,36 @@
+'46444761098':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-11T10:57:18Z'
+  id: '46444761098'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 670627747
+    name: lokinko/RayFL
+    url: https://api.github.com/repos/lokinko/RayFL
+  type: WatchEvent
+'46447097079':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-11T12:02:13Z'
+  id: '46447097079'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 930398086
+    name: FanqingM/R1-Multimodal-Journey
+    url: https://api.github.com/repos/FanqingM/R1-Multimodal-Journey
+  type: WatchEvent
