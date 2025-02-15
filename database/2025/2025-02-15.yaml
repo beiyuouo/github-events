@@ -1,0 +1,32 @@
+'46591779953':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-14T18:50:07Z'
+  id: '46591779953'
+  payload:
+    before: 2f0a7f77692c060145514ace1d3baf6ec4e1fd14
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'build: run demo & change model to dsv3'
+      sha: b24945e003bcce296c2084039bae14ae898307d0
+      url: https://api.github.com/repos/beiyuouo/EYERAX/commits/b24945e003bcce296c2084039bae14ae898307d0
+    distinct_size: 1
+    head: b24945e003bcce296c2084039bae14ae898307d0
+    push_id: 22665626122
+    ref: refs/heads/main
+    repository_id: 932149044
+    size: 1
+  public: false
+  repo:
+    id: 932149044
+    name: beiyuouo/EYERAX
+    url: https://api.github.com/repos/beiyuouo/EYERAX
+  type: PushEvent
