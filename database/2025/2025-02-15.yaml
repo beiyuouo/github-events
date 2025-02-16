@@ -30,3 +30,67 @@
     name: beiyuouo/EYERAX
     url: https://api.github.com/repos/beiyuouo/EYERAX
   type: PushEvent
+'46607316606':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-15T14:54:28Z'
+  id: '46607316606'
+  payload:
+    before: b24945e003bcce296c2084039bae14ae898307d0
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'build: classification for cfp'
+      sha: bef16be4090c26c7575a0ac8d731f26dd1345ef1
+      url: https://api.github.com/repos/beiyuouo/EYERAX/commits/bef16be4090c26c7575a0ac8d731f26dd1345ef1
+    distinct_size: 1
+    head: bef16be4090c26c7575a0ac8d731f26dd1345ef1
+    push_id: 22674933690
+    ref: refs/heads/main
+    repository_id: 932149044
+    size: 1
+  public: false
+  repo:
+    id: 932149044
+    name: beiyuouo/EYERAX
+    url: https://api.github.com/repos/beiyuouo/EYERAX
+  type: PushEvent
+'46607950187':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-15T15:51:40Z'
+  id: '46607950187'
+  payload:
+    before: bef16be4090c26c7575a0ac8d731f26dd1345ef1
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'chore: add debug mode and fix the interface'
+      sha: e33cbcaf022673334f8de6b159bf4864442b3c97
+      url: https://api.github.com/repos/beiyuouo/EYERAX/commits/e33cbcaf022673334f8de6b159bf4864442b3c97
+    distinct_size: 1
+    head: e33cbcaf022673334f8de6b159bf4864442b3c97
+    push_id: 22675358406
+    ref: refs/heads/main
+    repository_id: 932149044
+    size: 1
+  public: false
+  repo:
+    id: 932149044
+    name: beiyuouo/EYERAX
+    url: https://api.github.com/repos/beiyuouo/EYERAX
+  type: PushEvent
