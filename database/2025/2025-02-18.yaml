@@ -1,0 +1,32 @@
+'46656726142':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-17T16:42:52Z'
+  id: '46656726142'
+  payload:
+    before: 207aef1b5f71db497e6525f2c954b859f99a70fb
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'build: update visualization and prompts'
+      sha: 9a4139d95156e8d652fa8da2c33b17f054186b78
+      url: https://api.github.com/repos/beiyuouo/EYERAX/commits/9a4139d95156e8d652fa8da2c33b17f054186b78
+    distinct_size: 1
+    head: 9a4139d95156e8d652fa8da2c33b17f054186b78
+    push_id: 22703367192
+    ref: refs/heads/main
+    repository_id: 932149044
+    size: 1
+  public: false
+  repo:
+    id: 932149044
+    name: beiyuouo/EYERAX
+    url: https://api.github.com/repos/beiyuouo/EYERAX
+  type: PushEvent
