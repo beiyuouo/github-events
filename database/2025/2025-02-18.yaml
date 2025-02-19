@@ -30,3 +30,47 @@
     name: beiyuouo/EYERAX
     url: https://api.github.com/repos/beiyuouo/EYERAX
   type: PushEvent
+'46677431645':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-18T08:19:37Z'
+  id: '46677431645'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: null
+    ref_type: repository
+  public: false
+  repo:
+    id: 934675408
+    name: beiyuouo/bjgg
+    url: https://api.github.com/repos/beiyuouo/bjgg
+  type: CreateEvent
+'46677577831':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-18T08:23:53Z'
+  id: '46677577831'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: main
+    ref_type: branch
+  public: false
+  repo:
+    id: 934675408
+    name: beiyuouo/bjgg
+    url: https://api.github.com/repos/beiyuouo/bjgg
+  type: CreateEvent
