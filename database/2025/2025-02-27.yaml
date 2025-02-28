@@ -30,3 +30,42 @@
     name: beiyuouo/MedRAE-main
     url: https://api.github.com/repos/beiyuouo/MedRAE-main
   type: PushEvent
+'47027107239':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-27T13:53:13Z'
+  id: '47027107239'
+  payload:
+    before: cc77824cb860f567e9313206fea55d5018451945
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: classification segmentation report'
+      sha: 8893f9d32ebd97fb13330ee3f26ba1f6585a5c3a
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/8893f9d32ebd97fb13330ee3f26ba1f6585a5c3a
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: clf & add demo'
+      sha: 268af3111fe9873fc0823f9556da50d24ddb1ee9
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/268af3111fe9873fc0823f9556da50d24ddb1ee9
+    distinct_size: 2
+    head: 268af3111fe9873fc0823f9556da50d24ddb1ee9
+    push_id: 22893369624
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
