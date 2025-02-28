@@ -1,0 +1,32 @@
+'47014821294':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-02-27T08:39:21Z'
+  id: '47014821294'
+  payload:
+    before: ac190bdc5a97e7ca2b7bf5080fdf1dbeb9ec9522
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: new structure'
+      sha: cc77824cb860f567e9313206fea55d5018451945
+      url: https://api.github.com/repos/beiyuouo/MedRAE-main/commits/cc77824cb860f567e9313206fea55d5018451945
+    distinct_size: 1
+    head: cc77824cb860f567e9313206fea55d5018451945
+    push_id: 22887278564
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedRAE-main
+    url: https://api.github.com/repos/beiyuouo/MedRAE-main
+  type: PushEvent
