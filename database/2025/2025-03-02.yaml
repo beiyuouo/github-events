@@ -1,0 +1,18 @@
+'47097328733':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-01T16:20:51Z'
+  id: '47097328733'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 858629449
+    name: zdy769243418/FedCSR-v1
+    url: https://api.github.com/repos/zdy769243418/FedCSR-v1
+  type: WatchEvent
