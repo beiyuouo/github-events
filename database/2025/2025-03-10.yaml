@@ -1,0 +1,33 @@
+'47358153175':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-09T17:28:26Z'
+  id: '47358153175'
+  payload:
+    before: 82c67736634849c7a87f291f5604a4724db3cc12
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: add seg and report generation prompt; add area and counts in
+        seg results'
+      sha: a1f4105498b917aa49eecbee6527e818dfb8dfba
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/a1f4105498b917aa49eecbee6527e818dfb8dfba
+    distinct_size: 1
+    head: a1f4105498b917aa49eecbee6527e818dfb8dfba
+    push_id: 23068962342
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
