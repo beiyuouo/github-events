@@ -1,0 +1,64 @@
+'47551262386':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-14T04:21:22Z'
+  id: '47551262386'
+  payload:
+    before: 62317fe06d90bb201b32798ebc7bb7c85689113a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: generation'
+      sha: 6259f58d54ca32e783d04ac1c5be0aea21314e56
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/6259f58d54ca32e783d04ac1c5be0aea21314e56
+    distinct_size: 1
+    head: 6259f58d54ca32e783d04ac1c5be0aea21314e56
+    push_id: 23165321963
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
+'47551341562':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-14T04:25:27Z'
+  id: '47551341562'
+  payload:
+    before: 6259f58d54ca32e783d04ac1c5be0aea21314e56
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: generation tools'
+      sha: ef54b12f9ec800ba8962394eed83f357cfc60c0d
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/ef54b12f9ec800ba8962394eed83f357cfc60c0d
+    distinct_size: 1
+    head: ef54b12f9ec800ba8962394eed83f357cfc60c0d
+    push_id: 23165361711
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
