@@ -1,0 +1,32 @@
+'47789614261':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-20T17:35:47Z'
+  id: '47789614261'
+  payload:
+    before: 5ab52f0c23e08730c3967b2d12c5c8b253441a6c
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: gen3d video'
+      sha: e4050c7cf6f81ca0754523876d2349a9c83a0b3e
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/e4050c7cf6f81ca0754523876d2349a9c83a0b3e
+    distinct_size: 1
+    head: e4050c7cf6f81ca0754523876d2349a9c83a0b3e
+    push_id: 23288904782
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
