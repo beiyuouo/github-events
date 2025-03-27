@@ -30,3 +30,35 @@
     name: beiyuouo/MedEYE
     url: https://api.github.com/repos/beiyuouo/MedEYE
   type: PushEvent
+'48023858067':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-27T08:11:53Z'
+  id: '48023858067'
+  payload:
+    before: ff90939468fcc2619fd8e191f81086683af878d3
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: eyeglobe'
+      sha: 18281d3e18c184d29fac1937873237048bfb69d7
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/18281d3e18c184d29fac1937873237048bfb69d7
+    distinct_size: 1
+    head: 18281d3e18c184d29fac1937873237048bfb69d7
+    push_id: 23411329465
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
