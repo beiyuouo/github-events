@@ -1,0 +1,32 @@
+'48021202152':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-27T06:48:20Z'
+  id: '48021202152'
+  payload:
+    before: 81820326f3c72fa421ecb8a5d8df853866cb9f4a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: pyl vis'
+      sha: ff90939468fcc2619fd8e191f81086683af878d3
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/ff90939468fcc2619fd8e191f81086683af878d3
+    distinct_size: 1
+    head: ff90939468fcc2619fd8e191f81086683af878d3
+    push_id: 23410004167
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
