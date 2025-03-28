@@ -1,0 +1,71 @@
+'48047981340':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-27T17:30:39Z'
+  id: '48047981340'
+  payload:
+    before: 18281d3e18c184d29fac1937873237048bfb69d7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: structure seg'
+      sha: 46373696fa08b9d02374bfd4675d25b074a1032f
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/46373696fa08b9d02374bfd4675d25b074a1032f
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: args_schema'
+      sha: 3affb8c1dcde433597b9f478d8acc39452cf484b
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/3affb8c1dcde433597b9f478d8acc39452cf484b
+    distinct_size: 2
+    head: 3affb8c1dcde433597b9f478d8acc39452cf484b
+    push_id: 23422816881
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
+'48049031333':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-27T17:58:56Z'
+  id: '48049031333'
+  payload:
+    before: 3affb8c1dcde433597b9f478d8acc39452cf484b
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: text2video'
+      sha: f2b2c88f36bcef67cdc2d610c63859bb2c126d95
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/f2b2c88f36bcef67cdc2d610c63859bb2c126d95
+    distinct_size: 1
+    head: f2b2c88f36bcef67cdc2d610c63859bb2c126d95
+    push_id: 23423312963
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
