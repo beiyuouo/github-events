@@ -62,3 +62,51 @@
     name: beiyuouo/MedEYE
     url: https://api.github.com/repos/beiyuouo/MedEYE
   type: PushEvent
+'48027389671':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-27T09:41:02Z'
+  id: '48027389671'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/6154722?
+    gravatar_id: ''
+    id: 6154722
+    login: microsoft
+    url: https://api.github.com/orgs/microsoft
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 680120071
+    name: microsoft/autogen
+    url: https://api.github.com/repos/microsoft/autogen
+  type: WatchEvent
+'48027408804':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-03-27T09:41:28Z'
+  id: '48027408804'
+  org:
+    avatar_url: https://avatars.githubusercontent.com/u/163241502?
+    gravatar_id: ''
+    id: 163241502
+    login: jinlab-imvr
+    url: https://api.github.com/orgs/jinlab-imvr
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 947221653
+    name: jinlab-imvr/MedAgent-Pro
+    url: https://api.github.com/repos/jinlab-imvr/MedAgent-Pro
+  type: WatchEvent
