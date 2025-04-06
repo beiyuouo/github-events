@@ -1,0 +1,39 @@
+'48360064274':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-04-05T19:38:27Z'
+  id: '48360064274'
+  payload:
+    before: 2ecce20f464f87e145a062220957d8d764cf2a4b
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: refuge2 benchmark'
+      sha: 26138959f5492c5dffa5addb83f525e1ae74d1f9
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/26138959f5492c5dffa5addb83f525e1ae74d1f9
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: specific clf'
+      sha: a1d795a824a470969eda9cf100fec44db77ccaa1
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/a1d795a824a470969eda9cf100fec44db77ccaa1
+    distinct_size: 2
+    head: a1d795a824a470969eda9cf100fec44db77ccaa1
+    push_id: 23586149287
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
