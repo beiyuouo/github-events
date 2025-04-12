@@ -1,0 +1,32 @@
+'48611603166':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-04-12T10:04:28Z'
+  id: '48611603166'
+  payload:
+    before: cce36748d473c2e613ee8df6e4e634f19e959871
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: yanbj
+      distinct: true
+      message: 'build: central traininig'
+      sha: 2005ad2ffa3459bd7d4c41075074a5f8611ec4bf
+      url: https://api.github.com/repos/beiyuouo/OphthFLM/commits/2005ad2ffa3459bd7d4c41075074a5f8611ec4bf
+    distinct_size: 1
+    head: 2005ad2ffa3459bd7d4c41075074a5f8611ec4bf
+    push_id: 23716174792
+    ref: refs/heads/main
+    repository_id: 964411345
+    size: 1
+  public: false
+  repo:
+    id: 964411345
+    name: beiyuouo/OphthFLM
+    url: https://api.github.com/repos/beiyuouo/OphthFLM
+  type: PushEvent
