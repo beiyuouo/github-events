@@ -1,0 +1,32 @@
+'48962699679':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-04-23T08:27:20Z'
+  id: '48962699679'
+  payload:
+    before: c8915f9c2758ecf1829d95610ccafceca7500e7d
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: yanbj
+      distinct: true
+      message: chore
+      sha: e09ba6c746b329f5d5b19b2a8e9176ea75bcc53d
+      url: https://api.github.com/repos/beiyuouo/OphthFLM/commits/e09ba6c746b329f5d5b19b2a8e9176ea75bcc53d
+    distinct_size: 1
+    head: e09ba6c746b329f5d5b19b2a8e9176ea75bcc53d
+    push_id: 23903402365
+    ref: refs/heads/main
+    repository_id: 964411345
+    size: 1
+  public: false
+  repo:
+    id: 964411345
+    name: beiyuouo/OphthFLM
+    url: https://api.github.com/repos/beiyuouo/OphthFLM
+  type: PushEvent
