@@ -1,0 +1,32 @@
+'49123576753':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-04-28T07:26:36Z'
+  id: '49123576753'
+  payload:
+    before: 160eab173720afcfc35eb40d3fd7101cf5596b7f
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: eyeagent benchmark'
+      sha: b521e8dcc8ce0b188d3f68fd29c8d9ef41af5b9e
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/b521e8dcc8ce0b188d3f68fd29c8d9ef41af5b9e
+    distinct_size: 1
+    head: b521e8dcc8ce0b188d3f68fd29c8d9ef41af5b9e
+    push_id: 23988867278
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
