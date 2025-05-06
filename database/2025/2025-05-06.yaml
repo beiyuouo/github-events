@@ -1,0 +1,603 @@
+'49391436816':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-06T04:02:21Z'
+  id: '49391436816'
+  payload:
+    before: 16e480dd63da73b1360afe5783f29ad205d9d4f3
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: oct analysis'
+      sha: ce572bb9c5c40742a5416bfceb46e1f6c5c3d105
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/ce572bb9c5c40742a5416bfceb46e1f6c5c3d105
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: eyeagent benchmark entrance'
+      sha: fe20b4997e10242b156c30d56c5582c08a34c0fb
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/fe20b4997e10242b156c30d56c5582c08a34c0fb
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: vessel analysis for cfp'
+      sha: 90178a42afdd33e1d71e00cba1e4e3cb154aa855
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/90178a42afdd33e1d71e00cba1e4e3cb154aa855
+    distinct_size: 3
+    head: 90178a42afdd33e1d71e00cba1e4e3cb154aa855
+    push_id: 24129235327
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 3
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
+'49391769381':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-06T04:19:52Z'
+  id: '49391769381'
+  payload:
+    action: created
+    comment:
+      author_association: OWNER
+      body: Thanks for your contribution.
+      created_at: '2025-05-06T04:19:51Z'
+      html_url: https://github.com/beiyuouo/arxiv-daily/pull/8#issuecomment-2853232500
+      id: 2853232500
+      issue_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8
+      node_id: IC_kwDOGTAfFc6qEN90
+      performed_via_github_app: null
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/comments/2853232500/reactions
+      updated_at: '2025-05-06T04:19:51Z'
+      url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/comments/2853232500
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+        user_view_type: public
+    issue:
+      active_lock_reason: null
+      assignee: null
+      assignees: []
+      author_association: NONE
+      body: Added a security policy to encourage vulnerability reports and guide researchers
+        through the CVE assignment process.
+      closed_at: null
+      comments: 1
+      comments_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8/comments
+      created_at: '2025-05-05T21:12:06Z'
+      draft: false
+      events_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8/events
+      html_url: https://github.com/beiyuouo/arxiv-daily/pull/8
+      id: 3040842700
+      labels: []
+      labels_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8/labels{/name}
+      locked: false
+      milestone: null
+      node_id: PR_kwDOGTAfFc6VACod
+      number: 8
+      performed_via_github_app: null
+      pull_request:
+        diff_url: https://github.com/beiyuouo/arxiv-daily/pull/8.diff
+        html_url: https://github.com/beiyuouo/arxiv-daily/pull/8
+        merged_at: null
+        patch_url: https://github.com/beiyuouo/arxiv-daily/pull/8.patch
+        url: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/8
+      reactions:
+        '+1': 0
+        '-1': 0
+        confused: 0
+        eyes: 0
+        heart: 0
+        hooray: 0
+        laugh: 0
+        rocket: 0
+        total_count: 0
+        url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8/reactions
+      repository_url: https://api.github.com/repos/beiyuouo/arxiv-daily
+      state: open
+      state_reason: null
+      timeline_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8/timeline
+      title: Create SECURITY.md
+      updated_at: '2025-05-06T04:19:52Z'
+      url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/128907208?v=4
+        events_url: https://api.github.com/users/amooryx/events{/privacy}
+        followers_url: https://api.github.com/users/amooryx/followers
+        following_url: https://api.github.com/users/amooryx/following{/other_user}
+        gists_url: https://api.github.com/users/amooryx/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/amooryx
+        id: 128907208
+        login: amooryx
+        node_id: U_kgDOB673yA
+        organizations_url: https://api.github.com/users/amooryx/orgs
+        received_events_url: https://api.github.com/users/amooryx/received_events
+        repos_url: https://api.github.com/users/amooryx/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/amooryx/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/amooryx/subscriptions
+        type: User
+        url: https://api.github.com/users/amooryx
+        user_view_type: public
+  public: true
+  repo:
+    id: 422584085
+    name: beiyuouo/arxiv-daily
+    url: https://api.github.com/repos/beiyuouo/arxiv-daily
+  type: IssueCommentEvent
+'49391770090':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-06T04:19:54Z'
+  id: '49391770090'
+  payload:
+    action: closed
+    number: 8
+    pull_request:
+      _links:
+        comments:
+          href: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8/comments
+        commits:
+          href: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/8/commits
+        html:
+          href: https://github.com/beiyuouo/arxiv-daily/pull/8
+        issue:
+          href: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8
+        review_comment:
+          href: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/comments{/number}
+        review_comments:
+          href: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/8/comments
+        self:
+          href: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/8
+        statuses:
+          href: https://api.github.com/repos/beiyuouo/arxiv-daily/statuses/ae074a3622f68030fbda27ef91fe6ea469488a1e
+      active_lock_reason: null
+      additions: 24
+      assignee: null
+      assignees: []
+      author_association: NONE
+      auto_merge: null
+      base:
+        label: beiyuouo:main
+        ref: main
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/beiyuouo/arxiv-daily/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/beiyuouo/arxiv-daily/assignees{/user}
+          blobs_url: https://api.github.com/repos/beiyuouo/arxiv-daily/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/beiyuouo/arxiv-daily/branches{/branch}
+          clone_url: https://github.com/beiyuouo/arxiv-daily.git
+          collaborators_url: https://api.github.com/repos/beiyuouo/arxiv-daily/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/beiyuouo/arxiv-daily/comments{/number}
+          commits_url: https://api.github.com/repos/beiyuouo/arxiv-daily/commits{/sha}
+          compare_url: https://api.github.com/repos/beiyuouo/arxiv-daily/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/beiyuouo/arxiv-daily/contents/{+path}
+          contributors_url: https://api.github.com/repos/beiyuouo/arxiv-daily/contributors
+          created_at: '2021-10-29T13:23:18Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/beiyuouo/arxiv-daily/deployments
+          description: "\U0001F393 Automatically Update Some Fields Papers Daily using\
+            \ Github Actions (Update Every 12th hours)"
+          disabled: false
+          downloads_url: https://api.github.com/repos/beiyuouo/arxiv-daily/downloads
+          events_url: https://api.github.com/repos/beiyuouo/arxiv-daily/events
+          fork: false
+          forks: 51
+          forks_count: 51
+          forks_url: https://api.github.com/repos/beiyuouo/arxiv-daily/forks
+          full_name: beiyuouo/arxiv-daily
+          git_commits_url: https://api.github.com/repos/beiyuouo/arxiv-daily/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/beiyuouo/arxiv-daily/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/beiyuouo/arxiv-daily/git/tags{/sha}
+          git_url: git://github.com/beiyuouo/arxiv-daily.git
+          has_discussions: true
+          has_downloads: true
+          has_issues: true
+          has_pages: true
+          has_projects: true
+          has_wiki: true
+          homepage: https://www.bj-yan.top/arxiv-daily
+          hooks_url: https://api.github.com/repos/beiyuouo/arxiv-daily/hooks
+          html_url: https://github.com/beiyuouo/arxiv-daily
+          id: 422584085
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/events{/number}
+          issues_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues{/number}
+          keys_url: https://api.github.com/repos/beiyuouo/arxiv-daily/keys{/key_id}
+          labels_url: https://api.github.com/repos/beiyuouo/arxiv-daily/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/beiyuouo/arxiv-daily/languages
+          license:
+            key: mit
+            name: MIT License
+            node_id: MDc6TGljZW5zZTEz
+            spdx_id: MIT
+            url: https://api.github.com/licenses/mit
+          merges_url: https://api.github.com/repos/beiyuouo/arxiv-daily/merges
+          milestones_url: https://api.github.com/repos/beiyuouo/arxiv-daily/milestones{/number}
+          mirror_url: null
+          name: arxiv-daily
+          node_id: R_kgDOGTAfFQ
+          notifications_url: https://api.github.com/repos/beiyuouo/arxiv-daily/notifications{?since,all,participating}
+          open_issues: 3
+          open_issues_count: 3
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+            events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+            followers_url: https://api.github.com/users/beiyuouo/followers
+            following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+            gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/beiyuouo
+            id: 44976445
+            login: beiyuouo
+            node_id: MDQ6VXNlcjQ0OTc2NDQ1
+            organizations_url: https://api.github.com/users/beiyuouo/orgs
+            received_events_url: https://api.github.com/users/beiyuouo/received_events
+            repos_url: https://api.github.com/users/beiyuouo/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+            type: User
+            url: https://api.github.com/users/beiyuouo
+            user_view_type: public
+          private: false
+          pulls_url: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls{/number}
+          pushed_at: '2025-05-06T01:29:37Z'
+          releases_url: https://api.github.com/repos/beiyuouo/arxiv-daily/releases{/id}
+          size: 42025
+          ssh_url: git@github.com:beiyuouo/arxiv-daily.git
+          stargazers_count: 171
+          stargazers_url: https://api.github.com/repos/beiyuouo/arxiv-daily/stargazers
+          statuses_url: https://api.github.com/repos/beiyuouo/arxiv-daily/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/beiyuouo/arxiv-daily/subscribers
+          subscription_url: https://api.github.com/repos/beiyuouo/arxiv-daily/subscription
+          svn_url: https://github.com/beiyuouo/arxiv-daily
+          tags_url: https://api.github.com/repos/beiyuouo/arxiv-daily/tags
+          teams_url: https://api.github.com/repos/beiyuouo/arxiv-daily/teams
+          topics:
+          - arxiv
+          - arxiv-api
+          - arxiv-daily
+          - arxiv-papers
+          - computer-vision
+          - federated-learning
+          - github-actions
+          - meta-learning
+          - robotics
+          - slam
+          trees_url: https://api.github.com/repos/beiyuouo/arxiv-daily/git/trees{/sha}
+          updated_at: '2025-05-06T01:25:38Z'
+          url: https://api.github.com/repos/beiyuouo/arxiv-daily
+          visibility: public
+          watchers: 171
+          watchers_count: 171
+          web_commit_signoff_required: false
+        sha: 3a9762e62967c26aa58216489158c659487203c9
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+          events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+          followers_url: https://api.github.com/users/beiyuouo/followers
+          following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+          gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/beiyuouo
+          id: 44976445
+          login: beiyuouo
+          node_id: MDQ6VXNlcjQ0OTc2NDQ1
+          organizations_url: https://api.github.com/users/beiyuouo/orgs
+          received_events_url: https://api.github.com/users/beiyuouo/received_events
+          repos_url: https://api.github.com/users/beiyuouo/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+          type: User
+          url: https://api.github.com/users/beiyuouo
+          user_view_type: public
+      body: Added a security policy to encourage vulnerability reports and guide researchers
+        through the CVE assignment process.
+      changed_files: 1
+      closed_at: '2025-05-06T04:19:53Z'
+      comments: 1
+      comments_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8/comments
+      commits: 1
+      commits_url: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/8/commits
+      created_at: '2025-05-05T21:12:06Z'
+      deletions: 0
+      diff_url: https://github.com/beiyuouo/arxiv-daily/pull/8.diff
+      draft: false
+      head:
+        label: amooryx:patch-2
+        ref: patch-2
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/amooryx/arxiv-daily/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/amooryx/arxiv-daily/assignees{/user}
+          blobs_url: https://api.github.com/repos/amooryx/arxiv-daily/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/amooryx/arxiv-daily/branches{/branch}
+          clone_url: https://github.com/amooryx/arxiv-daily.git
+          collaborators_url: https://api.github.com/repos/amooryx/arxiv-daily/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/amooryx/arxiv-daily/comments{/number}
+          commits_url: https://api.github.com/repos/amooryx/arxiv-daily/commits{/sha}
+          compare_url: https://api.github.com/repos/amooryx/arxiv-daily/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/amooryx/arxiv-daily/contents/{+path}
+          contributors_url: https://api.github.com/repos/amooryx/arxiv-daily/contributors
+          created_at: '2025-05-01T20:19:28Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/amooryx/arxiv-daily/deployments
+          description: "\U0001F393 Automatically Update Some Fields Papers Daily using\
+            \ Github Actions (Update Every 12th hours)"
+          disabled: false
+          downloads_url: https://api.github.com/repos/amooryx/arxiv-daily/downloads
+          events_url: https://api.github.com/repos/amooryx/arxiv-daily/events
+          fork: true
+          forks: 0
+          forks_count: 0
+          forks_url: https://api.github.com/repos/amooryx/arxiv-daily/forks
+          full_name: amooryx/arxiv-daily
+          git_commits_url: https://api.github.com/repos/amooryx/arxiv-daily/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/amooryx/arxiv-daily/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/amooryx/arxiv-daily/git/tags{/sha}
+          git_url: git://github.com/amooryx/arxiv-daily.git
+          has_discussions: false
+          has_downloads: true
+          has_issues: false
+          has_pages: false
+          has_projects: true
+          has_wiki: true
+          homepage: https://www.bj-yan.top/arxiv-daily
+          hooks_url: https://api.github.com/repos/amooryx/arxiv-daily/hooks
+          html_url: https://github.com/amooryx/arxiv-daily
+          id: 976276125
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/amooryx/arxiv-daily/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/amooryx/arxiv-daily/issues/events{/number}
+          issues_url: https://api.github.com/repos/amooryx/arxiv-daily/issues{/number}
+          keys_url: https://api.github.com/repos/amooryx/arxiv-daily/keys{/key_id}
+          labels_url: https://api.github.com/repos/amooryx/arxiv-daily/labels{/name}
+          language: null
+          languages_url: https://api.github.com/repos/amooryx/arxiv-daily/languages
+          license:
+            key: mit
+            name: MIT License
+            node_id: MDc6TGljZW5zZTEz
+            spdx_id: MIT
+            url: https://api.github.com/licenses/mit
+          merges_url: https://api.github.com/repos/amooryx/arxiv-daily/merges
+          milestones_url: https://api.github.com/repos/amooryx/arxiv-daily/milestones{/number}
+          mirror_url: null
+          name: arxiv-daily
+          node_id: R_kgDOOjDKnQ
+          notifications_url: https://api.github.com/repos/amooryx/arxiv-daily/notifications{?since,all,participating}
+          open_issues: 0
+          open_issues_count: 0
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/128907208?v=4
+            events_url: https://api.github.com/users/amooryx/events{/privacy}
+            followers_url: https://api.github.com/users/amooryx/followers
+            following_url: https://api.github.com/users/amooryx/following{/other_user}
+            gists_url: https://api.github.com/users/amooryx/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/amooryx
+            id: 128907208
+            login: amooryx
+            node_id: U_kgDOB673yA
+            organizations_url: https://api.github.com/users/amooryx/orgs
+            received_events_url: https://api.github.com/users/amooryx/received_events
+            repos_url: https://api.github.com/users/amooryx/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/amooryx/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/amooryx/subscriptions
+            type: User
+            url: https://api.github.com/users/amooryx
+            user_view_type: public
+          private: false
+          pulls_url: https://api.github.com/repos/amooryx/arxiv-daily/pulls{/number}
+          pushed_at: '2025-05-05T21:10:48Z'
+          releases_url: https://api.github.com/repos/amooryx/arxiv-daily/releases{/id}
+          size: 42005
+          ssh_url: git@github.com:amooryx/arxiv-daily.git
+          stargazers_count: 0
+          stargazers_url: https://api.github.com/repos/amooryx/arxiv-daily/stargazers
+          statuses_url: https://api.github.com/repos/amooryx/arxiv-daily/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/amooryx/arxiv-daily/subscribers
+          subscription_url: https://api.github.com/repos/amooryx/arxiv-daily/subscription
+          svn_url: https://github.com/amooryx/arxiv-daily
+          tags_url: https://api.github.com/repos/amooryx/arxiv-daily/tags
+          teams_url: https://api.github.com/repos/amooryx/arxiv-daily/teams
+          topics: []
+          trees_url: https://api.github.com/repos/amooryx/arxiv-daily/git/trees{/sha}
+          updated_at: '2025-05-01T20:19:29Z'
+          url: https://api.github.com/repos/amooryx/arxiv-daily
+          visibility: public
+          watchers: 0
+          watchers_count: 0
+          web_commit_signoff_required: false
+        sha: ae074a3622f68030fbda27ef91fe6ea469488a1e
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/128907208?v=4
+          events_url: https://api.github.com/users/amooryx/events{/privacy}
+          followers_url: https://api.github.com/users/amooryx/followers
+          following_url: https://api.github.com/users/amooryx/following{/other_user}
+          gists_url: https://api.github.com/users/amooryx/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/amooryx
+          id: 128907208
+          login: amooryx
+          node_id: U_kgDOB673yA
+          organizations_url: https://api.github.com/users/amooryx/orgs
+          received_events_url: https://api.github.com/users/amooryx/received_events
+          repos_url: https://api.github.com/users/amooryx/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/amooryx/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/amooryx/subscriptions
+          type: User
+          url: https://api.github.com/users/amooryx
+          user_view_type: public
+      html_url: https://github.com/beiyuouo/arxiv-daily/pull/8
+      id: 2499815965
+      issue_url: https://api.github.com/repos/beiyuouo/arxiv-daily/issues/8
+      labels: []
+      locked: false
+      maintainer_can_modify: false
+      merge_commit_sha: fad168770b0e68aef3e5acfa16bb2e7a7765d687
+      mergeable: null
+      mergeable_state: unknown
+      merged: true
+      merged_at: '2025-05-06T04:19:53Z'
+      merged_by:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+        user_view_type: public
+      milestone: null
+      node_id: PR_kwDOGTAfFc6VACod
+      number: 8
+      patch_url: https://github.com/beiyuouo/arxiv-daily/pull/8.patch
+      rebaseable: null
+      requested_reviewers: []
+      requested_teams: []
+      review_comment_url: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/comments{/number}
+      review_comments: 0
+      review_comments_url: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/8/comments
+      state: closed
+      statuses_url: https://api.github.com/repos/beiyuouo/arxiv-daily/statuses/ae074a3622f68030fbda27ef91fe6ea469488a1e
+      title: Create SECURITY.md
+      updated_at: '2025-05-06T04:19:53Z'
+      url: https://api.github.com/repos/beiyuouo/arxiv-daily/pulls/8
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/128907208?v=4
+        events_url: https://api.github.com/users/amooryx/events{/privacy}
+        followers_url: https://api.github.com/users/amooryx/followers
+        following_url: https://api.github.com/users/amooryx/following{/other_user}
+        gists_url: https://api.github.com/users/amooryx/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/amooryx
+        id: 128907208
+        login: amooryx
+        node_id: U_kgDOB673yA
+        organizations_url: https://api.github.com/users/amooryx/orgs
+        received_events_url: https://api.github.com/users/amooryx/received_events
+        repos_url: https://api.github.com/users/amooryx/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/amooryx/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/amooryx/subscriptions
+        type: User
+        url: https://api.github.com/users/amooryx
+        user_view_type: public
+  public: true
+  repo:
+    id: 422584085
+    name: beiyuouo/arxiv-daily
+    url: https://api.github.com/repos/beiyuouo/arxiv-daily
+  type: PullRequestEvent
+'49391770301':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-06T04:19:55Z'
+  id: '49391770301'
+  payload:
+    before: a40b1fd09a5a45ae217e3e8700e6eb82f3f77761
+    commits:
+    - author:
+        email: 128907208+amooryx@users.noreply.github.com
+        name: OMAR
+      distinct: true
+      message: Create SECURITY.md
+      sha: ae074a3622f68030fbda27ef91fe6ea469488a1e
+      url: https://api.github.com/repos/beiyuouo/arxiv-daily/commits/ae074a3622f68030fbda27ef91fe6ea469488a1e
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'Merge pull request #8 from amooryx/patch-2
+
+
+        Create SECURITY.md'
+      sha: fad168770b0e68aef3e5acfa16bb2e7a7765d687
+      url: https://api.github.com/repos/beiyuouo/arxiv-daily/commits/fad168770b0e68aef3e5acfa16bb2e7a7765d687
+    distinct_size: 2
+    head: fad168770b0e68aef3e5acfa16bb2e7a7765d687
+    push_id: 24129419802
+    ref: refs/heads/main
+    repository_id: 422584085
+    size: 2
+  public: true
+  repo:
+    id: 422584085
+    name: beiyuouo/arxiv-daily
+    url: https://api.github.com/repos/beiyuouo/arxiv-daily
+  type: PushEvent
