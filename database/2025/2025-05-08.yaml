@@ -1,0 +1,102 @@
+'49493389419':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-08T09:16:46Z'
+  id: '49493389419'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: benchmark-eyeagent
+    ref_type: branch
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: CreateEvent
+'49493417277':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-08T09:17:28Z'
+  id: '49493417277'
+  payload:
+    action: published
+    release:
+      assets: []
+      assets_url: https://api.github.com/repos/beiyuouo/MedEYE/releases/217269087/assets
+      author:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+        user_view_type: public
+      body: ''
+      created_at: '2025-05-06T04:02:13Z'
+      draft: false
+      html_url: https://github.com/beiyuouo/MedEYE/releases/tag/v1.1
+      id: 217269087
+      is_short_description_html_truncated: false
+      name: benchmark-eyeagent
+      node_id: RE_kwDON_qia84M80Nf
+      prerelease: false
+      published_at: '2025-05-08T09:17:27Z'
+      short_description_html: ''
+      tag_name: v1.1
+      tarball_url: https://api.github.com/repos/beiyuouo/MedEYE/tarball/v1.1
+      target_commitish: benchmark-eyeagent
+      upload_url: https://uploads.github.com/repos/beiyuouo/MedEYE/releases/217269087/assets{?name,label}
+      url: https://api.github.com/repos/beiyuouo/MedEYE/releases/217269087
+      zipball_url: https://api.github.com/repos/beiyuouo/MedEYE/zipball/v1.1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: ReleaseEvent
+'49493417423':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-08T09:17:28Z'
+  id: '49493417423'
+  payload:
+    description: null
+    master_branch: main
+    pusher_type: user
+    ref: v1.1
+    ref_type: tag
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: CreateEvent
