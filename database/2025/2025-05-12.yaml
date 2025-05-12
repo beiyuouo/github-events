@@ -1,0 +1,32 @@
+'49606460020':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-12T08:40:46Z'
+  id: '49606460020'
+  payload:
+    before: 90178a42afdd33e1d71e00cba1e4e3cb154aa855
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: vlm agent with vllm'
+      sha: 138b1ea4886c42d30d9d99e547b2a8105453255d
+      url: https://api.github.com/repos/beiyuouo/MedEYE/commits/138b1ea4886c42d30d9d99e547b2a8105453255d
+    distinct_size: 1
+    head: 138b1ea4886c42d30d9d99e547b2a8105453255d
+    push_id: 24240743282
+    ref: refs/heads/vlm
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/MedEYE
+    url: https://api.github.com/repos/beiyuouo/MedEYE
+  type: PushEvent
