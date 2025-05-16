@@ -1,0 +1,18 @@
+'49758887102':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-15T12:27:06Z'
+  id: '49758887102'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 231865705
+    name: TapXWorld/ChinaTextbook
+    url: https://api.github.com/repos/TapXWorld/ChinaTextbook
+  type: WatchEvent
