@@ -1,0 +1,40 @@
+'50099856672':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-24T10:46:04Z'
+  id: '50099856672'
+  payload:
+    before: 815ad632e50f654b2718d7947b1402ebb23763a5
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: logo'
+      sha: 24522999fcec486a414fd93a55bd13db673d1c9a
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/24522999fcec486a414fd93a55bd13db673d1c9a
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Merge branch 'main' of https://github.com/beiyuouo/MedRAE-main into
+        main
+      sha: 51a9502a263a347d0c65a24f958b325ffd6e2e0a
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/51a9502a263a347d0c65a24f958b325ffd6e2e0a
+    distinct_size: 2
+    head: 51a9502a263a347d0c65a24f958b325ffd6e2e0a
+    push_id: 24488713358
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
