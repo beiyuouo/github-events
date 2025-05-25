@@ -38,3 +38,882 @@
     name: beiyuouo/EyeAgent
     url: https://api.github.com/repos/beiyuouo/EyeAgent
   type: PushEvent
+'50102004673':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-24T13:47:33Z'
+  id: '50102004673'
+  payload:
+    before: 51a9502a263a347d0c65a24f958b325ffd6e2e0a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: update specific classification'
+      sha: 48c182719688dacd6ada973a834f68c88f4ef1d3
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/48c182719688dacd6ada973a834f68c88f4ef1d3
+    distinct_size: 1
+    head: 48c182719688dacd6ada973a834f68c88f4ef1d3
+    push_id: 24490178382
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
+'50102630981':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-24T14:36:39Z'
+  id: '50102630981'
+  payload:
+    action: opened
+    number: 2
+    pull_request:
+      _links:
+        comments:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2/comments
+        commits:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/commits
+        html:
+          href: https://github.com/beiyuouo/EyeAgent/pull/2
+        issue:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2
+        review_comment:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/comments{/number}
+        review_comments:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/comments
+        self:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2
+        statuses:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/ebf786503118602b2cf2f3c3f68eadebd220cb74
+      active_lock_reason: null
+      additions: 52
+      assignee: null
+      assignees: []
+      author_association: OWNER
+      auto_merge: null
+      base:
+        label: beiyuouo:main
+        ref: main
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/beiyuouo/EyeAgent/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/beiyuouo/EyeAgent/assignees{/user}
+          blobs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/beiyuouo/EyeAgent/branches{/branch}
+          clone_url: https://github.com/beiyuouo/EyeAgent.git
+          collaborators_url: https://api.github.com/repos/beiyuouo/EyeAgent/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/comments{/number}
+          commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/commits{/sha}
+          compare_url: https://api.github.com/repos/beiyuouo/EyeAgent/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/beiyuouo/EyeAgent/contents/{+path}
+          contributors_url: https://api.github.com/repos/beiyuouo/EyeAgent/contributors
+          created_at: '2025-02-26T05:33:20Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/beiyuouo/EyeAgent/deployments
+          description: null
+          disabled: false
+          downloads_url: https://api.github.com/repos/beiyuouo/EyeAgent/downloads
+          events_url: https://api.github.com/repos/beiyuouo/EyeAgent/events
+          fork: false
+          forks: 0
+          forks_count: 0
+          forks_url: https://api.github.com/repos/beiyuouo/EyeAgent/forks
+          full_name: beiyuouo/EyeAgent
+          git_commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/tags{/sha}
+          git_url: git://github.com/beiyuouo/EyeAgent.git
+          has_discussions: false
+          has_downloads: true
+          has_issues: true
+          has_pages: false
+          has_projects: true
+          has_wiki: true
+          homepage: null
+          hooks_url: https://api.github.com/repos/beiyuouo/EyeAgent/hooks
+          html_url: https://github.com/beiyuouo/EyeAgent
+          id: 939172459
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/events{/number}
+          issues_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues{/number}
+          keys_url: https://api.github.com/repos/beiyuouo/EyeAgent/keys{/key_id}
+          labels_url: https://api.github.com/repos/beiyuouo/EyeAgent/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/beiyuouo/EyeAgent/languages
+          license:
+            key: apache-2.0
+            name: Apache License 2.0
+            node_id: MDc6TGljZW5zZTI=
+            spdx_id: Apache-2.0
+            url: https://api.github.com/licenses/apache-2.0
+          merges_url: https://api.github.com/repos/beiyuouo/EyeAgent/merges
+          milestones_url: https://api.github.com/repos/beiyuouo/EyeAgent/milestones{/number}
+          mirror_url: null
+          name: EyeAgent
+          node_id: R_kgDON_qiaw
+          notifications_url: https://api.github.com/repos/beiyuouo/EyeAgent/notifications{?since,all,participating}
+          open_issues: 1
+          open_issues_count: 1
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+            events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+            followers_url: https://api.github.com/users/beiyuouo/followers
+            following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+            gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/beiyuouo
+            id: 44976445
+            login: beiyuouo
+            node_id: MDQ6VXNlcjQ0OTc2NDQ1
+            organizations_url: https://api.github.com/users/beiyuouo/orgs
+            received_events_url: https://api.github.com/users/beiyuouo/received_events
+            repos_url: https://api.github.com/users/beiyuouo/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+            type: User
+            url: https://api.github.com/users/beiyuouo
+            user_view_type: public
+          private: true
+          pulls_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls{/number}
+          pushed_at: '2025-05-24T13:47:32Z'
+          releases_url: https://api.github.com/repos/beiyuouo/EyeAgent/releases{/id}
+          size: 49567
+          ssh_url: git@github.com:beiyuouo/EyeAgent.git
+          stargazers_count: 1
+          stargazers_url: https://api.github.com/repos/beiyuouo/EyeAgent/stargazers
+          statuses_url: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscribers
+          subscription_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscription
+          svn_url: https://github.com/beiyuouo/EyeAgent
+          tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/tags
+          teams_url: https://api.github.com/repos/beiyuouo/EyeAgent/teams
+          topics: []
+          trees_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/trees{/sha}
+          updated_at: '2025-05-24T13:47:35Z'
+          url: https://api.github.com/repos/beiyuouo/EyeAgent
+          visibility: private
+          watchers: 1
+          watchers_count: 1
+          web_commit_signoff_required: false
+        sha: 48c182719688dacd6ada973a834f68c88f4ef1d3
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+          events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+          followers_url: https://api.github.com/users/beiyuouo/followers
+          following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+          gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/beiyuouo
+          id: 44976445
+          login: beiyuouo
+          node_id: MDQ6VXNlcjQ0OTc2NDQ1
+          organizations_url: https://api.github.com/users/beiyuouo/orgs
+          received_events_url: https://api.github.com/users/beiyuouo/received_events
+          repos_url: https://api.github.com/users/beiyuouo/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+          type: User
+          url: https://api.github.com/users/beiyuouo
+          user_view_type: public
+      body: null
+      changed_files: 2
+      closed_at: null
+      comments: 0
+      comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2/comments
+      commits: 1
+      commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/commits
+      created_at: '2025-05-24T14:36:38Z'
+      deletions: 44
+      diff_url: https://github.com/beiyuouo/EyeAgent/pull/2.diff
+      draft: false
+      head:
+        label: beiyuouo:vlm
+        ref: vlm
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/beiyuouo/EyeAgent/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/beiyuouo/EyeAgent/assignees{/user}
+          blobs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/beiyuouo/EyeAgent/branches{/branch}
+          clone_url: https://github.com/beiyuouo/EyeAgent.git
+          collaborators_url: https://api.github.com/repos/beiyuouo/EyeAgent/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/comments{/number}
+          commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/commits{/sha}
+          compare_url: https://api.github.com/repos/beiyuouo/EyeAgent/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/beiyuouo/EyeAgent/contents/{+path}
+          contributors_url: https://api.github.com/repos/beiyuouo/EyeAgent/contributors
+          created_at: '2025-02-26T05:33:20Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/beiyuouo/EyeAgent/deployments
+          description: null
+          disabled: false
+          downloads_url: https://api.github.com/repos/beiyuouo/EyeAgent/downloads
+          events_url: https://api.github.com/repos/beiyuouo/EyeAgent/events
+          fork: false
+          forks: 0
+          forks_count: 0
+          forks_url: https://api.github.com/repos/beiyuouo/EyeAgent/forks
+          full_name: beiyuouo/EyeAgent
+          git_commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/tags{/sha}
+          git_url: git://github.com/beiyuouo/EyeAgent.git
+          has_discussions: false
+          has_downloads: true
+          has_issues: true
+          has_pages: false
+          has_projects: true
+          has_wiki: true
+          homepage: null
+          hooks_url: https://api.github.com/repos/beiyuouo/EyeAgent/hooks
+          html_url: https://github.com/beiyuouo/EyeAgent
+          id: 939172459
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/events{/number}
+          issues_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues{/number}
+          keys_url: https://api.github.com/repos/beiyuouo/EyeAgent/keys{/key_id}
+          labels_url: https://api.github.com/repos/beiyuouo/EyeAgent/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/beiyuouo/EyeAgent/languages
+          license:
+            key: apache-2.0
+            name: Apache License 2.0
+            node_id: MDc6TGljZW5zZTI=
+            spdx_id: Apache-2.0
+            url: https://api.github.com/licenses/apache-2.0
+          merges_url: https://api.github.com/repos/beiyuouo/EyeAgent/merges
+          milestones_url: https://api.github.com/repos/beiyuouo/EyeAgent/milestones{/number}
+          mirror_url: null
+          name: EyeAgent
+          node_id: R_kgDON_qiaw
+          notifications_url: https://api.github.com/repos/beiyuouo/EyeAgent/notifications{?since,all,participating}
+          open_issues: 1
+          open_issues_count: 1
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+            events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+            followers_url: https://api.github.com/users/beiyuouo/followers
+            following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+            gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/beiyuouo
+            id: 44976445
+            login: beiyuouo
+            node_id: MDQ6VXNlcjQ0OTc2NDQ1
+            organizations_url: https://api.github.com/users/beiyuouo/orgs
+            received_events_url: https://api.github.com/users/beiyuouo/received_events
+            repos_url: https://api.github.com/users/beiyuouo/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+            type: User
+            url: https://api.github.com/users/beiyuouo
+            user_view_type: public
+          private: true
+          pulls_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls{/number}
+          pushed_at: '2025-05-24T13:47:32Z'
+          releases_url: https://api.github.com/repos/beiyuouo/EyeAgent/releases{/id}
+          size: 49567
+          ssh_url: git@github.com:beiyuouo/EyeAgent.git
+          stargazers_count: 1
+          stargazers_url: https://api.github.com/repos/beiyuouo/EyeAgent/stargazers
+          statuses_url: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscribers
+          subscription_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscription
+          svn_url: https://github.com/beiyuouo/EyeAgent
+          tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/tags
+          teams_url: https://api.github.com/repos/beiyuouo/EyeAgent/teams
+          topics: []
+          trees_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/trees{/sha}
+          updated_at: '2025-05-24T13:47:35Z'
+          url: https://api.github.com/repos/beiyuouo/EyeAgent
+          visibility: private
+          watchers: 1
+          watchers_count: 1
+          web_commit_signoff_required: false
+        sha: ebf786503118602b2cf2f3c3f68eadebd220cb74
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+          events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+          followers_url: https://api.github.com/users/beiyuouo/followers
+          following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+          gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/beiyuouo
+          id: 44976445
+          login: beiyuouo
+          node_id: MDQ6VXNlcjQ0OTc2NDQ1
+          organizations_url: https://api.github.com/users/beiyuouo/orgs
+          received_events_url: https://api.github.com/users/beiyuouo/received_events
+          repos_url: https://api.github.com/users/beiyuouo/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+          type: User
+          url: https://api.github.com/users/beiyuouo
+          user_view_type: public
+      html_url: https://github.com/beiyuouo/EyeAgent/pull/2
+      id: 2541782569
+      issue_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2
+      labels: []
+      locked: false
+      maintainer_can_modify: false
+      merge_commit_sha: null
+      mergeable: null
+      mergeable_state: unknown
+      merged: false
+      merged_at: null
+      merged_by: null
+      milestone: null
+      node_id: PR_kwDON_qia86XgIYp
+      number: 2
+      patch_url: https://github.com/beiyuouo/EyeAgent/pull/2.patch
+      rebaseable: null
+      requested_reviewers: []
+      requested_teams: []
+      review_comment_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/comments{/number}
+      review_comments: 0
+      review_comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/comments
+      state: open
+      statuses_url: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/ebf786503118602b2cf2f3c3f68eadebd220cb74
+      title: 'fix: vlm & llm'
+      updated_at: '2025-05-24T14:36:38Z'
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+        user_view_type: public
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PullRequestEvent
+'50102645744':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-24T14:37:56Z'
+  id: '50102645744'
+  payload:
+    action: closed
+    number: 2
+    pull_request:
+      _links:
+        comments:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2/comments
+        commits:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/commits
+        html:
+          href: https://github.com/beiyuouo/EyeAgent/pull/2
+        issue:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2
+        review_comment:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/comments{/number}
+        review_comments:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/comments
+        self:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2
+        statuses:
+          href: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/ebf786503118602b2cf2f3c3f68eadebd220cb74
+      active_lock_reason: null
+      additions: 52
+      assignee: null
+      assignees: []
+      author_association: OWNER
+      auto_merge: null
+      base:
+        label: beiyuouo:main
+        ref: main
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/beiyuouo/EyeAgent/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/beiyuouo/EyeAgent/assignees{/user}
+          blobs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/beiyuouo/EyeAgent/branches{/branch}
+          clone_url: https://github.com/beiyuouo/EyeAgent.git
+          collaborators_url: https://api.github.com/repos/beiyuouo/EyeAgent/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/comments{/number}
+          commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/commits{/sha}
+          compare_url: https://api.github.com/repos/beiyuouo/EyeAgent/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/beiyuouo/EyeAgent/contents/{+path}
+          contributors_url: https://api.github.com/repos/beiyuouo/EyeAgent/contributors
+          created_at: '2025-02-26T05:33:20Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/beiyuouo/EyeAgent/deployments
+          description: null
+          disabled: false
+          downloads_url: https://api.github.com/repos/beiyuouo/EyeAgent/downloads
+          events_url: https://api.github.com/repos/beiyuouo/EyeAgent/events
+          fork: false
+          forks: 0
+          forks_count: 0
+          forks_url: https://api.github.com/repos/beiyuouo/EyeAgent/forks
+          full_name: beiyuouo/EyeAgent
+          git_commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/tags{/sha}
+          git_url: git://github.com/beiyuouo/EyeAgent.git
+          has_discussions: false
+          has_downloads: true
+          has_issues: true
+          has_pages: false
+          has_projects: true
+          has_wiki: true
+          homepage: null
+          hooks_url: https://api.github.com/repos/beiyuouo/EyeAgent/hooks
+          html_url: https://github.com/beiyuouo/EyeAgent
+          id: 939172459
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/events{/number}
+          issues_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues{/number}
+          keys_url: https://api.github.com/repos/beiyuouo/EyeAgent/keys{/key_id}
+          labels_url: https://api.github.com/repos/beiyuouo/EyeAgent/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/beiyuouo/EyeAgent/languages
+          license:
+            key: apache-2.0
+            name: Apache License 2.0
+            node_id: MDc6TGljZW5zZTI=
+            spdx_id: Apache-2.0
+            url: https://api.github.com/licenses/apache-2.0
+          merges_url: https://api.github.com/repos/beiyuouo/EyeAgent/merges
+          milestones_url: https://api.github.com/repos/beiyuouo/EyeAgent/milestones{/number}
+          mirror_url: null
+          name: EyeAgent
+          node_id: R_kgDON_qiaw
+          notifications_url: https://api.github.com/repos/beiyuouo/EyeAgent/notifications{?since,all,participating}
+          open_issues: 0
+          open_issues_count: 0
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+            events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+            followers_url: https://api.github.com/users/beiyuouo/followers
+            following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+            gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/beiyuouo
+            id: 44976445
+            login: beiyuouo
+            node_id: MDQ6VXNlcjQ0OTc2NDQ1
+            organizations_url: https://api.github.com/users/beiyuouo/orgs
+            received_events_url: https://api.github.com/users/beiyuouo/received_events
+            repos_url: https://api.github.com/users/beiyuouo/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+            type: User
+            url: https://api.github.com/users/beiyuouo
+            user_view_type: public
+          private: true
+          pulls_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls{/number}
+          pushed_at: '2025-05-24T13:47:32Z'
+          releases_url: https://api.github.com/repos/beiyuouo/EyeAgent/releases{/id}
+          size: 49567
+          ssh_url: git@github.com:beiyuouo/EyeAgent.git
+          stargazers_count: 1
+          stargazers_url: https://api.github.com/repos/beiyuouo/EyeAgent/stargazers
+          statuses_url: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscribers
+          subscription_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscription
+          svn_url: https://github.com/beiyuouo/EyeAgent
+          tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/tags
+          teams_url: https://api.github.com/repos/beiyuouo/EyeAgent/teams
+          topics: []
+          trees_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/trees{/sha}
+          updated_at: '2025-05-24T13:47:35Z'
+          url: https://api.github.com/repos/beiyuouo/EyeAgent
+          visibility: private
+          watchers: 1
+          watchers_count: 1
+          web_commit_signoff_required: false
+        sha: 48c182719688dacd6ada973a834f68c88f4ef1d3
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+          events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+          followers_url: https://api.github.com/users/beiyuouo/followers
+          following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+          gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/beiyuouo
+          id: 44976445
+          login: beiyuouo
+          node_id: MDQ6VXNlcjQ0OTc2NDQ1
+          organizations_url: https://api.github.com/users/beiyuouo/orgs
+          received_events_url: https://api.github.com/users/beiyuouo/received_events
+          repos_url: https://api.github.com/users/beiyuouo/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+          type: User
+          url: https://api.github.com/users/beiyuouo
+          user_view_type: public
+      body: null
+      changed_files: 2
+      closed_at: '2025-05-24T14:37:55Z'
+      comments: 0
+      comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2/comments
+      commits: 1
+      commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/commits
+      created_at: '2025-05-24T14:36:38Z'
+      deletions: 44
+      diff_url: https://github.com/beiyuouo/EyeAgent/pull/2.diff
+      draft: false
+      head:
+        label: beiyuouo:vlm
+        ref: vlm
+        repo:
+          allow_forking: true
+          archive_url: https://api.github.com/repos/beiyuouo/EyeAgent/{archive_format}{/ref}
+          archived: false
+          assignees_url: https://api.github.com/repos/beiyuouo/EyeAgent/assignees{/user}
+          blobs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/blobs{/sha}
+          branches_url: https://api.github.com/repos/beiyuouo/EyeAgent/branches{/branch}
+          clone_url: https://github.com/beiyuouo/EyeAgent.git
+          collaborators_url: https://api.github.com/repos/beiyuouo/EyeAgent/collaborators{/collaborator}
+          comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/comments{/number}
+          commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/commits{/sha}
+          compare_url: https://api.github.com/repos/beiyuouo/EyeAgent/compare/{base}...{head}
+          contents_url: https://api.github.com/repos/beiyuouo/EyeAgent/contents/{+path}
+          contributors_url: https://api.github.com/repos/beiyuouo/EyeAgent/contributors
+          created_at: '2025-02-26T05:33:20Z'
+          default_branch: main
+          deployments_url: https://api.github.com/repos/beiyuouo/EyeAgent/deployments
+          description: null
+          disabled: false
+          downloads_url: https://api.github.com/repos/beiyuouo/EyeAgent/downloads
+          events_url: https://api.github.com/repos/beiyuouo/EyeAgent/events
+          fork: false
+          forks: 0
+          forks_count: 0
+          forks_url: https://api.github.com/repos/beiyuouo/EyeAgent/forks
+          full_name: beiyuouo/EyeAgent
+          git_commits_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/commits{/sha}
+          git_refs_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/refs{/sha}
+          git_tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/tags{/sha}
+          git_url: git://github.com/beiyuouo/EyeAgent.git
+          has_discussions: false
+          has_downloads: true
+          has_issues: true
+          has_pages: false
+          has_projects: true
+          has_wiki: true
+          homepage: null
+          hooks_url: https://api.github.com/repos/beiyuouo/EyeAgent/hooks
+          html_url: https://github.com/beiyuouo/EyeAgent
+          id: 939172459
+          is_template: false
+          issue_comment_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/comments{/number}
+          issue_events_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/events{/number}
+          issues_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues{/number}
+          keys_url: https://api.github.com/repos/beiyuouo/EyeAgent/keys{/key_id}
+          labels_url: https://api.github.com/repos/beiyuouo/EyeAgent/labels{/name}
+          language: Python
+          languages_url: https://api.github.com/repos/beiyuouo/EyeAgent/languages
+          license:
+            key: apache-2.0
+            name: Apache License 2.0
+            node_id: MDc6TGljZW5zZTI=
+            spdx_id: Apache-2.0
+            url: https://api.github.com/licenses/apache-2.0
+          merges_url: https://api.github.com/repos/beiyuouo/EyeAgent/merges
+          milestones_url: https://api.github.com/repos/beiyuouo/EyeAgent/milestones{/number}
+          mirror_url: null
+          name: EyeAgent
+          node_id: R_kgDON_qiaw
+          notifications_url: https://api.github.com/repos/beiyuouo/EyeAgent/notifications{?since,all,participating}
+          open_issues: 0
+          open_issues_count: 0
+          owner:
+            avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+            events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+            followers_url: https://api.github.com/users/beiyuouo/followers
+            following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+            gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+            gravatar_id: ''
+            html_url: https://github.com/beiyuouo
+            id: 44976445
+            login: beiyuouo
+            node_id: MDQ6VXNlcjQ0OTc2NDQ1
+            organizations_url: https://api.github.com/users/beiyuouo/orgs
+            received_events_url: https://api.github.com/users/beiyuouo/received_events
+            repos_url: https://api.github.com/users/beiyuouo/repos
+            site_admin: false
+            starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+            subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+            type: User
+            url: https://api.github.com/users/beiyuouo
+            user_view_type: public
+          private: true
+          pulls_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls{/number}
+          pushed_at: '2025-05-24T13:47:32Z'
+          releases_url: https://api.github.com/repos/beiyuouo/EyeAgent/releases{/id}
+          size: 49567
+          ssh_url: git@github.com:beiyuouo/EyeAgent.git
+          stargazers_count: 1
+          stargazers_url: https://api.github.com/repos/beiyuouo/EyeAgent/stargazers
+          statuses_url: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/{sha}
+          subscribers_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscribers
+          subscription_url: https://api.github.com/repos/beiyuouo/EyeAgent/subscription
+          svn_url: https://github.com/beiyuouo/EyeAgent
+          tags_url: https://api.github.com/repos/beiyuouo/EyeAgent/tags
+          teams_url: https://api.github.com/repos/beiyuouo/EyeAgent/teams
+          topics: []
+          trees_url: https://api.github.com/repos/beiyuouo/EyeAgent/git/trees{/sha}
+          updated_at: '2025-05-24T13:47:35Z'
+          url: https://api.github.com/repos/beiyuouo/EyeAgent
+          visibility: private
+          watchers: 1
+          watchers_count: 1
+          web_commit_signoff_required: false
+        sha: ebf786503118602b2cf2f3c3f68eadebd220cb74
+        user:
+          avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+          events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+          followers_url: https://api.github.com/users/beiyuouo/followers
+          following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+          gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+          gravatar_id: ''
+          html_url: https://github.com/beiyuouo
+          id: 44976445
+          login: beiyuouo
+          node_id: MDQ6VXNlcjQ0OTc2NDQ1
+          organizations_url: https://api.github.com/users/beiyuouo/orgs
+          received_events_url: https://api.github.com/users/beiyuouo/received_events
+          repos_url: https://api.github.com/users/beiyuouo/repos
+          site_admin: false
+          starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+          type: User
+          url: https://api.github.com/users/beiyuouo
+          user_view_type: public
+      html_url: https://github.com/beiyuouo/EyeAgent/pull/2
+      id: 2541782569
+      issue_url: https://api.github.com/repos/beiyuouo/EyeAgent/issues/2
+      labels: []
+      locked: false
+      maintainer_can_modify: false
+      merge_commit_sha: 32a5fd7897abbc2c0d61c78097ffae9493aba4f9
+      mergeable: null
+      mergeable_state: unknown
+      merged: true
+      merged_at: '2025-05-24T14:37:55Z'
+      merged_by:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+        user_view_type: public
+      milestone: null
+      node_id: PR_kwDON_qia86XgIYp
+      number: 2
+      patch_url: https://github.com/beiyuouo/EyeAgent/pull/2.patch
+      rebaseable: null
+      requested_reviewers: []
+      requested_teams: []
+      review_comment_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/comments{/number}
+      review_comments: 0
+      review_comments_url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2/comments
+      state: closed
+      statuses_url: https://api.github.com/repos/beiyuouo/EyeAgent/statuses/ebf786503118602b2cf2f3c3f68eadebd220cb74
+      title: 'fix: vlm & llm'
+      updated_at: '2025-05-24T14:37:56Z'
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/pulls/2
+      user:
+        avatar_url: https://avatars.githubusercontent.com/u/44976445?v=4
+        events_url: https://api.github.com/users/beiyuouo/events{/privacy}
+        followers_url: https://api.github.com/users/beiyuouo/followers
+        following_url: https://api.github.com/users/beiyuouo/following{/other_user}
+        gists_url: https://api.github.com/users/beiyuouo/gists{/gist_id}
+        gravatar_id: ''
+        html_url: https://github.com/beiyuouo
+        id: 44976445
+        login: beiyuouo
+        node_id: MDQ6VXNlcjQ0OTc2NDQ1
+        organizations_url: https://api.github.com/users/beiyuouo/orgs
+        received_events_url: https://api.github.com/users/beiyuouo/received_events
+        repos_url: https://api.github.com/users/beiyuouo/repos
+        site_admin: false
+        starred_url: https://api.github.com/users/beiyuouo/starred{/owner}{/repo}
+        subscriptions_url: https://api.github.com/users/beiyuouo/subscriptions
+        type: User
+        url: https://api.github.com/users/beiyuouo
+        user_view_type: public
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PullRequestEvent
+'50102645904':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-24T14:37:57Z'
+  id: '50102645904'
+  payload:
+    before: 48c182719688dacd6ada973a834f68c88f4ef1d3
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: false
+      message: 'fix: vlm & llm'
+      sha: ebf786503118602b2cf2f3c3f68eadebd220cb74
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/ebf786503118602b2cf2f3c3f68eadebd220cb74
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'Merge pull request #2 from beiyuouo/vlm
+
+
+        fix: vlm & llm'
+      sha: 32a5fd7897abbc2c0d61c78097ffae9493aba4f9
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/32a5fd7897abbc2c0d61c78097ffae9493aba4f9
+    distinct_size: 1
+    head: 32a5fd7897abbc2c0d61c78097ffae9493aba4f9
+    push_id: 24490601273
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
+'50102649154':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-24T14:38:13Z'
+  id: '50102649154'
+  payload:
+    before: 32a5fd7897abbc2c0d61c78097ffae9493aba4f9
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: update multidis'
+      sha: d31f9bad158ddf00ac5db7087d88124bb960351f
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/d31f9bad158ddf00ac5db7087d88124bb960351f
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: Merge branch 'main' of https://github.com/beiyuouo/MedRAE-main into
+        main
+      sha: f710b8e602f9ffd70c80cfbc5b69d6e5219020d7
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/f710b8e602f9ffd70c80cfbc5b69d6e5219020d7
+    distinct_size: 2
+    head: f710b8e602f9ffd70c80cfbc5b69d6e5219020d7
+    push_id: 24490603444
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
+'50102898504':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-24T14:59:26Z'
+  id: '50102898504'
+  payload:
+    before: f710b8e602f9ffd70c80cfbc5b69d6e5219020d7
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: benchmark'
+      sha: 7763fffbf63760665854d2037c5f0dd0e573e409
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/7763fffbf63760665854d2037c5f0dd0e573e409
+    distinct_size: 1
+    head: 7763fffbf63760665854d2037c5f0dd0e573e409
+    push_id: 24490768107
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
