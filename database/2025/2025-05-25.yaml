@@ -1,0 +1,32 @@
+'50112055088':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-25T06:22:36Z'
+  id: '50112055088'
+  payload:
+    before: 7763fffbf63760665854d2037c5f0dd0e573e409
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: preprocessing'
+      sha: 528b456671931fda41ad6da567072fa516c2aba3
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/528b456671931fda41ad6da567072fa516c2aba3
+    distinct_size: 1
+    head: 528b456671931fda41ad6da567072fa516c2aba3
+    push_id: 24496948421
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
