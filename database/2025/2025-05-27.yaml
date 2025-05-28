@@ -1,0 +1,46 @@
+'50195020917':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-27T14:50:37Z'
+  id: '50195020917'
+  payload:
+    before: 8d540cfc24de71e51f0af9d682293fcb27e889bf
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: polish code'
+      sha: f55c3e7eb391dd47d6ccacb0b38b25c8dda1a4b0
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/f55c3e7eb391dd47d6ccacb0b38b25c8dda1a4b0
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: api'
+      sha: c0633860afa940864d113169c30025f3f809ff38
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/c0633860afa940864d113169c30025f3f809ff38
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: api'
+      sha: 1a3bb729de4659ba530f22dcfc945612469d5c27
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/1a3bb729de4659ba530f22dcfc945612469d5c27
+    distinct_size: 3
+    head: 1a3bb729de4659ba530f22dcfc945612469d5c27
+    push_id: 24540406162
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 3
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
