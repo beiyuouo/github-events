@@ -1,0 +1,39 @@
+'50229682428':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-05-28T09:33:35Z'
+  id: '50229682428'
+  payload:
+    before: 1a3bb729de4659ba530f22dcfc945612469d5c27
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: cfp quality for benchmark'
+      sha: 6921a1805613a390f217cbcb7de4049d7e49a552
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/6921a1805613a390f217cbcb7de4049d7e49a552
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: api upload'
+      sha: db3730f750ff70928e297fe4129966909d7c3bf9
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/db3730f750ff70928e297fe4129966909d7c3bf9
+    distinct_size: 2
+    head: db3730f750ff70928e297fe4129966909d7c3bf9
+    push_id: 24557354938
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
