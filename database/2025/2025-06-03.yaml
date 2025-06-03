@@ -62,3 +62,67 @@
     name: beiyuouo/blog
     url: https://api.github.com/repos/beiyuouo/blog
   type: PushEvent
+'50444464295':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-03T08:25:23Z'
+  id: '50444464295'
+  payload:
+    before: 4b748ddc55e9e2bc7125f44d721a3c193ac6080a
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'chore: update'
+      sha: dd77a1de0fc9d82d7589f0b4d49210d81036f994
+      url: https://api.github.com/repos/beiyuouo/blog-source/commits/dd77a1de0fc9d82d7589f0b4d49210d81036f994
+    distinct_size: 1
+    head: dd77a1de0fc9d82d7589f0b4d49210d81036f994
+    push_id: 24667006616
+    ref: refs/heads/main
+    repository_id: 417769439
+    size: 1
+  public: false
+  repo:
+    id: 417769439
+    name: beiyuouo/blog-source
+    url: https://api.github.com/repos/beiyuouo/blog-source
+  type: PushEvent
+'50444491594':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-03T08:26:01Z'
+  id: '50444491594'
+  payload:
+    before: 2bd3e115043140b59b354e2effd3c6d6c5e7592c
+    commits:
+    - author:
+        email: beiyuouo@users.noreply.github.com
+        name: beiyuouo
+      distinct: true
+      message: Automated deployment @ 2025-06-03 16:25:57 Asia/Shanghai
+      sha: 71535cdbd30ff77e0c271112052e75a4246de80f
+      url: https://api.github.com/repos/beiyuouo/blog/commits/71535cdbd30ff77e0c271112052e75a4246de80f
+    distinct_size: 1
+    head: 71535cdbd30ff77e0c271112052e75a4246de80f
+    push_id: 24667019279
+    ref: refs/heads/main
+    repository_id: 417776586
+    size: 1
+  public: true
+  repo:
+    id: 417776586
+    name: beiyuouo/blog
+    url: https://api.github.com/repos/beiyuouo/blog
+  type: PushEvent
