@@ -1,0 +1,64 @@
+'50424159037':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-02T19:34:24Z'
+  id: '50424159037'
+  payload:
+    before: aafac895ce72353c9ca982882f825009d64c9f33
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: Bingjie YAN
+      distinct: true
+      message: 'chore: change name'
+      sha: 4b748ddc55e9e2bc7125f44d721a3c193ac6080a
+      url: https://api.github.com/repos/beiyuouo/blog-source/commits/4b748ddc55e9e2bc7125f44d721a3c193ac6080a
+    distinct_size: 1
+    head: 4b748ddc55e9e2bc7125f44d721a3c193ac6080a
+    push_id: 24657126065
+    ref: refs/heads/main
+    repository_id: 417769439
+    size: 1
+  public: false
+  repo:
+    id: 417769439
+    name: beiyuouo/blog-source
+    url: https://api.github.com/repos/beiyuouo/blog-source
+  type: PushEvent
+'50424179435':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-02T19:34:49Z'
+  id: '50424179435'
+  payload:
+    before: 5bfdbe3e917318aa8d0560c0c819745958b1a131
+    commits:
+    - author:
+        email: beiyuouo@users.noreply.github.com
+        name: beiyuouo
+      distinct: true
+      message: Automated deployment @ 2025-06-03 03:34:45 Asia/Shanghai
+      sha: 2bd3e115043140b59b354e2effd3c6d6c5e7592c
+      url: https://api.github.com/repos/beiyuouo/blog/commits/2bd3e115043140b59b354e2effd3c6d6c5e7592c
+    distinct_size: 1
+    head: 2bd3e115043140b59b354e2effd3c6d6c5e7592c
+    push_id: 24657136427
+    ref: refs/heads/main
+    repository_id: 417776586
+    size: 1
+  public: true
+  repo:
+    id: 417776586
+    name: beiyuouo/blog
+    url: https://api.github.com/repos/beiyuouo/blog
+  type: PushEvent
