@@ -126,3 +126,35 @@
     name: beiyuouo/blog
     url: https://api.github.com/repos/beiyuouo/blog
   type: PushEvent
+'50453689893':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-03T11:52:24Z'
+  id: '50453689893'
+  payload:
+    before: 07a8ab6db9492ae53970d9204fc6a4beb3a7821e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: benchmark ophthalvqa'
+      sha: 91a35fd7d0417122ac26d309dc39f959860db963
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/91a35fd7d0417122ac26d309dc39f959860db963
+    distinct_size: 1
+    head: 91a35fd7d0417122ac26d309dc39f959860db963
+    push_id: 24671394470
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
