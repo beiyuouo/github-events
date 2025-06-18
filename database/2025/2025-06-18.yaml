@@ -1,0 +1,78 @@
+'51022774515':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-17T19:57:01Z'
+  id: '51022774515'
+  payload:
+    before: eba0ed6db06d019b8a47482ab9261f287842c83f
+    commits:
+    - author:
+        email: bj.yan@ieee.org
+        name: Bingjie Yan
+      distinct: true
+      message: 'build: add specific clf models'
+      sha: 9a35c229de77273efa58c39a922e44773d2aff90
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/9a35c229de77273efa58c39a922e44773d2aff90
+    distinct_size: 1
+    head: 9a35c229de77273efa58c39a922e44773d2aff90
+    push_id: 24957951647
+    ref: refs/heads/multidis
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
+'51022988261':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-17T20:02:49Z'
+  id: '51022988261'
+  payload:
+    before: 41432d160d828fe4d0537acc5c561043b791dfda
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: seg jpeg'
+      sha: ec336c4865e6dbadbcf96eb90764ccd62c44d5d0
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/ec336c4865e6dbadbcf96eb90764ccd62c44d5d0
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: zhcn'
+      sha: 4f58d6d81441703f6260595b0b9377a466bd88e8
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/4f58d6d81441703f6260595b0b9377a466bd88e8
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: chore
+      sha: 4d9ec2527f9bb0526de053645e9005ec16bea933
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/4d9ec2527f9bb0526de053645e9005ec16bea933
+    distinct_size: 3
+    head: 4d9ec2527f9bb0526de053645e9005ec16bea933
+    push_id: 24958058373
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 3
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
