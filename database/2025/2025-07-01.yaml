@@ -30,3 +30,42 @@
     name: beiyuouo/EyeAgent
     url: https://api.github.com/repos/beiyuouo/EyeAgent
   type: PushEvent
+'51535164071':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-07-01T04:13:30Z'
+  id: '51535164071'
+  payload:
+    before: 271d0f64f2af8021e8042a062c77f45160983d04
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: disc cup ratio'
+      sha: a0c664ff3eb56694b7e9076450e20ea0928ab382
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/a0c664ff3eb56694b7e9076450e20ea0928ab382
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: change to en'
+      sha: 98fc39c90663275c5d53fc55d98a651d88c82564
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/98fc39c90663275c5d53fc55d98a651d88c82564
+    distinct_size: 2
+    head: 98fc39c90663275c5d53fc55d98a651d88c82564
+    push_id: 25218618605
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 2
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
