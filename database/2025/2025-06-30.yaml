@@ -30,3 +30,35 @@
     name: beiyuouo/EyeAgent
     url: https://api.github.com/repos/beiyuouo/EyeAgent
   type: PushEvent
+'51513836495':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-06-30T15:53:27Z'
+  id: '51513836495'
+  payload:
+    before: 570ec9527a6eb6153f435e840bf023a04d93be37
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: gen3d dataset'
+      sha: b8cb3544640fb78a5862474717d27619fc90fbe5
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/b8cb3544640fb78a5862474717d27619fc90fbe5
+    distinct_size: 1
+    head: b8cb3544640fb78a5862474717d27619fc90fbe5
+    push_id: 25208297175
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
