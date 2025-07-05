@@ -1,0 +1,18 @@
+'51718456342':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-07-05T02:19:30Z'
+  id: '51718456342'
+  payload:
+    action: started
+  public: true
+  repo:
+    id: 926861272
+    name: dzhng/deep-research
+    url: https://api.github.com/repos/dzhng/deep-research
+  type: WatchEvent
