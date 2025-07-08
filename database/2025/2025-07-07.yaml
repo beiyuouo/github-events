@@ -1,0 +1,32 @@
+'51785329793':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-07-07T15:59:52Z'
+  id: '51785329793'
+  payload:
+    before: 1a7edae79fdeeab9818b105d330bb9506ae83688
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: RIBVQA'
+      sha: 228b2b2f236c097ac41d07a2937f11457c32dfea
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/228b2b2f236c097ac41d07a2937f11457c32dfea
+    distinct_size: 1
+    head: 228b2b2f236c097ac41d07a2937f11457c32dfea
+    push_id: 25345328190
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
