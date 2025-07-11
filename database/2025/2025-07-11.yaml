@@ -1,0 +1,85 @@
+'51964516621':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-07-11T08:20:57Z'
+  id: '51964516621'
+  payload:
+    before: b4a512cca92bde8e1f0fe87369cdb556f55382ca
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'chore: structure merge strategy'
+      sha: 9b846a3d60ef36c79ff8ca78ffd4657d00238c4e
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/9b846a3d60ef36c79ff8ca78ffd4657d00238c4e
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: legend, ratio'
+      sha: 724e09752f70ec3f25d6a207e4b4671f182a677d
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/724e09752f70ec3f25d6a207e4b4671f182a677d
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: ablation (full, reflection)'
+      sha: 9fbff8c9356bed86dfc022b19ea4e3865348367a
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/9fbff8c9356bed86dfc022b19ea4e3865348367a
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: unexcepted tools call'
+      sha: 15de0aa6a1be0a877469aedcac938171cf50634e
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/15de0aa6a1be0a877469aedcac938171cf50634e
+    distinct_size: 4
+    head: 15de0aa6a1be0a877469aedcac938171cf50634e
+    push_id: 25432568527
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 4
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
+'51965379914':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-07-11T08:42:22Z'
+  id: '51965379914'
+  payload:
+    before: 15de0aa6a1be0a877469aedcac938171cf50634e
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: add oct'
+      sha: 147647f603c8f819ed4c57efbbc7687a271b3e00
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/147647f603c8f819ed4c57efbbc7687a271b3e00
+    distinct_size: 1
+    head: 147647f603c8f819ed4c57efbbc7687a271b3e00
+    push_id: 25432967187
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 1
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
