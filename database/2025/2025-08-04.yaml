@@ -1,0 +1,53 @@
+'52901409209':
+  actor:
+    avatar_url: https://avatars.githubusercontent.com/u/44976445?
+    display_login: beiyuouo
+    gravatar_id: ''
+    id: 44976445
+    login: beiyuouo
+    url: https://api.github.com/users/beiyuouo
+  created_at: '2025-08-04T07:19:39Z'
+  id: '52901409209'
+  payload:
+    before: 82e2680f80ca95c9ee6972067873884cfee27eee
+    commits:
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'fix: task'
+      sha: 6ec0c0f69ab95b989d541bf9e9f6de61e92da108
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/6ec0c0f69ab95b989d541bf9e9f6de61e92da108
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: add cfp multidis'
+      sha: e93e2a5d08f77988ad97cb7a453fb4d21711b210
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/e93e2a5d08f77988ad97cb7a453fb4d21711b210
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: oct_multidis'
+      sha: 641bdf678af1c45c89d16e00eb074ea78fca5fa1
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/641bdf678af1c45c89d16e00eb074ea78fca5fa1
+    - author:
+        email: bj.yan.pa@qq.com
+        name: beiyuouo
+      distinct: true
+      message: 'build: tool ablation'
+      sha: e39599332e6aae01ad455dc2755e92d5aa618c99
+      url: https://api.github.com/repos/beiyuouo/EyeAgent/commits/e39599332e6aae01ad455dc2755e92d5aa618c99
+    distinct_size: 4
+    head: e39599332e6aae01ad455dc2755e92d5aa618c99
+    push_id: 25908259513
+    ref: refs/heads/main
+    repository_id: 939172459
+    size: 4
+  public: false
+  repo:
+    id: 939172459
+    name: beiyuouo/EyeAgent
+    url: https://api.github.com/repos/beiyuouo/EyeAgent
+  type: PushEvent
